@@ -1,0 +1,656 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta charset="UTF-8" />
+  <meta content="width=device-width" name="viewport" />
+  <title>W3C Vision and Strategy</title>
+  <link rel="stylesheet" href="../Templates/AC-2021-slides.css" />
+  <!-- To use the Shower framework, include the following two scripts: -->
+  <script src="../Templates/shower.js"></script>
+  <script src="../Templates/iframe-fixup.js"></script>
+  <!-- To use the b6+ framework, remove the two scripts above and use this: -->
+  <!-- <script src="../Templates/b6plus.js"></script> -->
+ </head>
+ <body class="shower fade-in">
+
+  <!--=============================================================
+			    Example slides
+  ==============================================================-->
+
+  <div class="progress">
+   <!-- Remove this element if you don't want a progress bar -->
+  </div>
+
+  <section class="slide cover clear" id="start" aria-label="slide">
+   <h1>W3C Vision <br>and Strategy</h1>
+   <address>Chris Wilson, Avneesh Singh, Tzviya Siegman, Tantek Çelik</address>
+   <h3>(AB Priority Projects)</h3>
+  </section>
+
+  <section class="slide" id="motivation" aria-label="slide">
+   <h2>Motivation for this work</h2>
+   <ul>
+    <li>Legal Entity transition is a good transformation point</li>
+    <li>Growing privacy concerns</li>
+    <li>Continued growth and importance of the web</li>
+    <li>The next billion users</li>
+   </ul>
+  </section>
+
+  <section class="slide" id="progression" aria-label="slide">
+   <h2>The Vision and the Organizational Strategy</h2>
+   <h3>We have been working on the progression of:</h3>
+   <ul>
+    <li>Values</li>
+    <li>Principles</li>
+    <li>Purpose (of the organization)</li>
+    <li>Strategic Goals</li>
+   </ul>
+  </section>
+
+  <section class="slide" id="work-in-public" aria-label="slide">
+   <h2>We are working in public</h2>
+   <h3><a href="https://github.com/WebStandardsFuture/Vision">github.com/WebStandardsFuture/Vision</a>
+   </h3>
+  </section>
+
+  <section class="slide" id="values" aria-label="slide">
+   <h2>Our Values</h2>
+   <h3>We believe in these core values of the Web:</h3>
+   <ul>
+    <li>the Web is for all humanity</li>
+    <li>the Web is designed for the good of its users</li>
+    <li>the Web must be safe for its users</li>
+    <li>there is one interoperable world-wide Web</li>
+   </ul>
+  </section>
+
+  <section class="slide" id="principles" aria-label="slide">
+   <h2>Our Principles</h2>
+   <h3>The W3C must function with these strategic principles:</h3>
+   <ul>
+    <li>Put needs of users above implementers, Members, or theoretical purity</li>
+    <li>Ensure transparency, equity and fairness</li>
+    <li>Ensure that the Web can work for everyone</li>
+    <li>Make the web more trustworthy, by improving user security and privacy</li>
+    <li>Ensure the Web does not favor centralization</li>
+    <li>Drive interoperability through testing, patent policy, open licenses</li>
+    <li>Encourage innovation and incubation in new areas and industries</li>
+   </ul>
+  </section>
+
+  <section class="slide" id="purpose" aria-label="slide">
+   <h2>Our Purpose</h2>
+   <h3>The W3C exists to:</h3>
+   <ul>
+    <li>Provide an open forum for discussions among organizations of all sizes</li>
+    <li>Ensure that standards are developed by consensus across the ecosystem</li>
+    <li>Maintain and develop the evolving, unified web architecture</li>
+    <li>Build/maintain respected relationships with governments and businesses</li>
+   </ul>
+  </section>
+
+  <section class="slide" id="goals" aria-label="slide">
+   <h2>Strategic Goals</h2>
+   <ul>
+    <li>Ensure that web platform improves users’ integrity, security and privacy.</li>
+    <li>Continue efforts on a11y/i18n to achieve the goal of web for everyone</li>
+    <li>Leverage incubation to evolve the web to address evolving user needs</li>
+    <li>Achieve worldwide participation, diversity and inclusion</li>
+    <li>Increase involvement of end users, content creators, developers etc.</li>
+    <li>Facilitate balance ensuring web standards address members’ needs</li>
+    <li>Establish and improve collaborative relationship with other organizations</li>
+   </ul>
+  </section>
+
+  <section class="slide" id="brand" aria-label="slide">
+   <h2>Brand Highlights</h2>
+   <ul>
+    <li>We are an open forum where diverse voices and industries come together, incubate and build global standards for web technologies.</li>
+    <li>We are socially responsible and committed to ensuring that the web is for everyone, emphasizing accessibility, internationalization, privacy, security and diversity.</li>
+    <li>We are committed to developing open and royalty free standards with high focus on interoperability and collective empowerment.</li>
+   </ul>
+  </section>
+
+  <section class="slide final clear" id="end" aria-label="slide">
+   <h2>Thank you!</h2>
+   <h3><a href="https://github.com/WebStandardsFuture/Vision">github.com/WebStandardsFuture/Vision</a></h3>
+  </section>
+
+  <!--=============================================================
+			     User manual
+  ==============================================================-->
+
+  <section class="comment" id="manual">
+   <h2>User manual</h2>
+
+   <p>This manual contains three sections: <a
+   href="#setting-up">creating a slide set</a>, <a
+   href="#features">writing slides</a> and <a
+   href="#presenting">presenting</a>.</p>
+
+   <h2 id=setting-up>Setting up your slides</h2>
+
+   <p>This is a template for slides for <a
+   href="https://www.w3.org/2021/04/AC/" >AC 2021</a>. It uses either
+   the <a href="http://shwr.me/" >Shower</a> script (version 3.0) or
+   the <a href="https://www.w3.org/Talks/Tools/b6plus/" >b6+</a>
+   script for the presentation and has a style sheet based on the AC
+   2021 visual style. (To enable b6+, uncomment the
+   <strong>script</strong> tag in the HTML source.)</p>
+
+   <p>All slides for AC 2021 have to be online. If you cannot put them
+   online yourself, you can download a zip (see below) with everything
+   needed to develop slides offline and ask <a
+   href="mailto:coralie@w3.org">Coralie</a> for help uploading the
+   slides once they are ready.</p>
+
+   <h3>Developing slides online</h3>
+
+   <p>If you develop your slides <strong>online</strong> (or in CVS),
+   then make a directory under <a
+   href="https://www.w3.org/2021/Talks/ac-slides/"
+   >https://www.w3.org/2021/Talks/ac-slides/</a>. Copy the <a
+   href="https://www.w3.org/2021/Talks/ac-slides/Templates/Overview.html"
+   >Overview.html</a> from <a
+   href="https://www.w3.org/2021/Talks/ac-slides/Templates/"
+   >https://www.w3.org/2021/Talks/ac-slides/Templates/</a> into your
+   directory and edit the content, or just use it as an example.</p>
+
+   <h3>Developing slides offline</h3>
+
+   <p>If you develop your slides <strong>offline</strong> (or plan to
+   present them without a network), then download this <a
+   href="https://www.w3.org/2021/Talks/ac-slides/Templates/AC-2021-slides-template.zip"
+   >zip file</a>. Unpacking it creates the following directories and
+   files:</p>
+
+   <ul class="tree">
+     <li><code><strong>AC-2021/</strong></code><br />
+      │</li>
+     <li> └─ <code><strong>Templates/</strong></code><br />
+          │</li>
+     <li>     ├─ <code><a
+     href="https://www.w3.org/2021/Talks/ac-slides/Templates/Overview.html"
+     >Overview.html</a> (this file)</code><br />
+          │</li>
+     <li>     ├─ <code><a
+     href="https://www.w3.org/2021/Talks/ac-slides/Templates/shower.js"
+     >shower.js</a> (a JavaScript file)</code><br />
+          │</li>
+     <li>     ├─ <code><a
+     href="https://www.w3.org/2021/Talks/ac-slides/Templates/iframe-fixup.js"
+     >iframe-fixup.js</a> (a JavaScript file)</code><br />
+          │</li>
+     <li>     ├─ <code><a
+     href="https://www.w3.org/2021/Talks/ac-slides/Templates/b6plus.js"
+     >b6plus.js</a> (an alternative JavaScript file)</code><br />
+          │</li>
+     <li>     ├─ <code><a
+     href="https://www.w3.org/2021/Talks/ac-slides/Templates/AC-2021-slides.css"
+     >AC-2021-slides.css</a> (a CSS file)</code><br />
+          │</li>
+     <li>     ├─ <code><a
+     href="https://www.w3.org/2021/Talks/ac-slides/Templates/AC-2021-slides-banner.svg"
+     >AC-2021-slides-banner.svg</a> (an SVG image)</code><br />
+          │</li>
+     <li>     ├─ <code><a
+     href="https://www.w3.org/2021/Talks/ac-slides/Templates/linen.png"
+     >linen.png</a> (a PNG image)</code><br />
+          │</li>
+     <li>     ├─ <code><a
+     href="https://www.w3.org/2021/Talks/ac-slides/Templates/people-icons-round.jpg"
+     >people-icons-round.jpg</a> (a JPEG image)</code><br />
+          │</li>
+     <li>     ├─ <code><a
+     href="https://www.w3.org/2021/Talks/ac-slides/Templates/piechart.png"
+     >piechart.png</a> (a PNG image)</code><br />
+          │</li>
+     <li>     ├─ <code><a
+     href="https://www.w3.org/2021/Talks/ac-slides/Templates/Lato-Bold.woff"
+     >Lato-Bold.woff</a> (a Web font)</code><br />
+          │</li>
+     <li>     ├─ <code><a
+     href="https://www.w3.org/2021/Talks/ac-slides/Templates/Lato-BoldItalic.woff"
+     >Lato-BoldItalic.woff</a> (a Web font)</code><br />
+          │</li>
+     <li>     ├─ <code><a
+     href="https://www.w3.org/2021/Talks/ac-slides/Templates/Lato-LightItalic.woff"
+     >Lato-LightItalic.woff</a> (a Web font)</code><br />
+          │</li>
+     <li>     ├─ <code><a
+     href="https://www.w3.org/2021/Talks/ac-slides/Templates/Lato-Light.woff"
+     >Lato-Light.woff</a> (a Web font)</code><br />
+          │</li>
+     <li>     ├─ <code><a
+     href="https://www.w3.org/2021/Talks/ac-slides/Templates/Montserrat-Black.woff"
+     >Montserrat-Black.woff</a> (a Web font)</code><br />
+          │</li>
+     <li>     └─ <code><a
+     href="https://www.w3.org/2021/Talks/ac-slides/Templates/Montserrat-BlackItalic.woff"
+     >Montserrat-BlackItalic.woff</a> (a Web font)</code></li>
+   </ul>
+
+   <p>Make a directory for your own slides under
+   <strong>AC-2021</strong>. You can copy the
+   <strong>Overview.html</strong> file there as a starting point, or
+   just use it as an example. If you make any images, put them in that
+   directory as well.</p>
+
+   <p>If you are able to upload your slides, put your directory with
+   all that it contains under <a
+   href="https://www.w3.org/2021/Talks/ac-slides/"
+   >https://www.w3.org/2021/Talks/ac-slides/</a>. There is no need to
+   upload the <strong>Templates</strong> directory. It is is already
+   there.</p>
+
+   <h2 id=features>Writing slides</h2>
+
+   <h3>Slides</h3>
+
+   <p>Each slide is a <strong>section</strong> element with a class of
+   <strong>slide</strong>:</p>
+
+   <pre>&lt;section class="slide">
+  ... slide content here...
+&lt;/section></pre>
+
+    <p>Inside the slides, use normal HTML elements (<strong>p, ul,
+    em,</strong> etc.).</p>
+
+    <h3>Slide numbers</h3>
+
+    <p>If a slide should <em>not</em> have a slide number and a logo,
+    add the class <strong>clear</strong>:</p>
+
+    <pre>&lt;section class="slide clear">
+  ... slide content here...
+&lt;/section></pre>
+
+    <p>On <a href="#title-slides">title slides</a>
+    and <a href="#final-slides">final slides</a> (see below), this
+    only removes the number, not the logo.</p>
+
+    <h3 id="title-slides">Title slides (cover slides)</h3>
+
+    <p>For cover slides (the title slide or separator slides between
+    parts of a presentation), add a class <strong>cover</strong>. You
+    can combine <strong>cover</strong> and
+    <strong>clear</strong>. E.g.:</p>
+
+    <pre>&lt;section class="slide cover clear">
+  &lt;h1>My presentations&lt;h1>
+  &lt;address>Peter W. Slidemaker&lt;/address>
+&lt;/section></pre>
+
+    <h3 id="final-slides">Final slide</h3>
+
+    <p>The class <strong>final</strong> is meant for a last slide,
+    e.g., for conclusions or thanks (but it may be used elsewhere,
+    too):</p>
+
+    <pre>&lt;section class="slide final clear">
+  &lt;h2>Conclusions&lt;h2>
+  …
+&lt;/section></pre>
+
+    <h3>Illustrations on the left or right</h3>
+
+    <p>Slides with narrower text and an illustration on the left or
+    right can be made by adding the class <strong>side</strong> to the
+    slide. Inside the slide there should be exactly one element that
+    also has a class of <strong>side</strong> (an image or some other
+    element). Two sizes are possible: normal (about 1/3 of the slide)
+    and big (about 2/3 of the slide).</p>
+
+    <p>To put an image on the left:</p>
+
+    <pre>&lt;section class="slide side">
+  &lt;img src="..." alt="..." class="side">
+  ... slide content here...
+&lt;/section></pre>
+
+    <p>To put the image on the right, add class <strong>right</strong>
+    (which may be abbreviated to <strong>r</strong>):</p>
+
+    <pre>&lt;section class="slide side <b>r</b>">
+  &lt;img src="..." alt="..." class="side">
+  ... slide content here...
+&lt;/section></pre>
+
+    <p>Add class <strong>big</strong> to the slide for a bigger image.
+    To put the image on the left:</p>
+
+    <pre>&lt;section class="slide side <b>big</b>">
+  &lt;img src="..." alt="..." class="side">
+  ... slide content here...
+&lt;/section></pre>
+
+    <p>And on the right:</p>
+
+    <pre>&lt;section class="slide side <b>r</b> big">
+  &lt;img src="..." alt="..." class="side">
+  ... slide content here...
+&lt;/section></pre>
+
+    <p>The image can be stretched to the edges of the slide by adding
+    a class <strong>cover</strong>. The image is not deformed. It is
+    scaled to be big enough to cover the image area and then either
+    the sides are cropped (if it is too wide) or the top and
+    bottom<sup><a href="#note2">*</a></sup>.</p>
+
+    <pre>&lt;section class="slide side big">
+  &lt;img src="..." alt="..." class="side <b>cover</b>">
+  ... slide content here...
+&lt;/section></pre>
+
+    <p class="note" id="note2">*) Note for advanced users: It is
+    possible to indicate which sides should be cropped: add an
+    attribute like <strong>style="object-position: 20% 60%"</strong>
+    to indicate that, of the amount to be cropped from the sides, 20%
+    should be cropped on the left and the remaining 80% on the right;
+    and of the amount to be cropped from the top and bottom, 60%
+    should come from the top and the remaining 40% from the bottom.
+    Thus, e.g., ‘0% 100%’ says never to crop anything from the left
+    (0%) if the image is too wide, and only to crop from the top
+    (100%) if the image is too tall. (The default corresponds to ‘50%
+    50%’, i.e., crop equal amounts from both sides.)</p>
+
+   <h3>Figures</h3>
+
+   <p>When information is in the form of an image (a diagram, a chart,
+    a screenshot, etc.), put it inside a <strong>figure</strong>
+    element. Add a <strong>figcaption</strong> if needed.</p>
+
+   <pre>&lt;figure&gt;&lt;img src="..." alt="..."&gt;&lt;figure&gt;</pre>
+
+   <p>If the image is not accessible, use a
+    <strong>details</strong> element instead and add a description,
+    like this:</p>
+
+   <pre>&lt;details&gt;
+ &lt;summary&gt;&lt;img src="..." alt="..."&gt;&lt;/summary&gt;
+ ... the same data as the image, but explained in text...
+&lt;/details&gt;</pre>
+
+   <p>The description becomes visible when the user clicks on the
+    image. (The <a href="#figures">slide above</a> shows an image of a
+    pie chart that is described by a table with the same data.)
+
+    <h3>Automatic slide shows</h3>
+
+    <p>Slides can be made to advance automatically after a given time,
+    by setting a <strong>data-timing</strong> attribute on them with a
+    value of <var>MM:SS</var> (minutes and seconds). E.g.,</p>
+
+    <pre>&lt;section class="slide" data-timing="1:03"></pre>
+
+    <p>This slide will remain on screen no longer than 1 minute and 3
+    seconds, after which the next slide will be shown.</p>
+
+    <h3>Progress bar</h3>
+
+    <p>If you want a progress bar during the slide presentation, add
+    an empty <strong>div</strong> with a class of
+    <strong>progress</strong>. It can be put before the first slide or
+    after the last, but there should be at most one such element in
+    the file:</p>
+
+    <pre>&lt;div class="progress">&lt;/div></pre>
+
+    <p>The progress bar will show as a thin red line along the top of
+    the slides. Its length increases from zero on the first slide to
+    100% on the last.</p>
+
+    <h3>Incremental display</h3>
+
+    <p>To progressively reveal elements on a slide, put a class of
+    <strong>next</strong> on all elements that should not be visible
+    right away. They will become visible one by one as you press the
+    spacebar or an arrow key. E.g.:</p>
+
+    <pre>&lt;ul>
+  &lt;li>This item is visible when the slide appears&lt;/li>
+  &lt;li class="next">This item is not immediately visible&lt;/li>
+  &lt;li class="next">This is the third item to appear&lt;/li>
+&lt;/ul>
+&lt;p class="next">This is the last element to appear&lt;/p></pre>
+
+    <h3>Two columns</h3>
+
+    <p>To put elements side by side in two columns, make an element (a
+    <strong>div, ul</strong> or any other element) with class
+    <strong>columns</strong>. The first child of that element will be
+    put in the left column, the second child in the right column. If
+    there are more children, the third will be in the left column
+    again, the fourth in the right, etc.</p>
+
+    <pre>&lt;ul class="columns">
+  &lt;li>First goes on the left&lt;/li>
+  &lt;li>Second goes on the right&lt;/li>
+&lt;/ul></pre>
+
+    <h3>Small text</h3>
+
+    <p>Less important text can be shown in a smaller font by giving it
+    a class of <strong>note</strong>:</p>
+
+    <pre>&lt;p class="note">Note that this is harder to read&lt;/p></pre>
+
+    <h3>Automatic line numbering</h3>
+
+    <p>Pre-formatted text (in a <strong>pre</strong>) can be given
+    line numbers by adding the class <strong>numbered</strong>:</p>
+
+    <pre>&lt;pre class="numbered"></pre>
+
+    <p>No more than 20 lines will be numbered. (In the normal font
+    size, a slide fits 13 lines.)</p>
+
+    <h3>3×3 Grid</h3>
+
+    <p>It is possible to treat the slide as a 3×3 grid and put
+    elements in the four corners, in the middle of each edge, or in
+    the center of the slide. This is done by giving the elements a
+    class of <strong>place</strong>. On its own,
+    <strong>place</strong> puts the element in the center. By adding
+    classes <strong>top, right, bottom</strong> and
+    <strong>left</strong> the element can be placed in one of the
+    eight other positions.</p>
+
+    <pre>&lt;div class="place">Put this in the center&lt;/div>
+&lt;div class="place bottom">Put this bottom center&lt;/div>
+&lt;div class="place top right">In the top right corner&lt;/div></pre>
+
+    <p>The direction classes can also be abbreviated to <strong>t, r,
+    b</strong> and <strong>l</strong>.</p>
+
+    <h3>Image overlays (background images)</h3>
+
+    <p>To put an image behind the text of a slide, use an
+    <strong>img</strong> with a class of <strong>cover</strong>:</p>
+
+    <pre>&lt;img class="cover" src="..." alt="..."></pre>
+
+    <p>The image will be stretched to fill the whole of the text area.
+    If the image doesn't fit exactly (wrong aspect ratio), the image
+    will be cropped.</p>
+
+    <p>With a class of <strong>fit</strong> instead of
+    <strong>cover</strong>, the image will be scaled but without
+    cropping. Instead there may be white bands on the sides or
+    above/below the image, if it doesn't fit exactly.</p>
+
+    <pre>&lt;img class="fit" src="..." alt="..."></pre>
+
+    <p>This works both for normal slides and title slides (slides with
+    a class of <strong>cover</strong>). The logo on the right is not
+    obscured by the image.</p>
+
+    <h3>White text</h3>
+
+    <p>If the overlay image is dark, it may be better to use white
+    text. That can be done by adding the class <strong>white</strong>
+    to the slide:</p>
+
+    <pre>&lt;section class="slide white"></pre>
+
+    <p>Other colors (blue titles, list bullets, links, etc.) are also
+    lighter on such slides.</p>
+
+    <h3>Slide transitions</h3>
+
+    <p>By default, each slide just replaces the previous one, but
+    there are several predefined slide transitions. You can set a
+    transition on the <strong>body</strong> element to apply it to all
+    slides:</p>
+
+    <pre>&lt;body class="shower fade-in"&gt;</pre>
+
+    <p>Or you can set it on individual slides, to apply only to the
+    transition between that slide and the next. (I.e., it doesn't
+    determine how the slide appears, but how it
+    <em>disappears.</em>)</p>
+
+    <pre>&lt;section class="slide wipe-left"&gt;</pre>
+
+    <p>You can set both a global transition and local ones. The global
+    transition applies to slides that do not have an explicit
+    transition set locally.</p>
+
+    <dl>
+     <dt>fade-in</dt>
+     <dd>The new slide appears faint at first and gets more opaque
+     until it completely obscures the previous slide.</dd>
+
+     <dt>slide-in</dt>
+     <dd>The new slide moves in from the left, while the previous
+     slide moves back to the left.</dd>
+
+     <dt>move-left</dt>
+     <dd>The new slides move in from the right while the old slide
+     moves out to the left.</dd>
+
+     <dt>move-up</dt>
+     <dd>The old slide moves up and the new slide moves in from the
+     bottom.</dd>
+
+     <dt>flip-up</dt>
+     <dd>A 3D effect: the bottom of the old slide is lifted up and the
+     slide is turned over to reveal the new slide on its back
+     side.</dd>
+
+     <dt>flip-left</dt>
+     <dd>Another 3D effect, but in this case the right side of the
+     slide is lifted up and the slide is flipped over to the left,
+     revealing the new slide on the back side.</dd>
+
+     <dt>center-out</dt>
+     <dd>A small circle appears in the middle of the old slide that
+     reveals the new slide. The circle grows until it covers the whole
+     slide.</dd>
+
+     <dt>wipe-left</dt>
+     <dd>The new slide moves in from the right, until it covers the
+     old slide.</dd>
+
+     <dt>zigzag-left</dt>
+     <dd>A zigzag pattern moves in from the right. To the left is the
+     old slide, to the right the new one.</dd>
+
+     <dt>zigzag-right</dt>
+     <dd>A zigzag pattern moves in from the left. To the left is the
+     new slide, to the right the old one.</dd>
+
+     <dt>cut-in</dt>
+     <dd>The new slide moves in from the top left and covers the old
+     slide.</dd>
+    </dl>
+
+    <h2 id=presenting>Presenting</h2>
+
+    <h3>Mouse gestures and keystrokes</h3>
+
+    <p>To present the slides, load them into a browser that supports
+    JavaScript and CSS and then click on the first slide. (If you are
+    using b6+ instead of Shower, double-click or press the ‘A’ key to
+    start the slide show.)</p>
+
+    <p>Navigate though the slides by pressing the spacebar, the arrow
+    keys or Page-up/Page-Down. The Home and End keys jump to the
+    first, resp. last slide.</p>
+
+    <p>To exit the presentation, press the Esc key.</p>
+
+    <p>The complete <a
+    href="https://github.com/shower/shower/blob/master/docs/shortcuts.md"
+    >list of key strokes</a> is in the Shower documentation. (For b6+,
+    see the <a
+    href="https://www.w3.org/Talks/Tools/b6plus/#navigation" >b6+
+    navigation keys &amp; gestures</a>.)</p>
+
+    <h3>Speaking guidelines</h2>
+
+    <p>The W3C's global audience is thankful to speakers for following
+    the essential guidelines:</p>
+
+    <ul>
+     <li>Your slides must be ready no later than <strong>12 April
+     2021</strong>.</li>
+
+     <li>Please use this <a
+     href="https://www.w3.org/2021/Talks/ac-slides/Templates/" >AC
+     2021 HTML slide template.</a> <sup>(<a
+     href="#footnote-2">*</a>)</sup></li>
+
+     <li>Make your slides accessible. There is <a
+     href="https://www.w3.org/WAI/teach-advocate/accessible-presentations/"
+     >information from the W3C</a> to help you do that.</li>
+
+     <li>Make text and illustration big enough that they're readable.</li>
+
+     <li>State the objective of your presentation.</li>
+
+     <li>Speak closely and directly into your microphone.</li>
+
+     <li>Face the audience and speak into the microphone.</li>
+
+     <li>Speak clearly.</li>
+
+     <li>Speak at a rate that people can follow easily.</li>
+
+     <li>Use simple language.</li>
+
+     <li>Expand acronyms.</li>
+
+     <li>Explain any necessary slang, jargon and idioms; avoid
+     superfluous ones.</li>
+
+     <li>State each slide number as you advance slides.</li>
+
+     <li>State a conclusion or wrap up with proposed next steps.</li>
+    </ul>
+
+    <p>These guidelines are crucial because they transcend language
+    barriers, foster comprehension, provide people the time to get
+    acquainted with the subject by reading the slides in advance, and
+    in some cases translate them into other languages, in other cases
+    share and discuss them with colleagues before traveling to the
+    meeting. You can read them in full in the <a
+    href="https://www.w3.org/wiki/Speaker_Resources" >Speaker
+    Resources W3C public wiki.</a></p>
+
+    <p id="footnote-2">*) Please, ask <a
+    href="mailto:coralie@w3.org">Coralie</a> for help, including
+    putting your slides on the Web.</p>
+  </section>
+
+  <section class="comment">
+   <address>Created 22 December 2020 by <a
+   href="mailto:bert@w3.org">Bert Bos</a>. Designed by Kenzo Ishida.
+   Last modified
+   $Date: 2021/02/26 14:33:17 $ by $Author: bbos $.</address>
+  </section>
+ </body>
+</html>
