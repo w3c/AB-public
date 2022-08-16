@@ -46,16 +46,6 @@ The W3C's purpose is to:
 *	Maintain and develop a unified Web architecture, which continues to address evolving use cases.
 * Build and maintain respected relationships with governments and businesses for providing credible advice.
 
-# Strategic Goals
-* Ensure efforts on accessibility and internationalization continue to achieve the goal of a Web for everyone.
-* Ensure that the evolving Web platform and Web technologies improve in integrity, security and privacy. We must revisit the current Web platform and explore how we can responsibly improve personal privacy for users. 
-* Evolve the extensible web architecture to empower industries and individuals to address the evolving user’s needs.
-* Improve efforts on new technology incubation, making it more structured and improving consensus-building among key stake holders.
-* Achieve worldwide participation, diversity and inclusion, establishing W3C as representative of the worldwide community.
-* Further improve the environment for facilitating balance, equity and cooperation among the participants from different industries, user groups and organizational sizes.
-* Increase involvement of under-represented key stakeholders such as end users, content creators, developers etc.
-* Establish and improve collaborative relationships with other organizations in the domain of Internet and Web standards.
-
 # Identity
 
 We are:
@@ -65,7 +55,19 @@ We are:
 
 These define the global brand of the W3C.
 
+# Strategic Goals
+
+* Ensure efforts on accessibility and internationalization continue to achieve the goal of a Web for everyone.
+* Ensure that the evolving Web platform and Web technologies improve in integrity, security and privacy. We must revisit the current Web platform and explore how we can responsibly improve personal privacy for users. 
+* Evolve the extensible web architecture to empower industries and individuals to address the evolving user’s needs.
+* Improve efforts on new technology incubation, making it more structured and improving consensus-building among key stake holders.
+* Achieve worldwide participation, diversity and inclusion, establishing W3C as representative of the worldwide community.
+* Further improve the environment for facilitating balance, equity and cooperation among the participants from different industries, user groups and organizational sizes.
+* Increase involvement of under-represented key stakeholders such as end users, content creators, developers etc.
+* Establish and improve collaborative relationships with other organizations in the domain of Internet and Web standards.
+
 # Acknowledgements and Supporting Material
+
 * This document is intended to be a stronger vision statement for the [W3C](https://w3.org/).  This is currently exposed as a work item of the [W3C Advisory Board](https://www.w3.org/2002/ab/), on [the AB wiki](https://www.w3.org/wiki/AB/2021_Priorities#Vision). 
 * This document is the result of many people's work, notably Chris Wilson, David Singer, Mike Champion, Tantek Çelik, Tzviya Siegman, Avneesh Singh and the rest of the Advisory Board.
 * This document builds on the basis of the Technical Architecture Group's excellent [Ethical Web Principles](https://www.w3.org/2001/tag/doc/ethical-web-principles/).  It is not intended to supplant that work nor redefine it, but fit into the same framework and promote many of the same goals.
