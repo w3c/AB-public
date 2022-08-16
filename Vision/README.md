@@ -41,9 +41,9 @@ The W3C will function with these strategic principles:
 
 The W3C's purpose is to:
 
-*	Provide an open forum for discussions for organizations of all sizes (from single-person companies to multi-nationals).
-*	Ensure that standards are developed with consensus of industry and key stakeholders.
-*	Maintain and develop a unified Web architecture, which continues to address evolving use cases.
+*	Provide an open forum for discussions for organizations of all sizes (from single-person companies to multi-nationals) and public feedback.
+*	Ensure that standards are openly developed with consensus of industry and key stakeholders.
+*	Maintain and develop a unified Web architecture, which continues to address evolving use cases for the general public.
 * Build and maintain respected relationships with governments and businesses for providing credible advice.
 
 # Identity
