@@ -32,8 +32,8 @@ We will continue to develop a world-wide web that
 * Puts the needs of users first: above authors, publishers, implementers, paying W3C Members, or theoretical purity.
 * Is trustworthy, by ensuring security and privacy for users. 
 * Does not favor centralization.
-* Is based on standards that are openly developed with consensus of industry and key stakeholders, standards rooted in a strong royalty-free patent policy and open copyright licenses, and focussed on interoperability and collective empowerment.
-* Addresses evolving user needs, empowers industries and individuals to evolve the extensible web architecture, and is unified and interoperable, supported by open test suites.
+* Implements a unified, extensible, Web architecture, which continues to address evolving use cases for the general public.
+* Is based on standards that are openly developed with consensus of industry and key stakeholders, standards rooted in a strong royalty-free patent policy and open copyright licenses, focussed on interoperability and collective empowerment, and supported by open test suites.
 
 # The Operating Principles of the Consortium
 
