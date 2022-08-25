@@ -7,7 +7,7 @@ The Web is a force for good; indeed, it has catalyzed major social changes. At t
 
 Technology is not neutral; new technologies facilitate new actions, and enable new possibilities. We are proud of the good enabled by our web technologies; we will take the responsibility to use our values both to assess the potential and actual impact of our work (especially harms caused by that work), and to optimize these technologies throughout their lifecycles.
 
-Our vision is for a World Wide Web that is more inclusive, and more respectful of its users: a Web that supports truth better than falsehood, people more than profits, cooperation and communication rather than division and conflict.
+Our vision is for a World Wide Web that is more inclusive, and more respectful of its users: a Web that supports truth better than falsehood, people more than profits, humanity rather than hate.
 
 We will improve the fundamental integrity of the Web platform. The Web will not only grow in scope and importance in our lives; it will grow in respect for its users, grow in the trust of its users, grow in its inclusion of all humanity as its users.
 
