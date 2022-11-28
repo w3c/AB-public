@@ -16,34 +16,61 @@ Our new vision is built on these twin pillars:
 * Our existing pillar, on which we built the web: the enormous potential of technological change.
 * Our new pillar for the years ahead: recognition and embodiment of fundamental values into the architecture of the web.
 
-# Our Values for the world-wide web
+## Vision
+What we envision web to be?
 
-These are the core values of the Web:
+One interoperable worldwide web, accessible and safe for everyone, good for the humanity; Implements a unified, extensible web architecture which continues to address the evolving user’s needs.
 
-* The Web is for all humanity.
-* The Web is designed for the good of its users.
-* The Web must be safe for its users.
-* There is one interoperable world-wide Web.
+## Purpose
+Why do we (W3C organization) exist?
 
-# Our action as a Consortium
+Develop the open web architecture and global standards for web technologies by bringing diverse voices from around the world and industries together, incubate and build industry wide consensus.
 
-We will continue to develop a world-wide web that
-* Works for everyone, striving for diversity and inclusion of participants from different geographical locations, cultures, languages, accessibility needs, gender identities, and more. We strongly emphasize accessibility, internationalization, privacy, security and diversity.
+## Mission
+(Highlighting the main focus on ethical values)
+
+Embed the ethical values in the Web platform while growing the web in the scope and the importance in everyone’s life.
+
+## Ethical values
+(The values which we intend to embed in the web)
+* Is trustworthy, ensures security and privacy for users.
+* Works for everyone, striving for diversity and inclusion of participants from different geographical locations, cultures, languages, accessibility needs, gender identities, and more. Continue to champion accessibility and internationalization as one of the core principles for the Web.
 * Puts the needs of users first: above authors, publishers, implementers, paying W3C Members, or theoretical purity.
-* Is trustworthy, by ensuring security and privacy for users. 
 * Does not favor centralization.
-* Implements a unified, extensible, Web architecture, which continues to address evolving use cases for the general public.
-* Is based on standards that are openly developed with consensus of industry and key stakeholders, standards rooted in a strong royalty-free patent policy and open copyright licenses, focussed on interoperability and collective empowerment, and supported by open test suites.
+* Is based on standards that are openly developed with consensus of industry and key stakeholders, standards rooted in a strong royalty-free patent policy and open copyright licenses, focused on interoperability and collective empowerment.
+* Encourages equity and fairness and prevents dominance by any person, company or interest group.
 
-# The Operating Principles of the Consortium
+## Goals for achieving the mission
+### Worldwide participation, diversity and inclusion
+* Strive for the broadest participation, along axes including worldwide participation, diversity and inclusion, and thus establishing W3C as representative of the worldwide community. 
+* Foster balance, equity and cooperation among the participants from different industries, user groups and organizational sizes.
+* Ensure transparency, equity and fairness. Our work should not exclusively be dominated by any person, company or interest group.
 
-In our operations and membership, we will:
-*	Provide an open forum, where diverse voices from around the world and industries come together, incubate and build consensus for global standards for Web technologies, including organizations of all sizes (from single-person companies to multi-nationals) and considering public feedback.
+### Evolution of the web platform
+* Evolve the extensible web architecture to empower industries and individuals to address the evolving user’s needs.
 * Encourage incubation in new areas and industries with open platforms for discussion, collaboration and innovation, making it more structured and improving consensus-building among key stake holders.
-* Strive for the broadest participation, along axes including worldwide participation, diversity and inclusion, facilitating balance, equity and cooperation among the participants from different industries, user groups and organizational sizes, and thus establishing W3C as representative of the whole community.
-* Increase involvement of under-represented key stakeholders such as end users, content creators, developers etc.
-* Ensure transparency, equity and fairness. Our work will not be exclusively dominated by any person, company or interest group.
+
+### Social values
+* The efforts on accessibility and internationalization should continue to achieve the goal of a Web for everyone.
+* The evolving Web platform and Web technologies should improve in integrity, security and privacy. We should revisit the current Web platform and explore how we can responsibly improve personal privacy for users.
+
+### Collaborations with key entities
 * Establish and improve collaborative relationships with other organizations in the domain of Internet and Web standards, including building and maintaining respected relationships with governments and businesses for providing credible advice.
+
+## Our Operating principles
+(These are derived from ethical values and open standards principles)
+* Diversity and inclusion
+* Trust: integrity, privacy and security
+* Web should be good for humanity
+* Openness and Interoperability
+* Users first
+* Balance and non-ownership (Standards activities are not exclusively dominated by any particular person, company or interest group, and we should continue ensure royalty free contributions)
+* Due process. Decisions are made with equity and fairness 
+* Transparency
+* Broad Consensus 
+* Collaboration and cooperation (among the members as well as with other standards organizations)
+* Collective empowerment.
+
 
 # Acknowledgements and Supporting Material
 
