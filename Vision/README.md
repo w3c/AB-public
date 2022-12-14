@@ -24,7 +24,6 @@ The W3C is an association where diverse voices from around the world and industr
 * This organization believes in diversity and inclusion of participants from different geographical locations, cultures, languages, accessibility needs, gender identities, and more. 
 * We strongly emphasize accessibility, internationalization, privacy, and security.
 * Our standards are rooted in a strong royalty-free patent policy and open copyright licenses, openly developed with consensus of industry and key stakeholders.
-* focussed on interoperability and collective empowerment, and supported by open test suites.
 
 # Mission of the W3C
 *	Provide an open forum, where diverse voices from around the world and industries come together, incubate and build consensus for global standards for Web technologies, including organizations of all sizes (from single-person companies to multi-nationals) and considering public feedback.
@@ -35,6 +34,7 @@ The W3C is an association where diverse voices from around the world and industr
 In our operations and membership, we will:
 * Is trustworthy, by ensuring security and privacy for users. 
 * Does not favor centralization.
+* focussed on interoperability and collective empowerment, and supported by open test suites.
 * Implements a unified, extensible, Web architecture, which continues to address evolving use cases for the general public.
 * Encourage incubation in new areas and industries with open platforms for discussion, collaboration and innovation, making it more structured and improving consensus-building among key stake holders.
 * Strive for the broadest participation, along axes including worldwide participation, diversity and inclusion, facilitating balance, equity and cooperation among the participants from different industries, user groups and organizational sizes, and thus establishing W3C as representative of the whole community.
