@@ -1,6 +1,4 @@
-A New Focus for the W3C: Improving the Web’s Integrity
-
-# Introduction
+## Introduction
 The World Wide Web was conceived more than 25 years ago as a tool for sharing information. It has become much more than that; it is a fundamental part of the lives of much of humanity, enabling access to information, education, commerce and shopping, social experiences, civic functions, entertainment, and more. 
 
 The Web is a force for good; indeed, it has catalyzed major social changes. At the same time, the Web's phenomenal success has led to many unintended consequences that inflict significant distress on society: openness and anonymity enable scams, phishing, and fraud. Ease of gathering personal information spawned business models that mined and sold detailed user behaviors, without people’s awareness or consent. The acceleration of global information sharing enabled misinformation to flourish, to be exploited for political or commercial gain, divide societies, and to incite hate.  We must do better.  We must take steps to address these unintended consequences in the standards we develop.
@@ -27,11 +25,11 @@ The W3C is an association where diverse voices from around the world and industr
 * We strongly emphasize accessibility, internationalization, privacy and security.
 * Our standards are rooted in a strong royalty-free patent policy and open copyright licenses, openly developed with consensus of industry and key stakeholders.
 
-# Mission and Purpose
+# The Mission of the W3C
 
 The fundamental purpose of the W3C is to provide an open forum, where diverse voices from around the world and industries come together, incubate and build consensus for global standards for Web technologies, including organizations of all sizes (from single-person companies to multi-nationals) and considering public feedback.
 
-As the W3C leads the Web forward, we must recognize and embody some fundamental values and principles into the architecture of the web.  We must become more principled in our execution of the vision of the Web.
+As the W3C leads the Web forward, our mission is to recognize and embody fundamental values and principles into the architecture of the web.  We must become more principled in our execution of the vision of the Web.
 
 # Principles and Values
 * We must ensure the Web is trustworthy, by ensuring security and privacy for users. 
