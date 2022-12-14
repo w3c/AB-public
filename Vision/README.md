@@ -23,7 +23,8 @@ The W3C is an association where diverse voices from around the world and industr
 * Puts the needs of users first: above authors, publishers, implementers, paying W3C Members, or theoretical purity.
 * Works for everyone, striving for diversity and inclusion of participants from different geographical locations, cultures, languages, accessibility needs, gender identities, and more. 
 * We strongly emphasize accessibility, internationalization, privacy, security and diversity.
-* Is based on standards that are openly developed with consensus of industry and key stakeholders, standards rooted in a strong royalty-free patent policy and open copyright licenses
+* Is based on standards that are openly developed with consensus of industry and key stakeholders, 
+* standards rooted in a strong royalty-free patent policy and open copyright licenses
 * focussed on interoperability and collective empowerment, and supported by open test suites.
 
 # Mission of the W3C
