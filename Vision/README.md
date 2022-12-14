@@ -31,6 +31,7 @@ We will continue to develop a world-wide web that
 * Is based on standards that are openly developed with consensus of industry and key stakeholders, standards rooted in a strong royalty-free patent policy and open copyright licenses, focussed on interoperability and collective empowerment, and supported by open test suites.
 
 # Mission of the W3C
+*	Provide an open forum, where diverse voices from around the world and industries come together, incubate and build consensus for global standards for Web technologies, including organizations of all sizes (from single-person companies to multi-nationals) and considering public feedback.
 
 # Principles and Values
 
@@ -38,7 +39,6 @@ In our operations and membership, we will:
 * Is trustworthy, by ensuring security and privacy for users. 
 * Does not favor centralization.
 * Implements a unified, extensible, Web architecture, which continues to address evolving use cases for the general public.
-*	Provide an open forum, where diverse voices from around the world and industries come together, incubate and build consensus for global standards for Web technologies, including organizations of all sizes (from single-person companies to multi-nationals) and considering public feedback.
 * Encourage incubation in new areas and industries with open platforms for discussion, collaboration and innovation, making it more structured and improving consensus-building among key stake holders.
 * Strive for the broadest participation, along axes including worldwide participation, diversity and inclusion, facilitating balance, equity and cooperation among the participants from different industries, user groups and organizational sizes, and thus establishing W3C as representative of the whole community.
 * Increase involvement of under-represented key stakeholders such as end users, content creators, developers etc.
