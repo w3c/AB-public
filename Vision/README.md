@@ -9,11 +9,6 @@ Our vision is for a World Wide Web that is more inclusive, and more respectful o
 
 We will improve the fundamental integrity of the Web platform. The Web will not only grow in scope and importance in our lives; it will grow in respect for its users, grow in the trust of its users, grow in its inclusion of all humanity as its users.
 
-Our new vision is built on these twin pillars:
-
-* Our existing pillar, on which we built the web: the enormous potential of technological change.
-* Our new pillar for the years ahead: recognition and embodiment of fundamental values into the architecture of the web.
-
 # Vision for the World-Wide Web
 
 These are the core values of the Web:
@@ -32,6 +27,7 @@ We will continue to develop a world-wide web that
 
 # Mission of the W3C
 *	Provide an open forum, where diverse voices from around the world and industries come together, incubate and build consensus for global standards for Web technologies, including organizations of all sizes (from single-person companies to multi-nationals) and considering public feedback.
+* Our new pillar for the years ahead: recognition and embodiment of fundamental values into the architecture of the web.
 
 # Principles and Values
 
