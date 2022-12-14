@@ -1,6 +1,4 @@
-A New Focus for the W3C: Improving the Web’s Integrity
-
-# Our vision for the World-Wide Web
+# Introduction
 The World Wide Web was conceived more than 25 years ago as a tool for sharing information. It has become much more than that; it is a fundamental part of the lives of much of humanity, enabling access to information, education, commerce and shopping, social experiences, civic functions, entertainment, and more. 
 
 The Web is a force for good; indeed, it has catalyzed major social changes. At the same time, the Web's phenomenal success has led to many unintended consequences that inflict significant distress on society: openness and anonymity enable scams, phishing, and fraud. Ease of gathering personal information spawned business models that mined and sold detailed user behaviors, without people’s awareness or consent. The acceleration of global information sharing enabled misinformation to flourish, to be exploited for political or commercial gain, divide societies, and to incite hate.  We must do better.  We must take steps to address these unintended consequences in the standards we develop.
@@ -16,7 +14,7 @@ Our new vision is built on these twin pillars:
 * Our existing pillar, on which we built the web: the enormous potential of technological change.
 * Our new pillar for the years ahead: recognition and embodiment of fundamental values into the architecture of the web.
 
-# Our Values for the world-wide web
+# Vision for the World-Wide Web
 
 These are the core values of the Web:
 
@@ -25,7 +23,7 @@ These are the core values of the Web:
 * The Web must be safe for its users.
 * There is one interoperable world-wide Web.
 
-# Our action as a Consortium
+# Vision for the W3C
 
 We will continue to develop a world-wide web that
 * Works for everyone, striving for diversity and inclusion of participants from different geographical locations, cultures, languages, accessibility needs, gender identities, and more. We strongly emphasize accessibility, internationalization, privacy, security and diversity.
@@ -35,7 +33,9 @@ We will continue to develop a world-wide web that
 * Implements a unified, extensible, Web architecture, which continues to address evolving use cases for the general public.
 * Is based on standards that are openly developed with consensus of industry and key stakeholders, standards rooted in a strong royalty-free patent policy and open copyright licenses, focussed on interoperability and collective empowerment, and supported by open test suites.
 
-# The Operating Principles of the Consortium
+# Mission of the W3C
+
+# Principles and Values
 
 In our operations and membership, we will:
 *	Provide an open forum, where diverse voices from around the world and industries come together, incubate and build consensus for global standards for Web technologies, including organizations of all sizes (from single-person companies to multi-nationals) and considering public feedback.
