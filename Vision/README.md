@@ -11,8 +11,6 @@ We will improve the fundamental integrity of the Web platform. The Web will not 
 
 # Vision for the World-Wide Web
 
-These are the core values of the Web:
-
 * The Web is for all humanity.
 * The Web is designed for the good of its users.
 * The Web must be safe for its users.
