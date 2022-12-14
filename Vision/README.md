@@ -35,7 +35,7 @@ As the W3C leads the Web forward, our mission is to recognize and embody fundame
 We must
 * Ensure the Web is trustworthy, by ensuring security and privacy for users. 
 * Ensure the Web does not favor centralization.
-* focussed on interoperability and collective empowerment, and supported by open test suites.
+* Remain focused on interoperability and collective empowerment, and ensure our work is supported by open test suites.
 * Implements a unified, extensible, Web architecture, which continues to address evolving use cases for the general public.
 * Encourage incubation in new areas and industries with open platforms for discussion, collaboration and innovation, making it more structured and improving consensus-building among key stake holders.
 * Strive for the broadest participation, along axes including worldwide participation, diversity and inclusion, facilitating balance, equity and cooperation among the participants from different industries, user groups and organizational sizes, and thus establishing W3C as representative of the whole community.
