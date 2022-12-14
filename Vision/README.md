@@ -9,14 +9,14 @@ Our vision is for a World Wide Web that is more inclusive, and more respectful o
 
 We will improve the fundamental integrity of the Web platform. The Web will not only grow in scope and importance in our lives; it will grow in respect for its users, grow in the trust of its users, grow in its inclusion of all humanity as its users.
 
-# Our Vision for the World-Wide Web
+# Vision for the World-Wide Web
 
 * The Web is for all humanity.
 * The Web is designed for the good of its users.
 * The Web must be safe for its users.
 * There is one interoperable world-wide Web.
 
-# Our Vision for the W3C
+# Vision for the W3C
 
 The W3C is an association where diverse voices from around the world and industries come together to incubate and build consensus for the global standards that make up the Web, serving the Vision for the Web.
 
@@ -25,7 +25,7 @@ The W3C is an association where diverse voices from around the world and industr
 * We strongly emphasize accessibility, internationalization, privacy and security.
 * Our standards are rooted in a strong royalty-free patent policy and open copyright licenses, openly developed with consensus of industry and key stakeholders.
 
-# The Mission of the W3C
+# Mission of the W3C
 
 The fundamental purpose of the W3C is to provide an open forum, where diverse voices from around the world and industries come together, incubate and build consensus for global standards for Web technologies, including organizations of all sizes (from single-person companies to multi-nationals) and considering public feedback.
 
