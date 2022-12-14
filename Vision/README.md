@@ -27,7 +27,8 @@ The W3C is an association where diverse voices from around the world and industr
 
 # Mission of the W3C
 The fundamental purpose of the W3C is to provide an open forum, where diverse voices from around the world and industries come together, incubate and build consensus for global standards for Web technologies, including organizations of all sizes (from single-person companies to multi-nationals) and considering public feedback.
-* Our new pillar for the years ahead: recognition and embodiment of fundamental values into the architecture of the web.
+
+As the W3C leads the Web forward, our mission is to recognize and embody fundamental values and principles into the architecture of the web.  We must become more principled in our execution of the vision of the Web.
 
 # Principles and Values
 
