@@ -26,7 +26,7 @@ The W3C is an association where diverse voices from around the world and industr
 * Our standards are rooted in a strong royalty-free patent policy and open copyright licenses, openly developed with consensus of industry and key stakeholders.
 
 # Mission of the W3C
-*	Provide an open forum, where diverse voices from around the world and industries come together, incubate and build consensus for global standards for Web technologies, including organizations of all sizes (from single-person companies to multi-nationals) and considering public feedback.
+The fundamental purpose of the W3C is to provide an open forum, where diverse voices from around the world and industries come together, incubate and build consensus for global standards for Web technologies, including organizations of all sizes (from single-person companies to multi-nationals) and considering public feedback.
 * Our new pillar for the years ahead: recognition and embodiment of fundamental values into the architecture of the web.
 
 # Principles and Values
