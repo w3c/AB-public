@@ -33,7 +33,7 @@ As the W3C leads the Web forward, our mission is to recognize and embody fundame
 # Principles and Values
 
 We must
-* Is trustworthy, by ensuring security and privacy for users. 
+* Ensure the Web is trustworthy, by ensuring security and privacy for users. 
 * Does not favor centralization.
 * focussed on interoperability and collective empowerment, and supported by open test suites.
 * Implements a unified, extensible, Web architecture, which continues to address evolving use cases for the general public.
