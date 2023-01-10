@@ -39,7 +39,7 @@ We must
 * Implement a unified, extensible, Web architecture, which continues to address evolving use cases for the general public.
 * Encourage incubation in new areas and industries with open platforms for discussion, collaboration and innovation, making it more structured and improving consensus-building among key stake holders.
 * Strive for the broadest participation, along axes including worldwide participation, diversity and inclusion, facilitating balance, equity and cooperation among the participants from different industries, user groups and organizational sizes, and thus establishing W3C as representative of the whole community.
-* Increase involvement of under-represented key stakeholders such as end users, content creators, developers etc.
+* Increase involvement of under-represented key stakeholders such as end users, content creators, and developers.
 * Ensure transparency, equity and fairness. Our work will not be exclusively dominated by any person, company or interest group.
 * Establish and improve collaborative relationships with other organizations in the domain of Internet and Web standards, including building and maintaining respected relationships with governments and businesses for providing credible advice.
 
