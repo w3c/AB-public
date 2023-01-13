@@ -7,7 +7,7 @@ Technology is not neutral; new technologies facilitate new actions, and enable n
 
 Our vision is for a World Wide Web that is more inclusive, and more respectful of its users: a Web that supports truth better than falsehood, people more than profits, humanity rather than hate.
 
-We will improve the fundamental integrity of the Web platform. The Web will not only grow in scope and importance in our lives; it will grow in respect for its users, grow in the trust of its users, grow in its inclusion of all humanity as its users.
+We will improve the fundamental integrity of the Web platform. The Web will not only grow in scope and importance in our lives; it will grow in respect for its users, grow in the trust of its users, and grow in its inclusion of all humanity as its users.
 
 # Vision for the World-Wide Web
 
@@ -26,7 +26,7 @@ The W3C is an association where diverse voices from around the world and industr
 * Our standards are rooted in a strong royalty-free patent policy and open copyright licenses, openly developed with consensus of industry and key stakeholders.
 
 # Mission of the W3C
-The fundamental purpose of the W3C is to provide an open forum, where diverse voices from around the world and industries come together, incubate and build consensus for global standards for Web technologies, including organizations of all sizes (from single-person companies to multi-nationals) and considering public feedback.
+The fundamental purpose of the W3C is to provide an open forum, where diverse voices from around the world and industries come together, incubate, and build consensus for global standards for Web technologies, including organizations of all sizes (from single-person companies to multi-nationals) and considering public feedback.
 
 As the W3C leads the Web forward, our mission is to recognize and embody fundamental values and principles into the architecture of the web.  We must become more principled in our execution of the vision of the Web.
 
@@ -37,15 +37,15 @@ We must
 * Ensure the Web does not favor centralization.
 * Remain focused on interoperability and collective empowerment, and ensure our work is supported by open test suites.
 * Implement a unified, extensible, Web architecture, which continues to address evolving use cases for the general public.
-* Encourage incubation in new areas and industries with open platforms for discussion, collaboration and innovation, making it more structured and improving consensus-building among key stake holders.
-* Strive for the broadest participation, along axes including worldwide participation, diversity and inclusion, facilitating balance, equity and cooperation among the participants from different industries, user groups and organizational sizes, and thus establishing W3C as representative of the whole community.
+* Encourage incubation in new areas and industries with open platforms for discussion, collaboration, and innovation, making it more structured and improving consensus-building among key stake holders.
+* Strive for the broadest participation, along axes including worldwide participation, diversity, and inclusion, facilitating balance, equity, and cooperation among the participants from different industries, user groups, and organizational sizes, and thus establishing W3C as representative of the whole community.
 * Increase involvement of under-represented key stakeholders such as end users, content creators, and developers.
-* Ensure transparency, equity and fairness. Our work will not be exclusively dominated by any person, company or interest group.
+* Ensure transparency, equity, and fairness. Our work will not be exclusively dominated by any person, company, or interest group.
 * Establish and improve collaborative relationships with other organizations in the domain of Internet and Web standards, including building and maintaining respected relationships with governments and businesses for providing credible advice.
 
 # Acknowledgements and Supporting Material
 
 * This document is intended to be a stronger vision statement for the [W3C](https://w3.org/).  This is currently exposed as a work item of the [W3C Advisory Board](https://www.w3.org/2002/ab/), on [the AB wiki](https://www.w3.org/wiki/AB/2021_Priorities#Vision). 
-* This document is the result of many people's work, notably Chris Wilson, David Singer, Mike Champion, Tantek Çelik, Tzviya Siegman, Avneesh Singh and the rest of the Advisory Board.
+* This document is the result of many people's work, notably Chris Wilson, David Singer, Mike Champion, Tantek Çelik, Tzviya Siegman, Avneesh Singh, and the rest of the Advisory Board.
 * This document builds on the basis of the Technical Architecture Group's excellent [Ethical Web Principles](https://www.w3.org/2001/tag/doc/ethical-web-principles/).  It is not intended to supplant that work nor redefine it, but fit into the same framework and promote many of the same goals.
 * This document also builds on a specific [history](History.md) of the W3C's growth and success.
