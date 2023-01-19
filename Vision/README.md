@@ -19,8 +19,8 @@ without people’s awareness or consent.
 The acceleration of global information sharing 
 enabled misinformation to flourish, 
 to be exploited for political or commercial gain, 
-divide societies, and to incite hate.  
-We must do better.  
+divide societies, and to incite hate. 
+We must do better. 
 We must take steps to address these unintended consequences 
 in the standards we develop.
 
@@ -82,7 +82,7 @@ and considering public feedback.
 
 As the W3C leads the Web forward, 
 our mission is to recognize and embody fundamental values and principles 
-into the architecture of the web.  
+into the architecture of the web. 
 We must become more principled in our execution of the vision of the Web.
 
 # Principles and Values
