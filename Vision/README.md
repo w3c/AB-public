@@ -63,10 +63,14 @@ serving the Vision for the Web.
 * We put the needs of users first: 
 above authors, publishers, implementers, 
 paying W3C Members, or theoretical purity.
-* This organization believes in diversity and inclusion 
-of participants from different geographical locations, 
-cultures, languages, accessibility needs, 
-gender identities, and more. 
+* This organization believes in diversity
+and inclusion of participants from different
+geographical locations, 
+cultures,
+languages,
+accessibility needs, 
+gender identities,
+and more. 
 * We strongly emphasize accessibility, 
 internationalization, 
 privacy, and security.
