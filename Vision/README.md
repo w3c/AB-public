@@ -36,7 +36,8 @@ and to optimize these technologies throughout their lifecycles.
 Our vision is for a World Wide Web that is more inclusive, 
 and more respectful of its users: 
 a Web that supports truth better than falsehood, 
-people more than profits, humanity rather than hate.
+people more than profits,
+humanity rather than hate.
 
 We will improve the fundamental integrity of the Web platform. 
 The Web will not only grow in scope and importance in our lives; 
