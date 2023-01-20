@@ -73,7 +73,8 @@ gender identities,
 and more. 
 * We strongly emphasize accessibility, 
 internationalization, 
-privacy, and security.
+privacy,
+and security.
 * Our standards are rooted in a strong royalty-free patent policy 
 and open copyright licenses, 
 openly developed with consensus of industry and key stakeholders.
