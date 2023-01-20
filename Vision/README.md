@@ -61,23 +61,22 @@ for global standards that make up the Web,
 serving the Vision for the Web.
 
 * We put the needs of users first: 
-above authors, publishers, implementers, 
-paying W3C Members, or theoretical purity.
+	above authors, publishers, implementers, paying W3C Members, or theoretical purity.
 * This organization believes in diversity
-and inclusion of participants from different
-geographical locations, 
-cultures,
-languages,
-accessibility needs, 
-gender identities,
-and more. 
+	and inclusion of participants from different
+	geographical locations, 
+	cultures,
+	languages,
+	accessibility needs, 
+	gender identities,
+	and more. 
 * We strongly emphasize accessibility, 
-internationalization, 
-privacy,
-and security.
+	internationalization, 
+	privacy,
+	and security.
 * Our standards are rooted in a strong royalty-free patent policy 
-and open copyright licenses, 
-openly developed with consensus of industry and key stakeholders.
+	and open copyright licenses, 
+	openly developed with consensus of industry and key stakeholders.
 
 # Mission of the W3C
 The fundamental purpose of the W3C is to provide an open forum, 
@@ -96,44 +95,44 @@ We must become more principled in our execution of the vision of the Web.
 
 We must
 * Ensure the Web is trustworthy, 
-by ensuring security and privacy for users. 
+	by ensuring security and privacy for users. 
 * Ensure the Web does not favor centralization.
 * Remain focused on interoperability and collective empowerment, 
-and ensure our work is supported by open test suites.
+	and ensure our work is supported by open test suites.
 * Implement a unified, extensible, Web architecture, 
-which continues to address evolving use cases for the general public.
+	which continues to address evolving use cases for the general public.
 
 We will do this by:
 * Encouraging incubation in new areas and industries 
-with open platforms for discussion, collaboration, and innovation, 
-making it more structured 
-and improving consensus-building among key stake holders.
+	with open platforms for discussion, collaboration, and innovation, 
+	making it more structured 
+	and improving consensus-building among key stake holders.
 * Striving for the broadest participation, 
-along axes including worldwide participation, diversity, and inclusion, 
-facilitating balance, equity, and cooperation 
-among the participants from different industries, 
-user groups, and organizational sizes, 
-and thus establishing W3C as representative of the whole community.
+	along axes including worldwide participation, diversity, and inclusion, 
+	facilitating balance, equity, and cooperation 
+	among the participants from different industries, 
+	user groups, and organizational sizes, 
+	and thus establishing W3C as representative of the whole community.
 * Increasing involvement of under-represented key stakeholders 
-such as end users, content creators, and developers.
+	such as end users, content creators, and developers.
 * Ensuring transparency, equity, and fairness. 
-Our work will not be exclusively dominated 
-by any person, company, or interest group.
+	Our work will not be exclusively dominated 
+	by any person, company, or interest group.
 * Establishing and improving collaborative relationships 
-with other organizations in the domain of Internet and Web standards, 
-including building and maintaining respected relationships 
-with governments and businesses for providing credible advice.
+	with other organizations in the domain of Internet and Web standards, 
+	including building and maintaining respected relationships 
+	with governments and businesses for providing credible advice.
 
 # Acknowledgements and Supporting Material
 
 * This document is intended to be a stronger vision statement for the [W3C](https://w3.org/). 
-This is currently exposed as a work item of the [W3C Advisory Board](https://www.w3.org/2002/ab/), 
-on [the AB wiki](https://www.w3.org/wiki/AB/2021_Priorities#Vision). 
+	This is currently exposed as a work item of the [W3C Advisory Board](https://www.w3.org/2002/ab/), 
+	on [the AB wiki](https://www.w3.org/wiki/AB/2021_Priorities#Vision). 
 * This document is the result of many people's work, 
-notably Chris Wilson, David Singer, Mike Champion, Tantek Çelik, 
-Tzviya Siegman, Avneesh Singh, and the rest of the Advisory Board.
+	notably Chris Wilson, David Singer, Mike Champion, Tantek Çelik, 
+	Tzviya Siegman, Avneesh Singh, and the rest of the Advisory Board.
 * This document builds on the basis of the Technical Architecture Group's 
-excellent [Ethical Web Principles](https://www.w3.org/2001/tag/doc/ethical-web-principles/). 
-It is not intended to supplant that work nor redefine it, 
-but fit into the same framework and promote many of the same goals.
+	excellent [Ethical Web Principles](https://www.w3.org/2001/tag/doc/ethical-web-principles/). 
+	It is not intended to supplant that work nor redefine it, 
+	but fit into the same framework and promote many of the same goals.
 * This document also builds on a specific [history](History.md) of the W3C's growth and success.
