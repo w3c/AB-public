@@ -1,5 +1,5 @@
 ## Introduction
-The World Wide Web was conceived more than 25 years ago 
+The World Wide Web was originally conceived at the end of the 1980s 
 as a tool for sharing information. 
 It has become much more than that; 
 it is a fundamental part of the lives of much of humanity, 
