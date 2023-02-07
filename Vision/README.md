@@ -96,7 +96,9 @@ We must become more principled in our execution of the vision of the Web.
 We must
 * Ensure the Web is trustworthy, 
 	by ensuring security and privacy for users. 
-* Ensure the Web does not favor centralization.
+* Aim to reduce centralization in web architecture,
+	minimizing single points of failure 
+	and single points of control.
 * Remain focused on interoperability and collective empowerment, 
 	and ensure our work is supported by open test suites.
 * Implement a unified, extensible, Web architecture, 
