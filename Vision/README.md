@@ -1,3 +1,5 @@
+# The W3C Vision: An Emphasis on Values
+
 ## Introduction
 The World Wide Web was conceived more than 25 years ago 
 as a tool for sharing information. 
