@@ -72,6 +72,8 @@ serving the Vision for the Web.
 	accessibility needs, 
 	gender identities,
 	and more. 
+* We believe in principled, community-wide consensus-building 
+	as the basis for building standards.
 * We strongly emphasize accessibility, 
 	internationalization, 
 	privacy,
