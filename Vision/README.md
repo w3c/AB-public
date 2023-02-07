@@ -17,7 +17,7 @@ Ease of gathering personal information spawned business models
 that mined and sold detailed user behaviors, 
 without people’s awareness or consent. 
 The acceleration of global information sharing 
-enabled misinformation to flourish, 
+enabled misinformation & malvertising to flourish, 
 to be exploited for political or commercial gain, 
 divide societies,
 and to incite hate. 
