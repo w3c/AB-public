@@ -103,7 +103,7 @@ We must
 * Aim to reduce centralization in web architecture,
 	minimizing single points of failure 
 	and single points of control.
-* Remain focused on interoperability and collective empowerment, 
+* Remain focused on interoperability 
 	and ensure our work is supported by open test suites.
 * Implement a unified, extensible, Web architecture, 
 	which continues to address evolving use cases for the general public.
