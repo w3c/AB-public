@@ -87,7 +87,7 @@ The fundamental purpose of the W3C is to provide an open forum
 where diverse voices from around the world
 work together to build consensus
 on global standards for Web technologies. 
-This forum includes organizations of all sizes
+The members of this forum include organizations of all sizes
 (from single-person companies to multi-nationals),
 representatives of industries as well as individuals,
 and considers public feedback.
