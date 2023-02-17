@@ -1,51 +1,47 @@
 # The W3C Vision: An Emphasis on Values
 
 ## Introduction
-The World Wide Web was conceived more than 25 years ago 
+The World Wide Web was originally conceived 
 as a tool for sharing information. 
-It has become much more than that; 
-it is a fundamental part of the lives of much of humanity, 
-enabling access to information, education, 
+It has evolved into a fundamental part of humanity, 
+providing access to knowledge, education, 
 commerce and shopping, social experiences, 
-civic functions, entertainment, and more. 
+civic duties, entertainment, and more.
 
-The Web is a force for good; 
-indeed, it has catalyzed major social changes. 
-At the same time, the Web's phenomenal success 
+The Web has been a force for good, 
+and has sparked major social changes. 
+But the Web's amazing success 
 has led to many unintended consequences 
-that inflict significant distress on society: 
-openness and anonymity enable scams, phishing, and fraud. 
-Ease of gathering personal information spawned business models 
-that mined and sold detailed user behaviors, 
-without people’s awareness or consent. 
-The acceleration of global information sharing 
-enabled misinformation to flourish, 
-to be exploited for political or commercial gain, 
-divide societies,
-and to incite hate. 
+that harm society: 
+openness and anonymity have given rise to scams, phishing, and fraud. 
+The ease of gathering personal information has led to business models 
+that mine and sell detailed user data, 
+without people's awareness or consent. 
+Rapid global information sharing 
+has allowed misinformation to flourish and be exploited 
+for political or commercial gain.  
+This has divided societies and incited hate. 
 We must do better. 
-We must take steps to address these unintended consequences 
-in the standards we develop.
+We must take steps to address these consequences 
+in the standards we create.
 
 Technology is not neutral; 
-new technologies facilitate new actions, and enable new possibilities. 
-We are proud of the good enabled by our web technologies; 
-we will take the responsibility to use our values 
-both to assess the potential and actual impact of our work 
-(especially harms caused by that work), 
-and to optimize these technologies throughout their lifecycles.
+new technologies enable new actions and new possibilities. 
+We are proud of the good the Web has enabled; 
+we must take the responsibility to use our values 
+to address the actual impact of our work. 
 
 Our vision is for a World Wide Web that is more inclusive, 
 and more respectful of its users: 
-a Web that supports truth better than falsehood, 
-people more than profits,
-humanity rather than hate.
+a Web that supports truth over falsehood, 
+people over profits,
+humanity over hate.
 
-We will improve the fundamental integrity of the Web platform. 
-The Web will not only grow in scope and importance in our lives; 
-it will grow in respect for its users, 
-grow in the trust of its users, 
-and grow in its inclusion of all humanity as its users.
+We will improve the ethical integrity of the Web. 
+As the Web continues to grow in importance 
+to include all humanity as its users,
+it must increase its respect for those users
+and the trust it earns from them.
 
 # Vision for the World-Wide Web
 
