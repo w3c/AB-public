@@ -6,7 +6,7 @@ as a tool for sharing information.
 It has evolved into a fundamental part of humanity, 
 providing access to knowledge, education, 
 commerce and shopping, social experiences, 
-civic duties, entertainment, and more.
+civic functions, entertainment, and more.
 
 The Web has been a force for good, 
 and has sparked major social changes. 
