@@ -79,7 +79,7 @@ serving the Vision for the Web.
 	openly developed with consensus of industry and key stakeholders.
 
 # Mission of the W3C
-The fundamental purpose of the W3C is to provide an open forum 
+The fundamental purpose of the W3C is to provide an open voluntary standards forum 
 where diverse voices from around the world
 and from different industries
 work together to build consensus
