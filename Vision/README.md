@@ -128,6 +128,19 @@ We will do this by:
 	including building and maintaining respected relationships 
 	with governments and businesses for providing credible advice.
 
+# Status
+
+Status of This Document
+This document reflects the consensus of the AB at the time of publication. It will continue to evolve and the AB will issue updates as often as needed. The intent is for this document to become a W3C Statement.
+
+This document was published by the Advisory Board as a Group Draft Note using the Note track. Group Draft Notes are not endorsed by W3C nor its Members.
+
+This is a draft document and may be updated, replaced or obsoleted by other documents at any time. It is inappropriate to cite this document as other than work in progress.
+
+The W3C Patent Policy does not carry any licensing requirements or commitments on this document.
+
+This document is governed by the 2 November 2021 W3C Process Document.
+
 # Acknowledgements and Supporting Material
 
 * This document is intended to be a stronger vision statement for the [W3C](https://w3.org/). 
