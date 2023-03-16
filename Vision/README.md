@@ -131,7 +131,7 @@ We will do this by:
 # Status
 
 Status of This Document
-This document reflects the consensus of the AB at the time of publication. It will continue to evolve and the AB will issue updates as often as needed. The intent is for this document to become a W3C Statement.
+This document was developed by the Advisory Board. It will continue to evolve and the AB will issue updates as often as needed. The intent is for this document to become a W3C Statement.
 
 This document is maintained by the Advisory Board as a Group Draft Note using the Note track. Group Draft Notes are not endorsed by W3C nor its Members.
 
