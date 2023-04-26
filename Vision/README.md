@@ -55,7 +55,7 @@ and the trust it earns from them.
 The W3C is an association where diverse voices 
 from around the world and industries come together 
 to incubate and build consensus 
-for global standards that make up the Web, 
+for voluntary global standards that make up the Web, 
 serving the Vision for the Web.
 
 * We put the needs of users first: 
