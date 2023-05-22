@@ -23,7 +23,7 @@ rather than contain specific answers.
 
 The goal of this document is to:
 
-* Help the world understand who we are, what we do, and why it matters.
+* Help the world understand what W3C is, what it does, and why it matters.
 * Be opinionated enough to provide a helpful framework when making decisions, 
   particularly on controversial issues.
 * Be grounded enough in the shared values of the W3C community 
