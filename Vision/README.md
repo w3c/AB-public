@@ -103,7 +103,8 @@ We must
 	minimizing single points of failure 
 	and single points of control.
 * Remain focused on interoperability 
-	and ensure our work is supported by open test suites.
+	by ensuring adequate implementation experience
+	and ensuring our work is supported by open test suites.
 * Implement a unified, extensible, Web architecture, 
 	which continues to address evolving use cases for the general public.
 
