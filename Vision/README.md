@@ -104,6 +104,8 @@ serving the Vision for the Web.
 	internationalization, 
 	privacy,
 	and security.
+* We believe the Web must be an environmentally sustainable platform, 
+	as defined [in the Ethical Web Principles] (https://www.w3.org/TR/ethical-web-principles/#sustainable).
 * Our standards are rooted in a strong royalty-free patent policy 
 	and open copyright licenses, 
 	openly developed with consensus of industry and key stakeholders.
@@ -154,6 +156,8 @@ We will do this by:
 * Ensuring transparency, equity, and fairness. 
 	Our work will not be exclusively dominated 
 	by any person, company, or interest group.
+* Ensuring the web platform meets goals in horizontal principles such as 
+	accessibility, internationalization, privacy, and sustainability.
 * Establishing and improving collaborative relationships 
 	with other organizations in the domain of Internet and Web standards, 
 	including building and maintaining respected relationships 
