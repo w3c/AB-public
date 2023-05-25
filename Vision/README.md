@@ -1,5 +1,35 @@
 # The W3C Vision: An Emphasis on Values
 
+## Status of this Document
+This document is an articulation 
+of the W3C’s mission, values, purpose, and principles;
+in other words, our vision for W3C as an organization 
+in the context of our vision for the Web itself. 
+The goal of this vision is not to predict the future, 
+but to define shared principles to guide our decisions.
+
+This document is not intended to be 
+an operational strategy for W3C Inc. as an organization: 
+such a strategy should take this Vision into account, 
+but it is not the Vision itself.
+
+This document should not provide recommendations 
+for or against specific technologies: 
+technologies are not value neutral, 
+and preference for or against particular technologies 
+should be influenced by values as articulated here, 
+but this Vision should be a guide for thinking about such things, 
+rather than contain specific answers.
+
+The goal of this document is to:
+
+* Help the world understand what W3C is, what it does, and why it matters.
+* Be opinionated enough to provide a helpful framework when making decisions, 
+  particularly on controversial issues.
+* Be grounded enough in the shared values of the W3C community 
+  to represent the emergent consensus of most of our participants.
+* Be timeless enough that it does not need frequent revision.
+
 ## Introduction
 The World Wide Web was originally conceived 
 as a tool for sharing information. 
