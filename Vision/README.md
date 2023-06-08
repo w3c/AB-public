@@ -1,4 +1,4 @@
-# The W3C Vision: An Emphasis on Values
+# W3C Vision: An Emphasis on Values
 
 ## Status of this Document
 This document is an articulation 
@@ -80,9 +80,9 @@ and the trust it earns from them.
 * The Web must be safe for its users.
 * There is one interoperable world-wide Web.
 
-# Vision for the W3C
+# Vision for W3C
 
-The W3C is an association where diverse voices 
+W3C is an association where diverse voices 
 from around the world and industries come together 
 to incubate and build consensus 
 for voluntary global standards that make up the Web, 
@@ -110,8 +110,8 @@ serving the Vision for the Web.
 	and open copyright licenses, 
 	openly developed with consensus of industry and key stakeholders.
 
-# Mission of the W3C
-The fundamental purpose of the W3C is to provide an open forum 
+# Mission of W3C
+The fundamental purpose of W3C is to provide an open forum 
 where diverse voices from around the world
 and from different industries
 work together to build consensus
@@ -121,7 +121,7 @@ This forum welcomes individuals and organizations of all sizes
 and takes into active consideration
 feedback from the general public.
 
-As the W3C leads the Web forward, 
+As W3C leads the Web forward, 
 our mission is to recognize and embody fundamental values and principles 
 into the architecture of the web. 
 We must become more principled in our execution of the vision of the Web.
