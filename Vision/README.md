@@ -82,11 +82,11 @@ and the trust it earns from them.
 
 # Vision for W3C
 
-W3C is an association where diverse voices 
-from around the world and industries come together 
-to incubate and build consensus 
-for voluntary global standards that make up the Web, 
-serving the Vision for the Web.
+The fundamental purpose of the W3C is to provide an open forum 
+where diverse voices from around the world
+and from different organizations and industries
+work together to build consensus
+on voluntary global standards for Web technologies. 
 
 * We put the needs of users first: 
 	above authors, publishers, implementers, paying W3C Members, or theoretical purity.
@@ -109,25 +109,17 @@ serving the Vision for the Web.
 * Our standards are rooted in a strong royalty-free patent policy 
 	and open copyright licenses, 
 	openly developed with consensus of industry and key stakeholders.
+* We welcome individuals and organizations of all sizes 
+	(from single-person companies to multi-nationals),
+	and take feedback from the general public.
 
-# Mission of W3C
-The fundamental purpose of W3C is to provide an open forum 
-where diverse voices from around the world
-and from different industries
-work together to build consensus
-on global standards for Web technologies. 
-This forum welcomes individuals and organizations of all sizes 
-(from single-person companies to multi-nationals),
-and takes into active consideration
-feedback from the general public.
+
+# Principles and Values
 
 As W3C leads the Web forward, 
 our mission is to recognize and embody fundamental values and principles 
 into the architecture of the web. 
 We must become more principled in our execution of the vision of the Web.
-
-# Principles and Values
-
 We must
 * Ensure the Web is trustworthy, 
 	by ensuring security and privacy for users. 
