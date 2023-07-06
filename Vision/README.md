@@ -95,7 +95,7 @@ serving the Vision for the Web.
 	geographical locations, 
 	cultures,
 	languages,
-	accessibility needs, 
+	disabilities, 
 	gender identities,
 	and more. 
 * We believe in principled, community-wide consensus-building 
