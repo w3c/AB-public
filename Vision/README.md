@@ -75,10 +75,10 @@ and the trust it earns from them.
 
 # Vision for the World-Wide Web
 
-* The Web is for all humanity.
-* The Web is designed for the good of its users.
-* The Web must be safe for its users.
-* There is one interoperable world-wide Web.
+* The Web is for [all humanity](https://www.w3.org/TR/ethical-web-principles/#allpeople).
+* The Web is designed for the [good of its users](https://www.w3.org/TR/ethical-web-principles/#noharm).
+* The Web must be [safe for its users](https://www.w3.org/TR/ethical-web-principles/#privacy).
+* There is [one interoperable world-wide Web](https://www.w3.org/TR/ethical-web-principles/#oneweb).
 
 # Vision for W3C
 
