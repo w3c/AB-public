@@ -43,11 +43,11 @@ and has sparked major social changes.
 But the Web's amazing success 
 has led to many unintended consequences 
 that harm society: 
-openness and anonymity have given rise to scams, phishing, and fraud. 
-The ease of gathering personal information has led to business models 
+openness and anonymity have given rise to scams, phishing, and fraud; 
+the ease of gathering personal information has led to business models 
 that mine and sell detailed user data, 
-without people's awareness or consent. 
-Rapid global information sharing 
+without people's awareness or consent; 
+rapid global information sharing 
 has allowed misinformation to flourish and be exploited 
 for political or commercial gain.  
 This has divided societies and incited hate. 
