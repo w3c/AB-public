@@ -73,7 +73,7 @@ to include all humanity as its users,
 it must increase its respect for those users
 and the trust it earns from them.
 
-# Vision for the World-Wide Web
+# Vision for the World Wide Web
 
 * The Web is for [all humanity](https://www.w3.org/TR/ethical-web-principles/#allpeople).
 * The Web is designed for the [good of its users](https://www.w3.org/TR/ethical-web-principles/#noharm).
@@ -118,12 +118,12 @@ on voluntary global standards for Web technologies.
 
 As W3C leads the Web forward, 
 our mission is to recognize and embody fundamental values and principles 
-into the architecture of the web. 
+into the architecture of the Web. 
 We must become more principled in our execution of the vision of the Web.
 We must
 * Ensure the Web is trustworthy, 
 	by ensuring security and privacy for users. 
-* Aim to reduce centralization in web architecture,
+* Aim to reduce centralization in Web architecture,
 	minimizing single points of failure 
 	and single points of control.
 * Remain focused on ensuring reliable interoperability 
@@ -148,7 +148,7 @@ We will do this by:
 * Ensuring transparency, equity, and fairness. 
 	Our work will not be exclusively dominated 
 	by any person, company, or interest group.
-* Ensuring the web platform meets goals in horizontal principles such as 
+* Ensuring the Web platform meets goals in horizontal principles such as 
 	accessibility, internationalization, privacy, and sustainability.
 * Establishing and improving collaborative relationships 
 	with other organizations in the domain of Internet and Web standards, 
