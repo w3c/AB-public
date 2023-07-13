@@ -1,7 +1,7 @@
 # The Mission of the W3C
 
 The W3C leads the community in defining a World Wide Web that is inclusive and respectful of its users, 
-to empower an equitable, informed and interconnected society.
+to empower an ethical, equitable, informed, and interconnected society.
 
 ## **Introduction**
 ### The World Wide Web
