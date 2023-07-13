@@ -52,8 +52,8 @@ As the Ethical Web Principles state, “The web should empower an equitable, inf
 * We strive to create standards with an ethical intent to improve equity of access and participation on the Web.
   We will ensure the web platform meets broad goals using consistent horizontal review
   to ensure accessibility, internationalization, security, privacy, and sustainability.
-* We believe standards should be widely and interoperably implemented.
-  To ensure reliable interoperability, we require implementation experience and open test suites for our standards.
+* We believe wide and interoperable implementation is a requirement for standards.
+  To ensure reliable interoperability, we require multiple implementations and open test suites for our standards.
 * The Web will continue to expand in user base, global reach, and technical breadth.
   We are committed to encouraging incubation in new areas, collaborating on new innovations across our community.
 * We exclusively create open royalty-free standards.
