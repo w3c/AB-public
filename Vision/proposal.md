@@ -4,6 +4,7 @@ The W3C leads the community in defining a World Wide Web that is inclusive and r
 to empower an equitable, informed and interconnected society.
 
 ## **Introduction**
+### The World Wide Web
 
 The World Wide Web was originally conceived as a tool for sharing information. 
 It has evolved rapidly into a fundamental part of humanity, 
@@ -23,6 +24,8 @@ The W3C’s Technical Architecture Group's work to clearly define [Ethical Web P
 is a strong basis to improve the ethical integrity of the Web. 
 The Web has had a tremendous impact on the world, and will continue to grow its impact in the future, 
 by expanding reach, knowledge, education and services even more broadly.
+
+### The W3C
 
 The World Wide Web Consortium (W3C) was founded as an organization to provide a consistent architecture across the rapid pace of progress in the Web, 
 and to build a common community to support its development. 
