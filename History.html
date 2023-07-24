@@ -1,0 +1,573 @@
+<!doctype html><html lang="en">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+  <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
+  <title>History of the W3C</title>
+  <meta content="ED" name="w3c-status">
+  <link href="https://www.w3.org/StyleSheets/TR/2021/W3C-ED" rel="stylesheet">
+  <meta content="Bikeshed version fcb66286b, updated Wed Jul 19 11:14:33 2023 -0700" name="generator">
+  <link href="https://www.w3.org/TR/w3c-history/" rel="canonical">
+  <meta content="7435ca5eab2977bb9adbbb0601b006991dcb3d6d" name="document-revision">
+<style>/* Boilerplate: style-autolinks */
+.css.css, .property.property, .descriptor.descriptor {
+    color: var(--a-normal-text);
+    font-size: inherit;
+    font-family: inherit;
+}
+.css::before, .property::before, .descriptor::before {
+    content: "‘";
+}
+.css::after, .property::after, .descriptor::after {
+    content: "’";
+}
+.property, .descriptor {
+    /* Don't wrap property and descriptor names */
+    white-space: nowrap;
+}
+.type { /* CSS value <type> */
+    font-style: italic;
+}
+pre .property::before, pre .property::after {
+    content: "";
+}
+[data-link-type="property"]::before,
+[data-link-type="propdesc"]::before,
+[data-link-type="descriptor"]::before,
+[data-link-type="value"]::before,
+[data-link-type="function"]::before,
+[data-link-type="at-rule"]::before,
+[data-link-type="selector"]::before,
+[data-link-type="maybe"]::before {
+    content: "‘";
+}
+[data-link-type="property"]::after,
+[data-link-type="propdesc"]::after,
+[data-link-type="descriptor"]::after,
+[data-link-type="value"]::after,
+[data-link-type="function"]::after,
+[data-link-type="at-rule"]::after,
+[data-link-type="selector"]::after,
+[data-link-type="maybe"]::after {
+    content: "’";
+}
+
+[data-link-type].production::before,
+[data-link-type].production::after,
+.prod [data-link-type]::before,
+.prod [data-link-type]::after {
+    content: "";
+}
+
+[data-link-type=element],
+[data-link-type=element-attr] {
+    font-family: Menlo, Consolas, "DejaVu Sans Mono", monospace;
+    font-size: .9em;
+}
+[data-link-type=element]::before { content: "<" }
+[data-link-type=element]::after  { content: ">" }
+
+[data-link-type=biblio] {
+    white-space: pre;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --selflink-text: black;
+        --selflink-bg: silver;
+        --selflink-hover-text: white;
+    }
+}
+</style>
+<style>/* Boilerplate: style-colors */
+
+/* Any --*-text not paired with a --*-bg is assumed to have a transparent bg */
+:root {
+    color-scheme: light dark;
+
+    --text: black;
+    --bg: white;
+
+    --unofficial-watermark: url(https://www.w3.org/StyleSheets/TR/2016/logos/UD-watermark);
+
+    --logo-bg: #1a5e9a;
+    --logo-active-bg: #c00;
+    --logo-text: white;
+
+    --tocnav-normal-text: #707070;
+    --tocnav-normal-bg: var(--bg);
+    --tocnav-hover-text: var(--tocnav-normal-text);
+    --tocnav-hover-bg: #f8f8f8;
+    --tocnav-active-text: #c00;
+    --tocnav-active-bg: var(--tocnav-normal-bg);
+
+    --tocsidebar-text: var(--text);
+    --tocsidebar-bg: #f7f8f9;
+    --tocsidebar-shadow: rgba(0,0,0,.1);
+    --tocsidebar-heading-text: hsla(203,20%,40%,.7);
+
+    --toclink-text: var(--text);
+    --toclink-underline: #3980b5;
+    --toclink-visited-text: var(--toclink-text);
+    --toclink-visited-underline: #054572;
+
+    --heading-text: #005a9c;
+
+    --hr-text: var(--text);
+
+    --algo-border: #def;
+
+    --del-text: red;
+    --del-bg: transparent;
+    --ins-text: #080;
+    --ins-bg: transparent;
+
+    --a-normal-text: #034575;
+    --a-normal-underline: #bbb;
+    --a-visited-text: var(--a-normal-text);
+    --a-visited-underline: #707070;
+    --a-hover-bg: rgba(75%, 75%, 75%, .25);
+    --a-active-text: #c00;
+    --a-active-underline: #c00;
+
+    --blockquote-border: silver;
+    --blockquote-bg: transparent;
+    --blockquote-text: currentcolor;
+
+    --issue-border: #e05252;
+    --issue-bg: #fbe9e9;
+    --issue-text: var(--text);
+    --issueheading-text: #831616;
+
+    --example-border: #e0cb52;
+    --example-bg: #fcfaee;
+    --example-text: var(--text);
+    --exampleheading-text: #574b0f;
+
+    --note-border: #52e052;
+    --note-bg: #e9fbe9;
+    --note-text: var(--text);
+    --noteheading-text: hsl(120, 70%, 30%);
+    --notesummary-underline: silver;
+
+    --assertion-border: #aaa;
+    --assertion-bg: #eee;
+    --assertion-text: black;
+
+    --advisement-border: orange;
+    --advisement-bg: #fec;
+    --advisement-text: var(--text);
+    --advisementheading-text: #b35f00;
+
+    --warning-border: red;
+    --warning-bg: hsla(40,100%,50%,0.95);
+    --warning-text: var(--text);
+
+    --amendment-border: #330099;
+    --amendment-bg: #F5F0FF;
+    --amendment-text: var(--text);
+    --amendmentheading-text: #220066;
+
+    --def-border: #8ccbf2;
+    --def-bg: #def;
+    --def-text: var(--text);
+    --defrow-border: #bbd7e9;
+
+    --datacell-border: silver;
+
+    --indexinfo-text: #707070;
+
+    --indextable-hover-text: black;
+    --indextable-hover-bg: #f7f8f9;
+
+    --outdatedspec-bg: rgba(0, 0, 0, .5);
+    --outdatedspec-text: black;
+    --outdated-bg: maroon;
+    --outdated-text: white;
+    --outdated-shadow: red;
+
+    --editedrec-bg: darkorange;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --text: #ddd;
+        --bg: black;
+
+        --unofficial-watermark: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400'%3E%3Cg fill='%23100808' transform='translate(200 200) rotate(-45) translate(-200 -200)' stroke='%23100808' stroke-width='3'%3E%3Ctext x='50%25' y='220' style='font: bold 70px sans-serif; text-anchor: middle; letter-spacing: 6px;'%3EUNOFFICIAL%3C/text%3E%3Ctext x='50%25' y='305' style='font: bold 70px sans-serif; text-anchor: middle; letter-spacing: 6px;'%3EDRAFT%3C/text%3E%3C/g%3E%3C/svg%3E");
+
+        --logo-bg: #1a5e9a;
+        --logo-active-bg: #c00;
+        --logo-text: white;
+
+        --tocnav-normal-text: #999;
+        --tocnav-normal-bg: var(--bg);
+        --tocnav-hover-text: var(--tocnav-normal-text);
+        --tocnav-hover-bg: #080808;
+        --tocnav-active-text: #f44;
+        --tocnav-active-bg: var(--tocnav-normal-bg);
+
+        --tocsidebar-text: var(--text);
+        --tocsidebar-bg: #080808;
+        --tocsidebar-shadow: rgba(255,255,255,.1);
+        --tocsidebar-heading-text: hsla(203,20%,40%,.7);
+
+        --toclink-text: var(--text);
+        --toclink-underline: #6af;
+        --toclink-visited-text: var(--toclink-text);
+        --toclink-visited-underline: #054572;
+
+        --heading-text: #8af;
+
+        --hr-text: var(--text);
+
+        --algo-border: #456;
+
+        --del-text: #f44;
+        --del-bg: transparent;
+        --ins-text: #4a4;
+        --ins-bg: transparent;
+
+        --a-normal-text: #6af;
+        --a-normal-underline: #555;
+        --a-visited-text: var(--a-normal-text);
+        --a-visited-underline: var(--a-normal-underline);
+        --a-hover-bg: rgba(25%, 25%, 25%, .2);
+        --a-active-text: #f44;
+        --a-active-underline: var(--a-active-text);
+
+        --borderedblock-bg: rgba(255, 255, 255, .05);
+
+        --blockquote-border: silver;
+        --blockquote-bg: var(--borderedblock-bg);
+        --blockquote-text: currentcolor;
+
+        --issue-border: #e05252;
+        --issue-bg: var(--borderedblock-bg);
+        --issue-text: var(--text);
+        --issueheading-text: hsl(0deg, 70%, 70%);
+
+        --example-border: hsl(50deg, 90%, 60%);
+        --example-bg: var(--borderedblock-bg);
+        --example-text: var(--text);
+        --exampleheading-text: hsl(50deg, 70%, 70%);
+
+        --note-border: hsl(120deg, 100%, 35%);
+        --note-bg: var(--borderedblock-bg);
+        --note-text: var(--text);
+        --noteheading-text: hsl(120, 70%, 70%);
+        --notesummary-underline: silver;
+
+        --assertion-border: #444;
+        --assertion-bg: var(--borderedblock-bg);
+        --assertion-text: var(--text);
+
+        --advisement-border: orange;
+        --advisement-bg: #222218;
+        --advisement-text: var(--text);
+        --advisementheading-text: #f84;
+
+        --warning-border: red;
+        --warning-bg: hsla(40,100%,20%,0.95);
+        --warning-text: var(--text);
+
+        --amendment-border: #330099;
+        --amendment-bg: #080010;
+        --amendment-text: var(--text);
+        --amendmentheading-text: #cc00ff;
+
+        --def-border: #8ccbf2;
+        --def-bg: #080818;
+        --def-text: var(--text);
+        --defrow-border: #136;
+
+        --datacell-border: silver;
+
+        --indexinfo-text: #aaa;
+
+        --indextable-hover-text: var(--text);
+        --indextable-hover-bg: #181818;
+
+        --outdatedspec-bg: rgba(255, 255, 255, .5);
+        --outdatedspec-text: black;
+        --outdated-bg: maroon;
+        --outdated-text: white;
+        --outdated-shadow: red;
+
+        --editedrec-bg: darkorange;
+    }
+    /* In case a transparent-bg image doesn't expect to be on a dark bg,
+       which is quite common in practice... */
+    img { background: white; }
+}
+</style>
+<style>/* Boilerplate: style-counters */
+body {
+    counter-reset: example figure issue;
+}
+.issue {
+    counter-increment: issue;
+}
+.issue:not(.no-marker)::before {
+    content: "Issue " counter(issue);
+}
+
+.example {
+    counter-increment: example;
+}
+.example:not(.no-marker)::before {
+    content: "Example " counter(example);
+}
+.invalid.example:not(.no-marker)::before,
+.illegal.example:not(.no-marker)::before {
+    content: "Invalid Example" counter(example);
+}
+
+figcaption {
+    counter-increment: figure;
+}
+figcaption:not(.no-marker)::before {
+    content: "Figure " counter(figure) " ";
+}
+</style>
+<style>/* Boilerplate: style-issues */
+a[href].issue-return {
+    float: right;
+    float: inline-end;
+    color: var(--issueheading-text);
+    font-weight: bold;
+    text-decoration: none;
+}
+</style>
+<style>/* Boilerplate: style-md-lists */
+/* This is a weird hack for me not yet following the commonmark spec
+   regarding paragraph and lists. */
+[data-md] > :first-child {
+    margin-top: 0;
+}
+[data-md] > :last-child {
+    margin-bottom: 0;
+}
+</style>
+<style>/* Boilerplate: style-selflinks */
+
+:root {
+    --selflink-text: white;
+    --selflink-bg: gray;
+    --selflink-hover-text: black;
+}
+.heading, .issue, .note, .example, li, dt {
+    position: relative;
+}
+a.self-link {
+    position: absolute;
+    top: 0;
+    left: calc(-1 * (3.5rem - 26px));
+    width: calc(3.5rem - 26px);
+    height: 2em;
+    text-align: center;
+    border: none;
+    transition: opacity .2s;
+    opacity: .5;
+}
+a.self-link:hover {
+    opacity: 1;
+}
+.heading > a.self-link {
+    font-size: 83%;
+}
+.example > a.self-link,
+.note > a.self-link,
+.issue > a.self-link {
+    /* These blocks are overflow:auto, so positioning outside
+       doesn't work. */
+    left: auto;
+    right: 0;
+}
+li > a.self-link {
+    left: calc(-1 * (3.5rem - 26px) - 2em);
+}
+dfn > a.self-link {
+    top: auto;
+    left: auto;
+    opacity: 0;
+    width: 1.5em;
+    height: 1.5em;
+    background: var(--selflink-bg);
+    color: var(--selflink-text);
+    font-style: normal;
+    transition: opacity .2s, background-color .2s, color .2s;
+}
+dfn:hover > a.self-link {
+    opacity: 1;
+}
+dfn > a.self-link:hover {
+    color: var(--selflink-hover-text);
+}
+
+a.self-link::before            { content: "¶"; }
+.heading > a.self-link::before { content: "§"; }
+dfn > a.self-link::before      { content: "#"; }
+</style>
+ <body class="h-entry">
+  <div class="head">
+   <p data-fill-with="logo"><a class="logo" href="https://www.w3.org/"> <img alt="W3C" height="48" src="https://www.w3.org/StyleSheets/TR/2021/logos/W3C" width="72"> </a> </p>
+   <h1 class="p-name no-ref" id="title">History of the W3C</h1>
+   <p id="w3c-state"><a href="https://www.w3.org/standards/types#ED">Editor’s Draft</a>, <time class="dt-updated" datetime="2023-07-24">24 July 2023</time></p>
+   <details open>
+    <summary>More details about this document</summary>
+    <div data-fill-with="spec-metadata">
+     <dl>
+      <dt>This version:
+      <dd><a class="u-url" href="https://w3c.github.io/ab-public/History">https://w3c.github.io/ab-public/History</a>
+      <dt>Latest published version:
+      <dd><a href="https://www.w3.org/TR/w3c-history/">https://www.w3.org/TR/w3c-history/</a>
+      <dt>Previous Versions:
+      <dd><a href="https://www.w3.org/TR/2023/DNOTE-w3c-vision-20230725/#history" rel="prev">https://www.w3.org/TR/2023/DNOTE-w3c-vision-20230725/#history</a>
+      <dt>Feedback:
+      <dd><a href="https://github.com/w3c/AB-public/issues/">GitHub</a>
+      <dt class="editor">Editor:
+      <dd class="editor p-author h-card vcard" data-editor-id="3742"><span class="p-name fn">Chris Wilson</span> (<span class="p-org org">Google</span>)
+     </dl>
+    </div>
+   </details>
+   <div data-fill-with="warning"></div>
+   <p class="copyright" data-fill-with="copyright"><a href="https://www.w3.org/Consortium/Legal/ipr-notice#Copyright">Copyright</a> © 2023 <a href="https://www.w3.org/">World Wide Web Consortium</a>. <abbr title="World Wide Web Consortium">W3C</abbr><sup>®</sup> <a href="https://www.w3.org/Consortium/Legal/ipr-notice#Legal_Disclaimer">liability</a>, <a href="https://www.w3.org/Consortium/Legal/ipr-notice#W3C_Trademarks">trademark</a> and <a href="https://www.w3.org/Consortium/Legal/copyright-software" rel="license" title="W3C Software and Document License">permissive document license</a> rules apply. </p>
+   <hr title="Separator for header">
+  </div>
+  <div class="p-summary" data-fill-with="abstract">
+   <h2 class="no-num no-toc no-ref heading settled" id="abstract"><span class="content">Abstract</span></h2>
+   <p>How did we get here and where is here?
+
+	This document relates a specific history of the W3C’s growth and success.</p>
+  </div>
+  <h2 class="no-num no-toc no-ref heading settled" id="sotd"><span class="content">Status of this document</span></h2>
+  <div data-fill-with="status">
+   <p> This is a public copy of the editors’ draft.
+	It is provided for discussion only and may change at any moment.
+	Its publication here does not imply endorsement of its contents by W3C.
+	Don’t cite this document other than as work in progress. </p>
+   <p>This document is governed by the <a href="https://www.w3.org/2023/Process-20230612/" id="w3c_process_revision">12 June 2023 W3C Process Document</a>. </p>
+   <p>The <a href="https://www.w3.org/Consortium/Patent-Policy-20200915/">15 September 2020 W3C Patent Policy</a> does not carry any licensing requirements or commitments on this document. </p>
+   <p></p>
+   <p>This document was developed by the Advisory Board
+
+in cooperation with its <a href="https://www.w3.org/wiki/AB/VisionTF">Vision Task Force</a>.
+It will continue to evolve, and the AB will issue updates as often as needed.</p>
+  </div>
+  <div data-fill-with="at-risk"></div>
+  <nav data-fill-with="table-of-contents" id="toc">
+   <h2 class="no-num no-toc no-ref" id="contents">Table of Contents</h2>
+   <ol class="toc" role="directory">
+    <li><a href="#w3c-past-era-1"><span class="secno">1</span> <span class="content">History: Inventing the Web Platform - 1995 to 2005</span></a>
+    <li><a href="#w3c-past-era-2"><span class="secno">2</span> <span class="content">History: Making the Web Platform Solid, Open, Interoperable - 2006 to 2019</span></a>
+    <li><a href="#w3c-present"><span class="secno">3</span> <span class="content">The Present: Our Situation</span></a>
+   </ol>
+  </nav>
+  <main>
+   <h2 class="heading settled" data-level="1" id="w3c-past-era-1"><span class="secno">1. </span><span class="content">History: Inventing the Web Platform - 1995 to 2005</span><a class="self-link" href="#w3c-past-era-1"></a></h2>
+   <p>For the first 10 years or so,
+	members of the W3C were working together
+	to invent an open platform that used the internet protocols
+	to share information to all humanity.
+	We figured out what technologies from various existing (often proprietary) systems
+	could be made to work via HTTP,
+	how they might fit together,
+	and which ones really got real world traction.
+	We:</p>
+   <ul>
+    <li data-md>
+     <p>Chose the best of ideas from early browsers, SGML editors, academic hypertext systems, word-processing products;</p>
+    <li data-md>
+     <p>incorporated scripting language support to make it customizable and dynamic;</p>
+    <li data-md>
+     <p>incorporated stylesheets to separate content from presentation;</p>
+    <li data-md>
+     <p>experimented with ways of integrating Web apps with databases and enterprise applications;</p>
+    <li data-md>
+     <p>built a broad community and deep expertise dedicated to ensuring the web is both accessible and international.</p>
+   </ul>
+   <p>By 2005 or so the overall architecture was fairly clear,
+	though curation of the HTML specification had moved to WHATWG.
+	HTTP serving HTML, CSS, DOM, and Javascript became the core technologies for the Web.
+	Other technologies such as XML, RDF, XSLT, Java/VB, and SOAP remain relevant and viable in some (often large) niches and enterprise-scale applications,
+	but have not become part of the core Web platform.</p>
+   <h2 class="heading settled" data-level="2" id="w3c-past-era-2"><span class="secno">2. </span><span class="content">History: Making the Web Platform Solid, Open, Interoperable - 2006 to 2019</span><a class="self-link" href="#w3c-past-era-2"></a></h2>
+   <p>Once the W3C and other open communities had proved the Web’s potential,
+	businesses, governments, and users around the world began to depend on it.
+	However, the Web struggled with many of the details:</p>
+   <ul>
+    <li data-md>
+     <p>under-specified and incompletely-implemented formats and APIs limited interoperability;</p>
+    <li data-md>
+     <p>the mobile Web platform took off and created many new technology challenges,
+but the core web and engines supporting it failed to adapt quickly;</p>
+    <li data-md>
+     <p>browser engines and clients evolved rapidly but unevenly;</p>
+    <li data-md>
+     <p>entertainment and commerce over-took knowledge creation and sharing as the most common use case for the Web;</p>
+    <li data-md>
+     <p>rapid change and business considerations led to confusion about what really was a “standard”.</p>
+   </ul>
+   <p>The businesses which depended on the Web generally believed
+	that they spent too much developer time just making their websites work
+	across the range of devices and browsers their customers used.
+	A significant number of major IT, telecom, entertainment, and other businesses have thought it good business
+	to invest in the W3C to help make the Web platform work better.
+	W3C and WHATWG agreed on the curation and publication of HTML.</p>
+   <h2 class="heading settled" data-level="3" id="w3c-present"><span class="secno">3. </span><span class="content">The Present: Our Situation</span><a class="self-link" href="#w3c-present"></a></h2>
+   <p>We have treated the Web as only a force for good, and indeed it has catalyzed major social changes.
+	We are proud of the positive changes: e-commerce, publishing, instant access to facts, social engagement, entertainment.
+	At the same time, the Web’s phenomenal success has led to many unintended consequences
+	that inflict significant distress on society:</p>
+   <ul>
+    <li data-md>
+     <p>Its openness and anonymity enable scams, phishing, and fraud.</p>
+    <li data-md>
+     <p>It is too easy to gather personal information, unknown to users:
+business models that support "free" access to web resources
+mostly depend on collecting detailed personal information on users without their knowledge,
+performing exploitive surveillance.
+The wealth of content funded by these models are a public good;
+the loss of personal privacy and higher barriers to understanding are not.</p>
+    <li data-md>
+     <p>By accelerating the easy exchange of information around the globe,
+it has enabled misinformation to flourish and be exploited for political or commercial gain;
+lack of diversity in participation at the W3C has undoubtedly led
+to <a href="https://en.wikipedia.org/wiki/Algorithmic_bias">biases in specifications</a>.</p>
+   </ul>
+   <p>In addition, the successes of the Web don’t ensure
+	that Members will keep supporting the W3C to perform its functions.
+	Far from there being a need to convince people of the value of the Web,
+	it has become <a href="https://en.wikipedia.org/wiki/Too_big_to_fail">“too big to fail”</a>.
+	The Web is a clear public good,
+	and sometimes suffers from the problem that its maintenance and development are taken as a given,
+	and fewer organizations can economically justify
+	investing their time and expertise in improving the platform for everyone else.</p>
+   <p>The Consortium must become much more conscious of its role,
+	more careful to analyze the unintended effects and consequences of the specifications it publishes,
+	and the technologies they support.
+	We must investigate and address security problems.
+	We must ensure that privacy is universally valued.
+	We must ensure the Web does not favor centralization.
+	The W3C has long unevenly participated in places where regulation and technology meet,
+	and our duty to inform public debate and regulation has expanded:
+	we must establish a forum to discuss and publish technical considerations on social issues.
+	The W3C must look more carefully at our contribution to major challenges facing humanity,
+	particularly sustainable development.
+	We must be conscious of our constituencies and their priorities,
+	and we must be explicit about the resulting values and principles.
+	We must continue to expand the accessibility of web content and expand the international reach of the platform.</p>
+   <p>At the same time, W3C must curate incubation and specification development
+	to meet the continuing needs of rapid technological evolution.
+	With a growing diversity of devices and situations that users access the web for their daily lives,
+	W3C will continue to be the venue where innovators gather
+	to share, critique new ideas, and work towards interoperable solutions users can depend on.
+	The Web platform has become too complex for any individual to grasp fully, or logically analyze,
+	so the omniscient Director model must morph into a scalable decision-making approach.</p>
+   <p>To do all this, the W3C needs to be a standalone international Consortium,
+	no longer hosted by academic institutions,
+	but self-governing and managing its own destiny and infrastructure.
+	We must do this by setting principles and adhering to them:
+	we must return to our core values, and expand on them.</p>
+  </main>
+<script src="https://www.w3.org/scripts/TR/2021/fixup.js"></script>
