@@ -1,5 +1,5 @@
 <pre class='metadata'>
-Title: History of the W3C
+Title: History of W3C
 Shortname: w3c-history
 Level: none
 Status: ED
@@ -10,7 +10,7 @@ Previous Version: https://www.w3.org/TR/2023/DNOTE-w3c-vision-20230725/#history
 Editor: Chris Wilson, Google, w3cid 3742
 Abstract:
 	How did we get here and where is here?
-	This document relates a specific history of the W3C’s growth and success.
+	This document relates a specific history of W3C’s growth and success.
 
 Status Text:
 	This document was developed by the Advisory Board
@@ -20,10 +20,10 @@ Status Text:
 Boilerplate: omit conformance
 </pre>
 
-# History: Inventing the Web Platform - 1995 to 2005 # {#w3c-past-era-1}
+# History: inventing the Web platform - 1995 to 2005 # {#w3c-past-era-1}
 
 	For the first 10 years or so,
-	members of the W3C were working together
+	members of W3C were working together
 	to invent an open platform that used the internet protocols
 	to share information to all humanity.
 	We figured out what technologies from various existing (often proprietary) systems
@@ -44,9 +44,9 @@ Boilerplate: omit conformance
 	Other technologies such as XML, RDF, XSLT, Java/VB, and SOAP remain relevant and viable in some (often large) niches and enterprise-scale applications,
 	but have not become part of the core Web platform.
 
-# History: Making the Web Platform Solid, Open, Interoperable - 2006 to 2019 # {#w3c-past-era-2}
+# History: making the Web platform solid, open, interoperable - 2006 to 2019 # {#w3c-past-era-2}
 
-	Once the W3C and other open communities had proved the Web's potential,
+	Once W3C and other open communities had proved the Web's potential,
 	businesses, governments, and users around the world began to depend on it.
 	However, the Web struggled with many of the details:
 
@@ -54,17 +54,17 @@ Boilerplate: omit conformance
 	* the mobile Web platform took off and created many new technology challenges,
 		but the core web and engines supporting it failed to adapt quickly;
 	* browser engines and clients evolved rapidly but unevenly;
-	* entertainment and commerce over-took knowledge creation and sharing as the most common use case for the Web;
+	* entertainment and commerce overtook knowledge creation and sharing as the most common use case for the Web;
 	* rapid change and business considerations led to confusion about what really was a “standard”.
 
 	The businesses which depended on the Web generally believed
 	that they spent too much developer time just making their websites work
-	across the range of devices and browsers their customers used.
+	across the range of devices and browsers which their customers used.
 	A significant number of major IT, telecom, entertainment, and other businesses have thought it good business
-	to invest in the W3C to help make the Web platform work better.
+	to invest in W3C to help make the Web platform work better.
 	W3C and WHATWG agreed on the curation and publication of HTML.
 
-# The Present: Our Situation # {#w3c-present}
+# The present: our situation # {#w3c-present}
 
 	We have treated the Web as only a force for good, and indeed it has catalyzed major social changes.
 	We are proud of the positive changes: e-commerce, publishing, instant access to facts, social engagement, entertainment.
@@ -80,11 +80,11 @@ Boilerplate: omit conformance
 		the loss of personal privacy and higher barriers to understanding are not.
 	* By accelerating the easy exchange of information around the globe,
 		it has enabled misinformation to flourish and be exploited for political or commercial gain;
-		lack of diversity in participation at the W3C has undoubtedly led
+		lack of diversity in participation at W3C has undoubtedly led
 		to <a href="https://en.wikipedia.org/wiki/Algorithmic_bias">biases in specifications</a>.
 
 	In addition, the successes of the Web don't ensure
-	that Members will keep supporting the W3C to perform its functions.
+	that Members will keep supporting W3C to perform its functions.
 	Far from there being a need to convince people of the value of the Web,
 	it has become <a href="https://en.wikipedia.org/wiki/Too_big_to_fail">“too big to fail”</a>.
 	The Web is a clear public good,
@@ -115,7 +115,7 @@ Boilerplate: omit conformance
 	The Web platform has become too complex for any individual to grasp fully, or logically analyze,
 	so the omniscient Director model must morph into a scalable decision-making approach.
 
-	To do all this, the W3C needs to be a standalone international Consortium,
+	To do all this, W3C needs to be a standalone international Consortium,
 	no longer hosted by academic institutions,
 	but self-governing and managing its own destiny and infrastructure.
 	We must do this by setting principles and adhering to them:

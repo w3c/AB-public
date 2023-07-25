@@ -9,7 +9,7 @@ ED: https://w3c.github.io/AB-public/Vision
 Previous Version: https://www.w3.org/TR/2023/DNOTE-w3c-vision-20230725/
 Editor: Chris Wilson, Google, w3cid 3742
 Abstract:
-	This Vision attempts to help world understand
+	This Vision attempts to help the world understand
 	what W3C is, what it does and why that matters;
 	and in particular to articulate the principles by which it operates
 	and that guide its decisions.
@@ -26,7 +26,7 @@ Boilerplate: omit conformance
 # Intention # {#intention}
 
 	This document is an articulation
-	of the W3C’s mission, values, purpose, and principles;
+	of W3C’s mission, values, purpose, and principles;
 	in other words, our vision for W3C as an organization
 	in the context of our vision for the Web itself.
 	The goal of this vision is not to predict the future,
@@ -107,7 +107,7 @@ Boilerplate: omit conformance
 
 # Vision for W3C # {#vision-org}
 
-	The fundamental purpose of the W3C is to provide an open forum
+	The fundamental purpose of W3C is to provide an open forum
 	where diverse voices from around the world
 	and from different organizations and industries
 	work together to build consensus
@@ -139,7 +139,7 @@ Boilerplate: omit conformance
 		and take feedback from the general public.
 
 
-	# Principles and Values # {#principles}
+	# Principles and values # {#principles}
 
 	As W3C leads the Web forward,
 	our mission is to recognize and embody fundamental values and principles
@@ -161,7 +161,7 @@ Boilerplate: omit conformance
 	* Encouraging incubation in new areas and industries
 		with open platforms for discussion, collaboration, and innovation,
 		making it more structured
-		and improving consensus-building among key stake holders.
+		and improving consensus-building among key stakeholders.
 	* Striving for the broadest participation,
 		along axes including worldwide participation, diversity, and inclusion,
 		facilitating balance, equity, and cooperation
@@ -180,9 +180,9 @@ Boilerplate: omit conformance
 		including building and maintaining respected relationships
 		with governments and businesses for providing credible advice.
 
-# Acknowledgements and Supporting Material # {#acknowledgements}
+# Acknowledgements and supporting material # {#acknowledgements}
 
-	* This document is intended to be a stronger vision statement for the <a href="https://w3.org/">W3C</a>.
+	* This document is intended to be a stronger vision statement for <a href="https://w3.org/">W3C</a>.
 		This is currently exposed as a work item of the <a href="https://www.w3.org/2002/ab/">W3C Advisory Board</a>,
 		on <a href="https://www.w3.org/wiki/AB/2021_Priorities#Vision">the AB wiki</a>.
 	* This document is the result of many people's work,
@@ -192,14 +192,13 @@ Boilerplate: omit conformance
 		excellent [[ETHICAL-WEB-PRINCIPLES inline|Ethical Web Principles]].
 		It is not intended to supplant that work nor redefine it,
 		but fit into the same framework and promote many of the same goals.
-	* <span oldids="history"></span>This document also builds on a specific [[W3C-HISTORY inline|history]] of the W3C's growth and success.
-
+	* <span oldids="history"></span>This document also builds on a specific [[W3C-HISTORY inline|history]] of W3C's growth and success.
 
 <pre class=biblio>
 {
 	"W3C-HISTORY": {
 		"href": "https://www.w3.org/TR/2023/DNOTE-w3c-vision-20230725/#history", <!-- To be replaced with a link to the History as a standalone document, if/when it gets published as such -->
-		"title": "A History of the W3C",
+		"title": "A History of W3C",
 		"publisher": "W3C"
 		}
 }
