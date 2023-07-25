@@ -13,6 +13,7 @@ BUILD_TARGETS=(
 # or for pre-built documents (supporting files, dated snapshots…)
 COPY_TARGETS=(
 	"Vision/AC-2021"
+	"README.md"
 )
 
 # So we can see what we're doing
