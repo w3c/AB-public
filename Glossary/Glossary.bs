@@ -1,0 +1,186 @@
+<pre class='metadata'>
+Title: W3C Glossary
+Level: none
+Group: AB
+Status: ED
+ED: https://w3c.github.io/AB-public/Glossary
+TR: https://www.w3.org/TR/w3c-glossary/
+Editor: Florian Rivoal, Invited Expert, https://florian.rivoal.net/
+Shortname: w3c-glossary
+Abstract:
+	This document is a centralized reference for common W3C terminology and jargon.
+Boilerplate: index no
+Boilerplate: omit conformance
+</pre>
+
+	<div boilerplate="status">
+		This document is a work in progress,
+		and feedback is most welcome.
+	</div>
+
+<h2 id=intro>
+Introduction</h2>
+
+	A lot of uncommon terminology is in use within W3C.
+	Moreover, many seemingly ordinary words
+	are given specialized meaning.
+	Most of the time, such terms are given a definition some W3C document,
+	but discovering where this definition lies may be challenging.
+
+	This document provides an index of many such terms,
+	starting with those defined in central documents
+	like the [[w3c-process inline]] and [[w3c-patent-policy inline]],
+	and continuing with a selection of noteworthy terms
+	defined in other documents;
+	finally, it provides a definition
+	for terms commonly used but lacking a (known) formal definition in other documents.
+
+	This document does not attempt to provide exhaustive coverage
+	of all specialized technical terms in use in every W3C specification.
+	Many are only in use within very limited contexts,
+	and an exhaustive list would become too long to be practically usable.
+	The focus here is on terms that may reasonably be encountered
+	in many or most W3C groups.
+
+	Nevertheless, <a href="#also">The last section of this document</a>
+	links to more specialized glossaries maintained by other groups,
+	as well as to earlier attempts at W3C-wide glossaries.
+
+<h2 id=process>
+Process Terms</h2>
+
+	The following terms are defined in the [[!w3c-process inline]]:
+
+	<index type=dfn spec=w3c-process export=no></index>
+
+<h2 id=pp>
+Patent Policy Terms</h2>
+
+	The following terms are defined in the [[!w3c-patent-policy inline]]:
+
+	<index type=dfn spec=w3c-patent-policy export=no></index>
+
+<h2 id=jargon>
+General W3C Jargon</h2>
+
+<h3 id=x-ref>
+Miscellaneous Terms</h3>
+
+	The following is a selection of noteworthy terms commonly used in W3C
+	and defined in other documents:
+
+	<ul class="index">
+		<li><a spec=infra>user agent</a>
+		<li>…
+	</ul>
+
+<h3 id=undef>
+Terms Lacking a Known Definition Elsewhere</h3>
+
+	The following is a selection of noteworthy terms commonly used in W3C
+	lacking an identified definition in other actively maintained documents:
+
+	<!-- This list was seeded with terms from https://www.w3.org/2001/12/Glossary -->
+
+	<dl>
+		<dt><dfn export>a11y</dfn>
+		<dd>
+			<i>abbr.</i> Accessibility.
+			The form <code>[first letter][number][last letter]</code> has come into common usage
+			as a way of abbreviating single long words.
+			Such words begin with the <code>[first letter]</code>
+			have <code>[number]</code> of letters in the middle,
+			and end with the <code>[last letter]</code>.
+			See also [=i18n=].
+
+		<dt><dfn export>bikeshed</dfn>
+		<dd>
+			A piece of software used to generate fully formatted specifications
+			from a textual input file with specialized markup.
+			See the <a href="https://tabatkins.github.io/bikeshed/">bikeshed documentation</a>.
+
+		<dt><dfn export>i18n</dfn>
+		<dd>
+			<i>abbr.</i> Internationalization.
+			The form <code>[first letter][number][last letter]</code> has come into common usage
+			as a way of abbreviating single long words.
+			Such words begin with the <code>[first letter]</code>
+			have <code>[number]</code> of letters in the middle,
+			and end with the <code>[last letter]</code>.
+			See also [=a11y=].
+
+		<dt><dfn export>Living Standard</dfn>
+		<dd>
+			A continuously developped and maintained standard,
+			typically without versioning.
+			This term was introduced by the <a href="https://whatwg.org/">WHATWG</a>,
+			but is occasionally used to descibe specifications maintained in a similar way
+			in other standards bodies, including W3C.
+			See the <a href="https://whatwg.org/workstream-policy#living-standard">WHATWG definition</a>.
+
+		<dt><dfn export>scribe</dfn>
+		<dd>
+			<i>n.</i> A person designated to record and publish the proceedings of a meeting.
+		<dd>
+			<i>v.</i> To record and publish the proceedings of a meeting.
+
+		<dt><dfn export>WPT</dfn>
+		<dd>
+			<a href="https://web-platform-tests.org/">Web Platform Tests</a>.
+			A project to develop a cross-browser test suite for the Web-platform stack.
+
+		<dt><dfn export>zakim</dfn>
+		<dd>
+			An IRC bot which assists with meeting management.
+			See the <a href="https://www.w3.org/2001/12/zakim-irc-bot">Zakim documentation</a>.
+
+		<!--
+		<dt><dfn export></dfn>
+		<dd>
+		-->
+	</dl>
+
+<h2 id=also>
+Other Relevant Resources</h2>
+
+	Readers of this document may also be interested in the following resources:
+
+	* The [[!i18n-glossary inline]]
+	* The <a href="https://www.w3.org/Consortium/cepc/#glossary">glossary section</a> of the [[!CEPC inline]]
+
+	Earlier discontinued attempts at maintaining a glossary:
+	* [[JARGON inline]]
+	* [[GLOSS-DIC inline]]
+
+<div boilerplate="conformance"></div>
+<pre class=biblio>
+{
+	"CEPC": {
+		"authors": [
+			"Tzviya Siegman",
+			"An Qi Li",
+			"Ada Rose Cannon"
+		],
+		"href": "https://www.w3.org/Consortium/cepc/",
+		"title": "Positive Work Environment at W3C: Code of Ethics and Professional Conduct",
+		"publisher": "W3C"
+	},
+	"JARGON": {
+		"authors": [
+			"Alan Kotok"
+		],
+		"href": "https://www.w3.org/2001/12/Glossary",
+		"title": "Glossary of W3C Jargon",
+		"publisher": "W3C"
+	},
+	"GLOSS-DIC": {
+		"authors": [
+			"Pierre Candela",
+			"Dominique Hazael-Massieux"
+		],
+		"href": "https://www.w3.org/2003/glossary/",
+		"title": "W3C Glossary and Dictionary",
+		"publisher": "W3C"
+	}
+}
+</pre>

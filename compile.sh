@@ -6,6 +6,7 @@ PUBLICATION_URL="https://w3c.github.io/ab-public/"
 BUILD_TARGETS=(
 	"Vision/Vision.bs"
 	"Vision/History.bs"
+	"Glossary/Glossary.bs"
 )
 
 # files or directories to be copied as is into the output.
