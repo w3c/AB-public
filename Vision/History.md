@@ -24,7 +24,7 @@ Once W3C and other open communities had proved the Web's potential, businesses, 
 
 The businesses which depended on the Web generally believed that they spent too much developer time just making their websites work across the range of devices and browsers which their customers used. A significant number of major IT, telecom, entertainment, and other businesses have thought it good business to invest in W3C to help make the Web platform work better. W3C and WHATWG agreed on the curation and publication of HTML.
 
-## The Present: our situation
+## The present: our situation
 We have treated the Web as only a force for good, and indeed it has catalyzed major social changes. We are proud of the positive changes: e-commerce, publishing, instant access to facts, social engagement, entertainment. At the same time, the Web's phenomenal success has led to many unintended consequences that inflict significant distress on society:
 
 * Its openness and anonymity enable scams, phishing, and fraud.
