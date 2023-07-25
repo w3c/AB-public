@@ -166,7 +166,7 @@ This is a draft document and may be updated, replaced or obsoleted by other docu
 
 The W3C Patent Policy does not carry any licensing requirements or commitments on this document.
 
-This document is governed by the 2 November 2021 W3C Process Document.
+This document is governed by the 12 June 2023 W3C Process Document.
 
 # Acknowledgements and supporting material
 
