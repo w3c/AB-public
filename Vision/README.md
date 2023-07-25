@@ -1,6 +1,6 @@
-# W3C Vision: An Emphasis on Values
+# W3C Vision: An emphasis on values
 
-## Status of this Document
+## Status of this document
 This document is an articulation 
 of the W3C’s mission, values, purpose, and principles;
 in other words, our vision for W3C as an organization 
@@ -82,7 +82,7 @@ and the trust it earns from them.
 
 # Vision for W3C
 
-The fundamental purpose of the W3C is to provide an open forum 
+The fundamental purpose of W3C is to provide an open forum 
 where diverse voices from around the world
 and from different organizations and industries
 work together to build consensus
@@ -114,7 +114,7 @@ on voluntary global standards for Web technologies.
 	and take feedback from the general public.
 
 
-# Principles and Values
+# Principles and values
 
 As W3C leads the Web forward, 
 our mission is to recognize and embody fundamental values and principles 
@@ -136,7 +136,7 @@ We will do this by:
 * Encouraging incubation in new areas and industries 
 	with open platforms for discussion, collaboration, and innovation, 
 	making it more structured 
-	and improving consensus-building among key stake holders.
+	and improving consensus-building among key stakeholders.
 * Striving for the broadest participation, 
 	along axes including worldwide participation, diversity, and inclusion, 
 	facilitating balance, equity, and cooperation 
@@ -157,7 +157,7 @@ We will do this by:
 
 # Status
 
-Status of This Document
+Status of this document
 This document was developed by the Advisory Board. It will continue to evolve and the AB will issue updates as often as needed. The intent is for this document to become a W3C Statement.
 
 This document is maintained by the Advisory Board as a Group Draft Note using the Note track. Group Draft Notes are not endorsed by W3C nor its Members.
@@ -168,9 +168,9 @@ The W3C Patent Policy does not carry any licensing requirements or commitments o
 
 This document is governed by the 2 November 2021 W3C Process Document.
 
-# Acknowledgements and Supporting Material
+# Acknowledgements and supporting material
 
-* This document is intended to be a stronger vision statement for the [W3C](https://w3.org/). 
+* This document is intended to be a stronger vision statement for [W3C](https://w3.org/). 
 	This is currently exposed as a work item of the [W3C Advisory Board](https://www.w3.org/2002/ab/), 
 	on [the AB wiki](https://www.w3.org/wiki/AB/2021_Priorities#Vision). 
 * This document is the result of many people's work, 
@@ -179,5 +179,5 @@ This document is governed by the 2 November 2021 W3C Process Document.
 * This document builds on the basis of the Technical Architecture Group's 
 	excellent [Ethical Web Principles](https://www.w3.org/2001/tag/doc/ethical-web-principles/). 
 	It is not intended to supplant that work nor redefine it, 
-	but fit into the same framework and promote many of the same goals.
+	but to fit into the same framework and promote many of the same goals.
 * This document also builds on a specific [history](History.md) of the W3C's growth and success.
