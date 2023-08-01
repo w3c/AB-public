@@ -97,7 +97,7 @@ Terms Lacking a Known Definition Elsewhere</h3>
 		<dd>
 			A piece of software used to generate fully formatted specifications
 			from a textual input file with specialized markup.
-			See the <a href="https://tabatkins.github.io/bikeshed/">bikeshed documentation</a>.
+			See the <a href="https://speced.github.io/bikeshed/">bikeshed documentation</a>.
 
 		<dt><dfn export>i18n</dfn>
 		<dd>
