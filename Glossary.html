@@ -1,0 +1,1188 @@
+<!doctype html><html lang="en">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+  <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
+  <title>W3C Glossary</title>
+  <meta content="ED" name="w3c-status">
+  <link href="https://www.w3.org/StyleSheets/TR/2021/W3C-ED" rel="stylesheet">
+  <meta content="Bikeshed version d29f71adb, updated Wed Jul 19 11:08:56 2023 -0700" name="generator">
+  <link href="https://www.w3.org/TR/w3c-glossary/" rel="canonical">
+  <meta content="312b7466154f2f8c3a234df5e34bb35bd66ab6a7" name="document-revision">
+<style>/* Boilerplate: style-autolinks */
+.css.css, .property.property, .descriptor.descriptor {
+    color: var(--a-normal-text);
+    font-size: inherit;
+    font-family: inherit;
+}
+.css::before, .property::before, .descriptor::before {
+    content: "‘";
+}
+.css::after, .property::after, .descriptor::after {
+    content: "’";
+}
+.property, .descriptor {
+    /* Don't wrap property and descriptor names */
+    white-space: nowrap;
+}
+.type { /* CSS value <type> */
+    font-style: italic;
+}
+pre .property::before, pre .property::after {
+    content: "";
+}
+[data-link-type="property"]::before,
+[data-link-type="propdesc"]::before,
+[data-link-type="descriptor"]::before,
+[data-link-type="value"]::before,
+[data-link-type="function"]::before,
+[data-link-type="at-rule"]::before,
+[data-link-type="selector"]::before,
+[data-link-type="maybe"]::before {
+    content: "‘";
+}
+[data-link-type="property"]::after,
+[data-link-type="propdesc"]::after,
+[data-link-type="descriptor"]::after,
+[data-link-type="value"]::after,
+[data-link-type="function"]::after,
+[data-link-type="at-rule"]::after,
+[data-link-type="selector"]::after,
+[data-link-type="maybe"]::after {
+    content: "’";
+}
+
+[data-link-type].production::before,
+[data-link-type].production::after,
+.prod [data-link-type]::before,
+.prod [data-link-type]::after {
+    content: "";
+}
+
+[data-link-type=element],
+[data-link-type=element-attr] {
+    font-family: Menlo, Consolas, "DejaVu Sans Mono", monospace;
+    font-size: .9em;
+}
+[data-link-type=element]::before { content: "<" }
+[data-link-type=element]::after  { content: ">" }
+
+[data-link-type=biblio] {
+    white-space: pre;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --selflink-text: black;
+        --selflink-bg: silver;
+        --selflink-hover-text: white;
+    }
+}
+</style>
+<style>/* Boilerplate: style-colors */
+
+/* Any --*-text not paired with a --*-bg is assumed to have a transparent bg */
+:root {
+    color-scheme: light dark;
+
+    --text: black;
+    --bg: white;
+
+    --unofficial-watermark: url(https://www.w3.org/StyleSheets/TR/2016/logos/UD-watermark);
+
+    --logo-bg: #1a5e9a;
+    --logo-active-bg: #c00;
+    --logo-text: white;
+
+    --tocnav-normal-text: #707070;
+    --tocnav-normal-bg: var(--bg);
+    --tocnav-hover-text: var(--tocnav-normal-text);
+    --tocnav-hover-bg: #f8f8f8;
+    --tocnav-active-text: #c00;
+    --tocnav-active-bg: var(--tocnav-normal-bg);
+
+    --tocsidebar-text: var(--text);
+    --tocsidebar-bg: #f7f8f9;
+    --tocsidebar-shadow: rgba(0,0,0,.1);
+    --tocsidebar-heading-text: hsla(203,20%,40%,.7);
+
+    --toclink-text: var(--text);
+    --toclink-underline: #3980b5;
+    --toclink-visited-text: var(--toclink-text);
+    --toclink-visited-underline: #054572;
+
+    --heading-text: #005a9c;
+
+    --hr-text: var(--text);
+
+    --algo-border: #def;
+
+    --del-text: red;
+    --del-bg: transparent;
+    --ins-text: #080;
+    --ins-bg: transparent;
+
+    --a-normal-text: #034575;
+    --a-normal-underline: #bbb;
+    --a-visited-text: var(--a-normal-text);
+    --a-visited-underline: #707070;
+    --a-hover-bg: rgba(75%, 75%, 75%, .25);
+    --a-active-text: #c00;
+    --a-active-underline: #c00;
+
+    --blockquote-border: silver;
+    --blockquote-bg: transparent;
+    --blockquote-text: currentcolor;
+
+    --issue-border: #e05252;
+    --issue-bg: #fbe9e9;
+    --issue-text: var(--text);
+    --issueheading-text: #831616;
+
+    --example-border: #e0cb52;
+    --example-bg: #fcfaee;
+    --example-text: var(--text);
+    --exampleheading-text: #574b0f;
+
+    --note-border: #52e052;
+    --note-bg: #e9fbe9;
+    --note-text: var(--text);
+    --noteheading-text: hsl(120, 70%, 30%);
+    --notesummary-underline: silver;
+
+    --assertion-border: #aaa;
+    --assertion-bg: #eee;
+    --assertion-text: black;
+
+    --advisement-border: orange;
+    --advisement-bg: #fec;
+    --advisement-text: var(--text);
+    --advisementheading-text: #b35f00;
+
+    --warning-border: red;
+    --warning-bg: hsla(40,100%,50%,0.95);
+    --warning-text: var(--text);
+
+    --amendment-border: #330099;
+    --amendment-bg: #F5F0FF;
+    --amendment-text: var(--text);
+    --amendmentheading-text: #220066;
+
+    --def-border: #8ccbf2;
+    --def-bg: #def;
+    --def-text: var(--text);
+    --defrow-border: #bbd7e9;
+
+    --datacell-border: silver;
+
+    --indexinfo-text: #707070;
+
+    --indextable-hover-text: black;
+    --indextable-hover-bg: #f7f8f9;
+
+    --outdatedspec-bg: rgba(0, 0, 0, .5);
+    --outdatedspec-text: black;
+    --outdated-bg: maroon;
+    --outdated-text: white;
+    --outdated-shadow: red;
+
+    --editedrec-bg: darkorange;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --text: #ddd;
+        --bg: black;
+
+        --unofficial-watermark: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400'%3E%3Cg fill='%23100808' transform='translate(200 200) rotate(-45) translate(-200 -200)' stroke='%23100808' stroke-width='3'%3E%3Ctext x='50%25' y='220' style='font: bold 70px sans-serif; text-anchor: middle; letter-spacing: 6px;'%3EUNOFFICIAL%3C/text%3E%3Ctext x='50%25' y='305' style='font: bold 70px sans-serif; text-anchor: middle; letter-spacing: 6px;'%3EDRAFT%3C/text%3E%3C/g%3E%3C/svg%3E");
+
+        --logo-bg: #1a5e9a;
+        --logo-active-bg: #c00;
+        --logo-text: white;
+
+        --tocnav-normal-text: #999;
+        --tocnav-normal-bg: var(--bg);
+        --tocnav-hover-text: var(--tocnav-normal-text);
+        --tocnav-hover-bg: #080808;
+        --tocnav-active-text: #f44;
+        --tocnav-active-bg: var(--tocnav-normal-bg);
+
+        --tocsidebar-text: var(--text);
+        --tocsidebar-bg: #080808;
+        --tocsidebar-shadow: rgba(255,255,255,.1);
+        --tocsidebar-heading-text: hsla(203,20%,40%,.7);
+
+        --toclink-text: var(--text);
+        --toclink-underline: #6af;
+        --toclink-visited-text: var(--toclink-text);
+        --toclink-visited-underline: #054572;
+
+        --heading-text: #8af;
+
+        --hr-text: var(--text);
+
+        --algo-border: #456;
+
+        --del-text: #f44;
+        --del-bg: transparent;
+        --ins-text: #4a4;
+        --ins-bg: transparent;
+
+        --a-normal-text: #6af;
+        --a-normal-underline: #555;
+        --a-visited-text: var(--a-normal-text);
+        --a-visited-underline: var(--a-normal-underline);
+        --a-hover-bg: rgba(25%, 25%, 25%, .2);
+        --a-active-text: #f44;
+        --a-active-underline: var(--a-active-text);
+
+        --borderedblock-bg: rgba(255, 255, 255, .05);
+
+        --blockquote-border: silver;
+        --blockquote-bg: var(--borderedblock-bg);
+        --blockquote-text: currentcolor;
+
+        --issue-border: #e05252;
+        --issue-bg: var(--borderedblock-bg);
+        --issue-text: var(--text);
+        --issueheading-text: hsl(0deg, 70%, 70%);
+
+        --example-border: hsl(50deg, 90%, 60%);
+        --example-bg: var(--borderedblock-bg);
+        --example-text: var(--text);
+        --exampleheading-text: hsl(50deg, 70%, 70%);
+
+        --note-border: hsl(120deg, 100%, 35%);
+        --note-bg: var(--borderedblock-bg);
+        --note-text: var(--text);
+        --noteheading-text: hsl(120, 70%, 70%);
+        --notesummary-underline: silver;
+
+        --assertion-border: #444;
+        --assertion-bg: var(--borderedblock-bg);
+        --assertion-text: var(--text);
+
+        --advisement-border: orange;
+        --advisement-bg: #222218;
+        --advisement-text: var(--text);
+        --advisementheading-text: #f84;
+
+        --warning-border: red;
+        --warning-bg: hsla(40,100%,20%,0.95);
+        --warning-text: var(--text);
+
+        --amendment-border: #330099;
+        --amendment-bg: #080010;
+        --amendment-text: var(--text);
+        --amendmentheading-text: #cc00ff;
+
+        --def-border: #8ccbf2;
+        --def-bg: #080818;
+        --def-text: var(--text);
+        --defrow-border: #136;
+
+        --datacell-border: silver;
+
+        --indexinfo-text: #aaa;
+
+        --indextable-hover-text: var(--text);
+        --indextable-hover-bg: #181818;
+
+        --outdatedspec-bg: rgba(255, 255, 255, .5);
+        --outdatedspec-text: black;
+        --outdated-bg: maroon;
+        --outdated-text: white;
+        --outdated-shadow: red;
+
+        --editedrec-bg: darkorange;
+    }
+    /* In case a transparent-bg image doesn't expect to be on a dark bg,
+       which is quite common in practice... */
+    img { background: white; }
+}
+</style>
+<style>/* Boilerplate: style-counters */
+body {
+    counter-reset: example figure issue;
+}
+.issue {
+    counter-increment: issue;
+}
+.issue:not(.no-marker)::before {
+    content: "Issue " counter(issue);
+}
+
+.example {
+    counter-increment: example;
+}
+.example:not(.no-marker)::before {
+    content: "Example " counter(example);
+}
+.invalid.example:not(.no-marker)::before,
+.illegal.example:not(.no-marker)::before {
+    content: "Invalid Example" counter(example);
+}
+
+figcaption {
+    counter-increment: figure;
+}
+figcaption:not(.no-marker)::before {
+    content: "Figure " counter(figure) " ";
+}
+</style>
+<style>/* Boilerplate: style-dfn-panel */
+:root {
+    --dfnpanel-bg: #ddd;
+    --dfnpanel-text: var(--text);
+}
+@media (prefers-color-scheme: dark) {
+    :root {
+        --dfnpanel-bg: #222;
+        --dfnpanel-text: var(--text);
+    }
+}
+.dfn-panel {
+    position: absolute;
+    z-index: 35;
+    width: 20em;
+    width: 300px;
+    height: auto;
+    max-height: 500px;
+    overflow: auto;
+    padding: 0.5em 0.75em;
+    font: small Helvetica Neue, sans-serif, Droid Sans Fallback;
+    background: var(--dfnpanel-bg);
+    color: var(--dfnpanel-text);
+    border: outset 0.2em;
+    white-space: normal; /* in case it's moved into a pre */
+}
+.dfn-panel:not(.on) { display: none; }
+.dfn-panel * { margin: 0; padding: 0; text-indent: 0; }
+.dfn-panel > b { display: block; }
+.dfn-panel a { color: var(--dfnpanel-text); }
+.dfn-panel a:not(:hover) { text-decoration: none !important; border-bottom: none !important; }
+.dfn-panel > b + b { margin-top: 0.25em; }
+.dfn-panel ul { padding: 0 0 0 1em; list-style: none; }
+.dfn-panel li a {
+    white-space: pre;
+    display: inline-block;
+    max-width: calc(300px - 1.5em - 1em);
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.dfn-panel.activated {
+    display: inline-block;
+    position: fixed;
+    left: .5em;
+    bottom: 2em;
+    margin: 0 auto;
+    max-width: calc(100vw - 1.5em - .4em - .5em);
+    max-height: 30vh;
+}
+
+.dfn-paneled[role="button"] { cursor: pointer; }
+</style>
+<style>/* Boilerplate: style-issues */
+a[href].issue-return {
+    float: right;
+    float: inline-end;
+    color: var(--issueheading-text);
+    font-weight: bold;
+    text-decoration: none;
+}
+</style>
+<style>/* Boilerplate: style-md-lists */
+/* This is a weird hack for me not yet following the commonmark spec
+   regarding paragraph and lists. */
+[data-md] > :first-child {
+    margin-top: 0;
+}
+[data-md] > :last-child {
+    margin-bottom: 0;
+}
+</style>
+<style>/* Boilerplate: style-selflinks */
+
+:root {
+    --selflink-text: white;
+    --selflink-bg: gray;
+    --selflink-hover-text: black;
+}
+.heading, .issue, .note, .example, li, dt {
+    position: relative;
+}
+a.self-link {
+    position: absolute;
+    top: 0;
+    left: calc(-1 * (3.5rem - 26px));
+    width: calc(3.5rem - 26px);
+    height: 2em;
+    text-align: center;
+    border: none;
+    transition: opacity .2s;
+    opacity: .5;
+}
+a.self-link:hover {
+    opacity: 1;
+}
+.heading > a.self-link {
+    font-size: 83%;
+}
+.example > a.self-link,
+.note > a.self-link,
+.issue > a.self-link {
+    /* These blocks are overflow:auto, so positioning outside
+       doesn't work. */
+    left: auto;
+    right: 0;
+}
+li > a.self-link {
+    left: calc(-1 * (3.5rem - 26px) - 2em);
+}
+dfn > a.self-link {
+    top: auto;
+    left: auto;
+    opacity: 0;
+    width: 1.5em;
+    height: 1.5em;
+    background: var(--selflink-bg);
+    color: var(--selflink-text);
+    font-style: normal;
+    transition: opacity .2s, background-color .2s, color .2s;
+}
+dfn:hover > a.self-link {
+    opacity: 1;
+}
+dfn > a.self-link:hover {
+    color: var(--selflink-hover-text);
+}
+
+a.self-link::before            { content: "¶"; }
+.heading > a.self-link::before { content: "§"; }
+dfn > a.self-link::before      { content: "#"; }
+</style>
+ <body class="h-entry">
+  <div class="head">
+   <p data-fill-with="logo"><a class="logo" href="https://www.w3.org/"> <img alt="W3C" height="48" src="https://www.w3.org/StyleSheets/TR/2021/logos/W3C" width="72"> </a> </p>
+   <h1 class="p-name no-ref" id="title">W3C Glossary</h1>
+   <p id="w3c-state"><a href="https://www.w3.org/standards/types#ED">Editor’s Draft</a>, <time class="dt-updated" datetime="2023-08-03">3 August 2023</time></p>
+   <details open>
+    <summary>More details about this document</summary>
+    <div data-fill-with="spec-metadata">
+     <dl>
+      <dt>This version:
+      <dd><a class="u-url" href="https://w3c.github.io/AB-public/Glossary">https://w3c.github.io/AB-public/Glossary</a>
+      <dt>Latest published version:
+      <dd><a href="https://www.w3.org/TR/w3c-glossary/">https://www.w3.org/TR/w3c-glossary/</a>
+      <dt>Feedback:
+      <dd><a href="https://github.com/w3c/AB-public/issues/">GitHub</a>
+      <dt class="editor">Editor:
+      <dd class="editor p-author h-card vcard"><a class="p-name fn u-url url" href="https://florian.rivoal.net/">Florian Rivoal</a> (<span class="p-org org">Invited Expert</span>)
+     </dl>
+    </div>
+   </details>
+   <div data-fill-with="warning"></div>
+   <p class="copyright" data-fill-with="copyright"><a href="https://www.w3.org/Consortium/Legal/ipr-notice#Copyright">Copyright</a> © 2023 <a href="https://www.w3.org/">World Wide Web Consortium</a>. <abbr title="World Wide Web Consortium">W3C</abbr><sup>®</sup> <a href="https://www.w3.org/Consortium/Legal/ipr-notice#Legal_Disclaimer">liability</a>, <a href="https://www.w3.org/Consortium/Legal/ipr-notice#W3C_Trademarks">trademark</a> and <a href="https://www.w3.org/Consortium/Legal/copyright-software" rel="license" title="W3C Software and Document License">permissive document license</a> rules apply. </p>
+   <hr title="Separator for header">
+  </div>
+  <div class="p-summary" data-fill-with="abstract">
+   <h2 class="no-num no-toc no-ref heading settled" id="abstract"><span class="content">Abstract</span></h2>
+   <p>This document is a centralized reference for common W3C terminology and jargon.</p>
+  </div>
+  <h2 class="no-num no-toc no-ref heading settled" id="sotd"><span class="content">Status of this document</span></h2>
+  <div data-fill-with="status"> This document is a work in progress,
+		and feedback is most welcome. </div>
+  <div data-fill-with="at-risk"></div>
+  <nav data-fill-with="table-of-contents" id="toc">
+   <h2 class="no-num no-toc no-ref" id="contents">Table of Contents</h2>
+   <ol class="toc" role="directory">
+    <li><a href="#intro"><span class="secno">1</span> <span class="content"> Introduction</span></a>
+    <li><a href="#process"><span class="secno">2</span> <span class="content"> Process Terms</span></a>
+    <li><a href="#pp"><span class="secno">3</span> <span class="content"> Patent Policy Terms</span></a>
+    <li>
+     <a href="#jargon"><span class="secno">4</span> <span class="content"> General W3C Jargon</span></a>
+     <ol class="toc">
+      <li><a href="#x-ref"><span class="secno">4.1</span> <span class="content"> Miscellaneous Terms</span></a>
+      <li><a href="#undef"><span class="secno">4.2</span> <span class="content"> Terms Lacking a Known Definition Elsewhere</span></a>
+     </ol>
+    <li><a href="#also"><span class="secno">5</span> <span class="content"> Other Relevant Resources</span></a>
+    <li>
+     <a href="#references"><span class="secno"></span> <span class="content">References</span></a>
+     <ol class="toc">
+      <li><a href="#normative"><span class="secno"></span> <span class="content">Normative References</span></a>
+      <li><a href="#informative"><span class="secno"></span> <span class="content">Informative References</span></a>
+     </ol>
+   </ol>
+  </nav>
+  <main>
+   <h2 class="heading settled" data-level="1" id="intro"><span class="secno">1. </span><span class="content"> Introduction</span><a class="self-link" href="#intro"></a></h2>
+   <p>A lot of uncommon terminology is in use within W3C.
+	Moreover, many seemingly ordinary words
+	are given specialized meaning.
+	Most of the time, such terms are given a definition some W3C document,
+	but discovering where this definition lies may be challenging.</p>
+   <p>This document provides an index of many such terms,
+	starting with those defined in central documents
+	like the <a data-biblio-display="inline" data-link-type="biblio" href="https://www.w3.org/Consortium/Process/"><cite>W3C Process Document</cite></a> and <a data-biblio-display="inline" data-link-type="biblio" href="https://www.w3.org/Consortium/Patent-Policy/"><cite>W3C Patent Policy</cite></a>,
+	and continuing with a selection of noteworthy terms
+	defined in other documents;
+	finally, it provides a definition
+	for terms commonly used but lacking a (known) formal definition in other documents.</p>
+   <p>This document does not attempt to provide exhaustive coverage
+	of all specialized technical terms in use in every W3C specification.
+	Many are only in use within very limited contexts,
+	and an exhaustive list would become too long to be practically usable.
+	The focus here is on terms that may reasonably be encountered
+	in many or most W3C groups.</p>
+   <p>Nevertheless, <a href="#also">The last section of this document</a> links to more specialized glossaries maintained by other groups,
+	as well as to earlier attempts at W3C-wide glossaries.</p>
+   <h2 class="heading settled" data-level="2" id="process"><span class="secno">2. </span><span class="content"> Process Terms</span><a class="self-link" href="#process"></a></h2>
+   <p>The following terms are defined in the <a data-biblio-display="inline" data-link-type="biblio" href="https://www.w3.org/Consortium/Process/"><cite>W3C Process Document</cite></a>:</p>
+   <div data-link-spec="w3c-process">
+    <ul class="index">
+     <li><a href="https://www.w3.org/Consortium/Process/#advisory-board">ab</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#WGNote">ab note</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#advisory-committee">ac</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#advisory-committee-appeal">ac appeal</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#advisory-committee-representative">ac representative</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#advisory-committee-review">ac review</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#adequate-implementation">adequate implementation experience</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#adopted-draft">adopted draft</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#advisory-board">advisory board</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#advisory-committee">advisory committee</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#advisory-committee-appeal">advisory committee appeal</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#advisory-committee-representative">advisory committee representative</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#advisory-committee-review">advisory committee review</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#allow-new-features">allow new features</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#alternate-ac-representative">alt ac rep</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#alternate-ac-representative">alternate ac representative</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#alternate-ac-representative">alternate advisory committee representative</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#advisory-committee-appeal">appeal</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#at-risk">at risk</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#bod">board</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#bod">board of directors</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#bod">bod</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#reviewform">call for review</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#candidate-addition">candidate addition</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#candidate-amendment">candidate amendment</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#candidate-correction">candidate correction</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#RecsCR">candidate recommendation</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#candidate-recommendation-draft">candidate recommendation draft</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#candidate-recommendation-review-period">candidate recommendation review period</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#candidate-recommendation-snapshot">candidate recommendation snapshot</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#candidate-registry">candidate registry</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#candidate-registry-draft">candidate registry draft</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#candidate-registry-snapshot">candidate registry snapshot</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#ceo">ceo</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#GeneralChairs">chair</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#chair-decisions">chair decisions</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#charter">charter</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#chartered-group">chartered groups</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#dfn-charter-extension">charter extension</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#def-Consensus">consensus</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#council-report">council report</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#council-team-contact">council team contact</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#RecsCR">cr</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#candidate-recommendation-draft">crd</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#candidate-recommendation-snapshot">crs</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#custodian">custodian</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#discontinuedREC">discontinued draft</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#dismissed">dismiss</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#dismissed">dismissal</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#dismissed">dismissed</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#def-Dissent">dissent</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#distributed-meeting">distributed meeting</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#draft-note">draft note</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#draft-registry">draft registry</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#editors-draft">ed</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#editors-draft">editor draft</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#editorial-change">editorial change</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#editors-draft">editor's draft</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#elected-group">elected groups</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#erratum">errata</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#erratum">erratum</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#exclusion-draft">exclusion draft</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#exclusion-draft-charter">exclusion draft charter</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#ftf-meeting">face-to-face meeting</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#fpwd">first public working draft</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#formally-addressed">formally addressed</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#FormalObjection">formal objection</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#fully-addressed">fully addressed</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#group-decision">group decision</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#WGNote">group note</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#WGNote">interest group note</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#GroupsIG">interest groups</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#invited-expert-in-an-interest-group">invited expert in an interest group</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#invited-expert-in-a-working-group">invited expert in a working group</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#last-call-for-review-of-proposed-additions">last call for review of proposed additions</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#last-call-review">last call for review of proposed amendments</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#last-call-for-review-of-proposed-corrections">last call for review of proposed corrections</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#last-call-for-review-of-proposed-corrections-and-additions">last call for review of proposed corrections and additions</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#liaison">liaison</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#w3c-member">member</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#member-association">member association</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#member-association">member associations</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#Member-only">member-only</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#member-representative-in-an-interest-group">member representative in an interest group</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#member-representative-in-a-working-group">member representative in a working group</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#MemberSubmission">member submission</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#minority-opinion">minority opinion</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#minutes">minutes</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#WGNote">note</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#not-required">not required</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#RecsObs">obsolete recommendation</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#obsolete-registry">obsolete registry</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#overrule">overrule</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#participant">participant</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#igparticipant">participants in an interest group</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#wgparticipant">participants in a working group</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#inv-expert-info">participate in a working group as an invited expert</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#patent-review-drafts">patent review drafts</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#RecsPR">pr</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#primary-affiliation">primary affiliation</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#proposed-additions">proposed additions</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#proposed-amendments">proposed amendments</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#proposed-corrections">proposed corrections</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#RecsPR">proposed recommendation</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#proxy">proxy</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#public-participant-ig">public participants</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#publishing">publish</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#RecsW3C">rec</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#RecsW3C">recommendation</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#w3c-recommendation-track">recommendation track</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#w3c-recommendation-track">recommendation-track</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#w3c-recommendation-track">rec track</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#registry">registry</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#registry-change">registry change</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#registry-data">registry data</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#registry-data-report">registry data report</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#registry-definition">registry definition</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#registry-entry">registry entry</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#registry-report">registry report</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#registry-section">registry section</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#registry-table">registry table</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#registry-track">registry track</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#related-member">related member</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#renounce">renounce</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#renounce">renunciation</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#rescinded-candidate-recommendation">rescinded candidate recommendation</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#RescindedRec">rescinded recommendation</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#group-decision">resolution</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#statement">statement</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#submission-appeals">submission appeals</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#submitter">submitter</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#subsidiary">subsidiary</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#substantive-change">substantive change</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#mtg-substitute">substitute</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#RecsSup">superseded recommendation</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#superseded-registry">superseded registry</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#supplemental-confidential-council-report">supplemental confidential council report</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#EventsS">symposia</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#EventsS">symposium</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#technical-architecture-group">tag</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#WGNote">tag note</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#team">team</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#TeamContact">team contact</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#team-correction">team correction</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#team-decision">team decision</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#Team-only">team-only</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#team-representative-in-an-interest-group">team representative in an interest group</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#team-representative-in-a-working-group">team representative in a working group</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#team-decision">team's decision</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#technical-agreement">technical agreement</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#technical-architecture-group">technical architecture group</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#technical-report">technical report</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#trans-req">transition requests</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#def-Unanimity">unanimity</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#update-requests">update requests</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#uphold">upheld</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#uphold">uphold</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#uphold">upholding</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#uphold">upholds</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#validation-notice">validation notice</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#bod">w3c board of directors</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#RecsCR">w3c candidate recommendation</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#w3c-council">w3c council</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#w3c-council-chair">w3c council chair</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#def-w3c-decision">w3c decision</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#fellows">w3c fellows</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#w3c-group">w3c group</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#w3c-member">w3c member</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#WGNote">w3c note</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#RecsPR">w3c proposed recommendation</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#RecsW3C">w3c recommendation</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#w3c-recommendation-track">w3c recommendation track</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#w3c-registry">w3c registry</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#statement">w3c statement</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#team">w3c team</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#RecsWD">w3c working draft</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#RecsWD">wd</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#dfn-wide-review">wide review</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#RecsWD">working draft</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#WGNote">working group note</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#GroupsWG">working groups</a>
+     <li><a href="https://www.w3.org/Consortium/Process/#EventsW">workshops</a>
+    </ul>
+   </div>
+   <h2 class="heading settled" data-level="3" id="pp"><span class="secno">3. </span><span class="content"> Patent Policy Terms</span><a class="self-link" href="#pp"></a></h2>
+   <p>The following terms are defined in the <a data-biblio-display="inline" data-link-type="biblio" href="https://www.w3.org/Consortium/Patent-Policy/"><cite>W3C Patent Policy</cite></a>:</p>
+   <div data-link-spec="w3c-patent-policy">
+    <ul class="index">
+     <li><a href="https://www.w3.org/Consortium/Patent-Policy/#call-for-exclusion">call for exclusion</a>
+     <li><a href="https://www.w3.org/Consortium/Patent-Policy/#disclosure">disclosure</a>
+     <li><a href="https://www.w3.org/Consortium/Patent-Policy/#disclosure-requests">disclosure requests</a>
+     <li><a href="https://www.w3.org/Consortium/Patent-Policy/#disclosure-requirement">disclosure requirement</a>
+     <li><a href="https://www.w3.org/Consortium/Patent-Policy/#essential-claims">essential claims</a>
+     <li><a href="https://www.w3.org/Consortium/Patent-Policy/#exclusion-opportunity">exclusion opportunity</a>
+     <li><a href="https://www.w3.org/Consortium/Patent-Policy/#licensing-commitment">licensing commitment</a>
+     <li><a href="https://www.w3.org/Consortium/Patent-Policy/#dfn-norm">normative</a>
+     <li><a href="https://www.w3.org/Consortium/Patent-Policy/#patent-advisory-group">pag</a>
+     <li><a href="https://www.w3.org/Consortium/Patent-Policy/#pag-proposal">pag proposal</a>
+     <li><a href="https://www.w3.org/Consortium/Patent-Policy/#participant">participant</a>
+     <li><a href="https://www.w3.org/Consortium/Patent-Policy/#patent-advisory-group">patent advisory group</a>
+     <li><a href="https://www.w3.org/Consortium/Patent-Policy/#patent-review-draft">patent review draft</a>
+     <li><a href="https://www.w3.org/Consortium/Patent-Policy/#specification">specification</a>
+     <li><a href="https://www.w3.org/Consortium/Patent-Policy/#def-RF">w3c rf licensing requirements</a>
+     <li><a href="https://www.w3.org/Consortium/Patent-Policy/#def-RF">w3c royalty-free license</a>
+     <li><a href="https://www.w3.org/Consortium/Patent-Policy/#def-RF">w3c royalty-free licensing requirements</a>
+    </ul>
+   </div>
+   <h2 class="heading settled" data-level="4" id="jargon"><span class="secno">4. </span><span class="content"> General W3C Jargon</span><a class="self-link" href="#jargon"></a></h2>
+   <h3 class="heading settled" data-level="4.1" id="x-ref"><span class="secno">4.1. </span><span class="content"> Miscellaneous Terms</span><a class="self-link" href="#x-ref"></a></h3>
+   <p>The following is a selection of noteworthy terms commonly used in W3C
+	and defined in other documents:</p>
+   <ul class="index">
+    <li><a data-link-type="dfn" href="https://infra.spec.whatwg.org/#user-agent" id="ref-for-user-agent">user agent</a> 
+    <li>… 
+   </ul>
+   <h3 class="heading settled" data-level="4.2" id="undef"><span class="secno">4.2. </span><span class="content"> Terms Lacking a Known Definition Elsewhere</span><a class="self-link" href="#undef"></a></h3>
+   <p>The following is a selection of noteworthy terms commonly used in W3C
+	lacking an identified definition in other actively maintained documents:</p>
+   <dl>
+    <dt><dfn class="dfn-paneled" data-dfn-type="dfn" data-export id="a11y">a11y</dfn> 
+    <dd> <i>abbr.</i> Accessibility.
+			The form <code>[first letter][number][last letter]</code> has come into common usage
+			as a way of abbreviating single long words.
+			Such words begin with the <code>[first letter]</code> have <code>[number]</code> of letters in the middle,
+			and end with the <code>[last letter]</code>.
+			See also <a data-link-type="dfn" href="#i18n" id="ref-for-i18n">i18n</a>. 
+    <dt><dfn data-dfn-type="dfn" data-export id="bikeshed">bikeshed<a class="self-link" href="#bikeshed"></a></dfn> 
+    <dd> A piece of software used to generate fully formatted specifications
+			from a textual input file with specialized markup.
+			See the <a href="https://speced.github.io/bikeshed/">bikeshed documentation</a>. 
+    <dt><dfn class="dfn-paneled" data-dfn-type="dfn" data-export id="i18n">i18n</dfn> 
+    <dd> <i>abbr.</i> Internationalization.
+			The form <code>[first letter][number][last letter]</code> has come into common usage
+			as a way of abbreviating single long words.
+			Such words begin with the <code>[first letter]</code> have <code>[number]</code> of letters in the middle,
+			and end with the <code>[last letter]</code>.
+			See also <a data-link-type="dfn" href="#a11y" id="ref-for-a11y">a11y</a>. 
+    <dt><dfn data-dfn-type="dfn" data-export id="living-standard">Living Standard<a class="self-link" href="#living-standard"></a></dfn> 
+    <dd> A continuously developped and maintained standard,
+			typically without versioning.
+			This term was introduced by the <a href="https://whatwg.org/">WHATWG</a>,
+			but is occasionally used to descibe specifications maintained in a similar way
+			in other standards bodies, including W3C.
+			See the <a href="https://whatwg.org/workstream-policy#living-standard">WHATWG definition</a>. 
+    <dt><dfn data-dfn-type="dfn" data-export id="scribe">scribe<a class="self-link" href="#scribe"></a></dfn> 
+    <dd> <i>n.</i> A person designated to record and publish the proceedings of a meeting. 
+    <dd> <i>v.</i> To record and publish the proceedings of a meeting. 
+    <dt><dfn data-dfn-type="dfn" data-export id="wpt">WPT<a class="self-link" href="#wpt"></a></dfn> 
+    <dd> <a href="https://web-platform-tests.org/">Web Platform Tests</a>.
+			A project to develop a cross-browser test suite for the Web-platform stack. 
+    <dt><dfn data-dfn-type="dfn" data-export id="zakim">zakim<a class="self-link" href="#zakim"></a></dfn> 
+    <dd> An IRC bot which assists with meeting management.
+			See the <a href="https://www.w3.org/2001/12/zakim-irc-bot">Zakim documentation</a>. 
+   </dl>
+   <h2 class="heading settled" data-level="5" id="also"><span class="secno">5. </span><span class="content"> Other Relevant Resources</span><a class="self-link" href="#also"></a></h2>
+   <p>Readers of this document may also be interested in the following resources:</p>
+   <ul>
+    <li data-md>
+     <p>The <a data-biblio-display="inline" data-link-type="biblio" href="https://w3c.github.io/i18n-glossary/"><cite>Internationalization Glossary</cite></a></p>
+    <li data-md>
+     <p>The <a href="https://www.w3.org/Consortium/cepc/#glossary">glossary section</a> of the <a data-biblio-display="inline" data-link-type="biblio" href="https://www.w3.org/Consortium/cepc/"><cite>Positive Work Environment at W3C: Code of Ethics and Professional Conduct</cite></a></p>
+   </ul>
+   <p>Earlier discontinued attempts at maintaining a glossary:</p>
+   <ul>
+    <li data-md>
+     <p><a data-biblio-display="inline" data-link-type="biblio" href="https://www.w3.org/2001/12/Glossary"><cite>Glossary of W3C Jargon</cite></a></p>
+    <li data-md>
+     <p><a data-biblio-display="inline" data-link-type="biblio" href="https://www.w3.org/2003/glossary/"><cite>W3C Glossary and Dictionary</cite></a></p>
+   </ul>
+  </main>
+<script src="https://www.w3.org/scripts/TR/2021/fixup.js"></script>
+  <h2 class="no-num no-ref heading settled" id="references"><span class="content">References</span><a class="self-link" href="#references"></a></h2>
+  <h3 class="no-num no-ref heading settled" id="normative"><span class="content">Normative References</span><a class="self-link" href="#normative"></a></h3>
+  <dl>
+   <dt id="biblio-cepc">[CEPC]
+   <dd>Tzviya Siegman; An Qi Li; Ada Rose Cannon. <a href="https://www.w3.org/Consortium/cepc/"><cite>Positive Work Environment at W3C: Code of Ethics and Professional Conduct</cite></a>. URL: <a href="https://www.w3.org/Consortium/cepc/">https://www.w3.org/Consortium/cepc/</a>
+   <dt id="biblio-i18n-glossary">[I18N-GLOSSARY]
+   <dd>Richard Ishida; Addison Phillips. <a href="https://w3c.github.io/i18n-glossary/"><cite>Internationalization Glossary</cite></a>. URL: <a href="https://w3c.github.io/i18n-glossary/">https://w3c.github.io/i18n-glossary/</a>
+   <dt id="biblio-infra">[INFRA]
+   <dd>Anne van Kesteren; Domenic Denicola. <a href="https://infra.spec.whatwg.org/"><cite>Infra Standard</cite></a>. Living Standard. URL: <a href="https://infra.spec.whatwg.org/">https://infra.spec.whatwg.org/</a>
+   <dt id="biblio-w3c-patent-policy">[W3C-PATENT-POLICY]
+   <dd>Wendy Seltzer. <a href="https://www.w3.org/Consortium/Patent-Policy/"><cite>W3C Patent Policy</cite></a>. 15 September 2020. URL: <a href="https://www.w3.org/Consortium/Patent-Policy/">https://www.w3.org/Consortium/Patent-Policy/</a>
+   <dt id="biblio-w3c-process">[W3C-PROCESS]
+   <dd>Elika J. Etemad (fantasai); Florian Rivoal. <a href="https://www.w3.org/Consortium/Process/"><cite>W3C Process Document</cite></a>. 2 November 2021. URL: <a href="https://www.w3.org/Consortium/Process/">https://www.w3.org/Consortium/Process/</a>
+  </dl>
+  <h3 class="no-num no-ref heading settled" id="informative"><span class="content">Informative References</span><a class="self-link" href="#informative"></a></h3>
+  <dl>
+   <dt id="biblio-gloss-dic">[GLOSS-DIC]
+   <dd>Pierre Candela; Dominique Hazael-Massieux. <a href="https://www.w3.org/2003/glossary/"><cite>W3C Glossary and Dictionary</cite></a>. URL: <a href="https://www.w3.org/2003/glossary/">https://www.w3.org/2003/glossary/</a>
+   <dt id="biblio-jargon">[JARGON]
+   <dd>Alan Kotok. <a href="https://www.w3.org/2001/12/Glossary"><cite>Glossary of W3C Jargon</cite></a>. URL: <a href="https://www.w3.org/2001/12/Glossary">https://www.w3.org/2001/12/Glossary</a>
+  </dl>
+<script>/* Boilerplate: script-dfn-panel */
+"use strict";
+{
+    const dfnsJson = window.dfnsJson || {};
+
+    function genDfnPanel({dfnID, url, dfnText, refSections, external}) {
+        return mk.aside({
+            class: "dfn-panel",
+            id: `infopanel-for-${dfnID}`,
+            "data-for": dfnID,
+            "aria-labelled-by":`infopaneltitle-for-${dfnID}`,
+            },
+            mk.span({id:`infopaneltitle-for-${dfnID}`, style:"display:none"},
+                `Info about the '${dfnText}' ${external?"external":""} reference.`),
+            mk.a({href:url}, url),
+            mk.b({}, "Referenced in:"),
+            mk.ul({},
+                ...refSections.map(section=>
+                    mk.li({},
+                        ...section.refs.map((ref, refI)=>
+                            [
+                                mk.a({
+                                    href: `#${ref.id}`
+                                    },
+                                    (refI == 0) ? section.title : `(${refI + 1})`
+                                ),
+                                " ",
+                            ]
+                        ),
+                    ),
+                ),
+            ),
+        );
+    }
+
+    function genAllDfnPanels() {
+        for(const panelData of Object.values(window.dfnpanelData)) {
+            const dfnID = panelData.dfnID;
+            const dfn = document.getElementById(dfnID);
+            if(!dfn) {
+                console.log(`Can't find dfn#${dfnID}.`, panelData);
+            } else {
+                const panel = genDfnPanel(panelData);
+                append(document.body, panel);
+                insertDfnPopupAction(dfn, panel)
+            }
+        }
+    }
+
+    document.addEventListener("DOMContentLoaded", ()=>{
+        genAllDfnPanels();
+
+        // Add popup behavior to all dfns to show the corresponding dfn-panel.
+        var dfns = queryAll('.dfn-paneled');
+        for(let dfn of dfns) { ; }
+
+        document.body.addEventListener("click", (e) => {
+            // If not handled already, just hide all dfn panels.
+            hideAllDfnPanels();
+        });
+    })
+
+
+    function hideAllDfnPanels() {
+        // Turn off any currently "on" or "activated" panels.
+        queryAll(".dfn-panel.on, .dfn-panel.activated").forEach(el=>hideDfnPanel(el));
+    }
+
+    function showDfnPanel(dfnPanel, dfn) {
+        hideAllDfnPanels(); // Only display one at this time.
+        dfn.setAttribute("aria-expanded", "true");
+        dfnPanel.classList.add("on");
+        dfnPanel.style.left = "5px";
+        dfnPanel.style.top = "0px";
+        const panelRect = dfnPanel.getBoundingClientRect();
+        const panelWidth = panelRect.right - panelRect.left;
+        if (panelRect.right > document.body.scrollWidth) {
+            // Panel's overflowing the screen.
+            // Just drop it below the dfn and flip it rightward instead.
+            // This still wont' fix things if the screen is *really* wide,
+            // but fixing that's a lot harder without 'anchor()'.
+            dfnPanel.style.top = "1.5em";
+            dfnPanel.style.left = "auto";
+            dfnPanel.style.right = "0px";
+        }
+    }
+
+    function pinDfnPanel(dfnPanel) {
+        // Switch it to "activated" state, which pins it.
+        dfnPanel.classList.add("activated");
+        dfnPanel.style.left = null;
+        dfnPanel.style.top = null;
+    }
+
+    function hideDfnPanel(dfnPanel, dfn) {
+        if(!dfn) {
+            dfn = document.getElementById(dfnPanel.getAttribute("data-for"));
+        }
+        dfn.setAttribute("aria-expanded", "false")
+        dfnPanel.classList.remove("on");
+        dfnPanel.classList.remove("activated");
+    }
+
+    function toggleDfnPanel(dfnPanel, dfn) {
+        if(dfnPanel.classList.contains("on")) {
+            hideDfnPanel(dfnPanel, dfn);
+        } else {
+            showDfnPanel(dfnPanel, dfn);
+        }
+    }
+
+    function insertDfnPopupAction(dfn, dfnPanel) {
+        // Find dfn panel
+        const panelWrapper = document.createElement('span');
+        panelWrapper.appendChild(dfnPanel);
+        panelWrapper.style.position = "relative";
+        panelWrapper.style.height = "0px";
+        dfn.insertAdjacentElement("afterend", panelWrapper);
+        dfn.setAttribute('role', 'button');
+        dfn.setAttribute('aria-expanded', 'false')
+        dfn.tabIndex = 0;
+        dfn.classList.add('has-dfn-panel');
+        dfn.addEventListener('click', (event) => {
+            showDfnPanel(dfnPanel, dfn);
+            event.stopPropagation();
+        });
+        dfn.addEventListener('keypress', (event) => {
+            const kc = event.keyCode;
+            // 32->Space, 13->Enter
+            if(kc == 32 || kc == 13) {
+                toggleDfnPanel(dfnPanel, dfn);
+                event.stopPropagation();
+                event.preventDefault();
+            }
+        });
+
+        dfnPanel.addEventListener('click', (event) => {
+            if (event.target.nodeName == 'A') {
+                pinDfnPanel(dfnPanel);
+            }
+            event.stopPropagation();
+        });
+
+        dfnPanel.addEventListener('keydown', (event) => {
+            if(event.keyCode == 27) { // Escape key
+                hideDfnPanel(dfnPanel, dfn);
+                event.stopPropagation();
+                event.preventDefault();
+            }
+        })
+    }
+}
+</script>
+<script>/* Boilerplate: script-dfn-panel-json */
+window.dfnpanelData = {};
+window.dfnpanelData['a11y'] = {"dfnID": "a11y", "url": "#a11y", "dfnText": "a11y", "refSections": [{"refs": [{"id": "ref-for-a11y"}], "title": "4.2. \nTerms Lacking a Known Definition Elsewhere"}], "external": false};
+window.dfnpanelData['i18n'] = {"dfnID": "i18n", "url": "#i18n", "dfnText": "i18n", "refSections": [{"refs": [{"id": "ref-for-i18n"}], "title": "4.2. \nTerms Lacking a Known Definition Elsewhere"}], "external": false};
+</script>
+<script>/* Boilerplate: script-dom-helper */
+function query(sel) { return document.querySelector(sel); }
+
+function queryAll(sel) { return [...document.querySelectorAll(sel)]; }
+
+function iter(obj) {
+	if(!obj) return [];
+	var it = obj[Symbol.iterator];
+	if(it) return it;
+	return Object.entries(obj);
+}
+
+function mk(tagname, attrs, ...children) {
+	const el = document.createElement(tagname);
+	for(const [k,v] of iter(attrs)) {
+		if(k.slice(0,3) == "_on") {
+			const eventName = k.slice(3);
+			el.addEventListener(eventName, v);
+		} else if(k[0] == "_") {
+			// property, not attribute
+			el[k.slice(1)] = v;
+		} else {
+			if(v === false || v == null) {
+        continue;
+      } else if(v === true) {
+        el.setAttribute(k, "");
+        continue;
+      } else {
+  			el.setAttribute(k, v);
+      }
+		}
+	}
+	append(el, children);
+	return el;
+}
+
+/* Create shortcuts for every known HTML element */
+[
+  "a",
+  "abbr",
+  "acronym",
+  "address",
+  "applet",
+  "area",
+  "article",
+  "aside",
+  "audio",
+  "b",
+  "base",
+  "basefont",
+  "bdo",
+  "big",
+  "blockquote",
+  "body",
+  "br",
+  "button",
+  "canvas",
+  "caption",
+  "center",
+  "cite",
+  "code",
+  "col",
+  "colgroup",
+  "datalist",
+  "dd",
+  "del",
+  "details",
+  "dfn",
+  "dialog",
+  "div",
+  "dl",
+  "dt",
+  "em",
+  "embed",
+  "fieldset",
+  "figcaption",
+  "figure",
+  "font",
+  "footer",
+  "form",
+  "frame",
+  "frameset",
+  "head",
+  "header",
+  "h1",
+  "h2",
+  "h3",
+  "h4",
+  "h5",
+  "h6",
+  "hr",
+  "html",
+  "i",
+  "iframe",
+  "img",
+  "input",
+  "ins",
+  "kbd",
+  "label",
+  "legend",
+  "li",
+  "link",
+  "main",
+  "map",
+  "mark",
+  "meta",
+  "meter",
+  "nav",
+  "nobr",
+  "noscript",
+  "object",
+  "ol",
+  "optgroup",
+  "option",
+  "output",
+  "p",
+  "param",
+  "pre",
+  "progress",
+  "q",
+  "s",
+  "samp",
+  "script",
+  "section",
+  "select",
+  "small",
+  "source",
+  "span",
+  "strike",
+  "strong",
+  "style",
+  "sub",
+  "summary",
+  "sup",
+  "table",
+  "tbody",
+  "td",
+  "template",
+  "textarea",
+  "tfoot",
+  "th",
+  "thead",
+  "time",
+  "title",
+  "tr",
+  "u",
+  "ul",
+  "var",
+  "video",
+  "wbr",
+  "xmp",
+].forEach(tagname=>{
+	mk[tagname] = (...args) => mk(tagname, ...args);
+});
+
+function* nodesFromChildList(children) {
+	for(const child of children.flat(Infinity)) {
+		if(child instanceof Node) {
+			yield child;
+		} else {
+			yield new Text(child);
+		}
+	}
+}
+function append(el, ...children) {
+	for(const child of nodesFromChildList(children)) {
+		if(el instanceof Node) el.appendChild(child);
+		else el.push(child);
+	}
+	return el;
+}
+
+function insertAfter(el, ...children) {
+	for(const child of nodesFromChildList(children)) {
+		el.parentNode.insertBefore(child, el.nextSibling);
+	}
+	return el;
+}
+
+function clearContents(el) {
+	el.innerHTML = "";
+	return el;
+}
+
+function parseHTML(markup) {
+	if(markup.toLowerCase().trim().indexOf('<!doctype') === 0) {
+		const doc = document.implementation.createHTMLDocument("");
+		doc.documentElement.innerHTML = markup;
+		return doc;
+	} else {
+		const el = mk.template({});
+		el.innerHTML = markup;
+		return el.content;
+	}
+}
+</script>
