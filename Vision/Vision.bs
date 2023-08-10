@@ -23,7 +23,7 @@ Status Text:
 Boilerplate: omit conformance
 </pre>
 
-# Intention # {#intention}
+# Purpose of this Document # {#purpose}
 
 	This document is an articulation
 	of W3C’s mission, values, purpose, and principles;
