@@ -45,7 +45,7 @@ Boilerplate: omit conformance
 
 	The W3C leads the community 
 	in defining a World Wide Web that puts users first, 
-	by developing protocols and guidelines 
+	by developing technical standards and guidelines 
 	to empower an ethical, equitable, informed, and interconnected society.
 
 # Introduction # {#intro}
@@ -54,12 +54,12 @@ Boilerplate: omit conformance
 	as a tool for sharing information.
 	It has evolved rapidly into a fundamental part of humanity,
 	sparking major social change by 
-	providing access to knowledge, education,
+	providing and expanding access to knowledge, education,
 	commerce and shopping, social experiences,
 	civic functions, entertainment, and more.
 
 	The Web's amazing success
-	has also led to many unintended consequences
+	has also led to many unintended and undesirable consequences
 	that harm society:
 	openness and anonymity have given rise to scams, phishing, and fraud;
 	the ease of gathering personal information has led to business models
@@ -141,6 +141,8 @@ Boilerplate: omit conformance
 		industries,
 		organizational sizes,
 		and more.
+		In order to ensure the W3C serves the needs of the entire Web user base, 
+		we must also strive to broaden diversity and inclusion for our own participants.
 	* We create standards with an ethical intent to improve 
 		equity of access and participation on the Web. 
 		We will ensure the web platform meets broad goals 
@@ -154,15 +156,15 @@ Boilerplate: omit conformance
 	* We welcome individuals and organizations of all sizes
 		(from single-person companies to multi-nationals),
 		and take feedback from the general public.
-	* We believe wide and interoperable implementation is a 
-		requirement for standards. 
+	* We believe proven interoperable implementation is a 
+		requirement for broad adoption of standards. 
 		To ensure reliable interoperability, 
 		we require multiple implementations 
 		and open test suites for our standards.
 	* The Web will continue to expand 
 		in user base, global reach, and technical breadth. 
 		We are committed to encouraging incubation in new areas, 
-		collaborating on new innovations across our community.
+		collaborating on innovations across our community.
 	* We aim to reduce centralization in Web architecture,
 		minimizing single points of failure
 		and single points of control.
