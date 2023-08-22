@@ -145,7 +145,7 @@ Boilerplate: omit conformance
 		we must also strive to broaden diversity and inclusion for our own participants.
 	* We create standards with an ethical intent to improve 
 		equity of access and participation on the Web. 
-		We will ensure the web platform meets broad goals 
+		We will ensure the technical standards of the Web meets broad goals 
 		using consistent horizontal review to ensure accessibility, 
 		internationalization,
 		sustainability,
