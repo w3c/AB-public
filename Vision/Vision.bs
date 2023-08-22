@@ -43,7 +43,7 @@ Boilerplate: omit conformance
 
 # The Mission of W3C # {#mission}
 
-	The W3C leads the community 
+	W3C leads the community 
 	in defining a World Wide Web that puts users first, 
 	by developing technical standards and guidelines 
 	to empower an ethical, equitable, informed, and interconnected society.
