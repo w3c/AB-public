@@ -170,7 +170,7 @@ Boilerplate: omit conformance
 		and single points of control.
 	* W3C is committed to establishing and improving collaborative relationships
 		with other Internet and Web standards organizations,
-		including building and maintaining respected relationships
+		and building and maintaining respected relationships
 		with governments and businesses for providing credible advice.
 
 # Acknowledgements and supporting material # {#acknowledgements}
