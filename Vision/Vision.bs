@@ -153,6 +153,8 @@ Boilerplate: omit conformance
 		sustainability,
 		privacy,
 		and security.
+	* We believe in principled, community-wide consensus-building
+		as the basis for building standards.
 	* Our standards are rooted in a strong royalty-free patent policy
 		and open copyright licenses.
 	* We welcome individuals and organizations of all sizes
