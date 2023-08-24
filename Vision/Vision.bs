@@ -144,7 +144,7 @@ Boilerplate: omit conformance
 		organizational sizes,
 		and more.
 		In order to ensure the W3C serves the needs of the entire Web user base, 
-		we must also strive to broaden diversity and inclusion for our own participants.
+		we also strive to broaden diversity and inclusion for our own participants.
 	* We create standards with an ethical intent to improve 
 		equity of access and participation on the Web. 
 		We will ensure the technical standards of the Web meets broad goals 
