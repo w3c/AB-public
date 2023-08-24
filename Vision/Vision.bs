@@ -83,7 +83,7 @@ Boilerplate: omit conformance
 
 	The Web has had a tremendous impact on the world, 
 	and its impact will continue to grow in the future, 
-	as it expands reach, knowledge, education and services even more broadly.
+	as it expands reach, knowledge, education, and services even more broadly.
 	We believe the World Wide Web should be 
 	inclusive and respect the rights of all its users: 
 	a Web that supports truth over falsehood, 
