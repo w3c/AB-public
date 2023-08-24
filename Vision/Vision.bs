@@ -26,7 +26,7 @@ Boilerplate: omit conformance
 # Purpose of this Document # {#purpose}
 
 	This document is an articulation
-	of W3C’s mission, its vision of the Web, and its organizational principles;
+	of W3C’s mission, its values, and its organizational principles;
 	in other words, our vision for W3C as an organization
 	in the context of our vision for the Web itself.
 	The goal of this vision is not to predict the future,
