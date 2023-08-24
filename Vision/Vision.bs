@@ -46,7 +46,7 @@ Boilerplate: omit conformance
 	W3C leads the community 
 	in defining a World Wide Web that puts users first, 
 	by developing technical standards and guidelines 
-	to empower an ethical, equitable, informed, and interconnected society.
+	to empower an equitable, informed, and interconnected society.
 
 # Introduction # {#intro}
 
