@@ -23,27 +23,14 @@ Status Text:
 Boilerplate: omit conformance
 </pre>
 
-# Intention # {#intention}
+# Purpose of this Document # {#purpose}
 
 	This document is an articulation
-	of W3C’s mission, values, purpose, and principles;
+	of W3C’s mission, its values, and its organizational principles;
 	in other words, our vision for W3C as an organization
 	in the context of our vision for the Web itself.
 	The goal of this vision is not to predict the future,
 	but to define shared principles to guide our decisions.
-
-	This document is not intended to be
-	an operational strategy for W3C Inc. as an organization:
-	such a strategy should take this Vision into account,
-	but it is not the Vision itself.
-
-	This document should not provide recommendations
-	for or against specific technologies:
-	technologies are not value neutral,
-	and preference for or against particular technologies
-	should be influenced by values as articulated here,
-	but this Vision should be a guide for thinking about such things,
-	rather than contain specific answers.
 
 	The goal of this document is to:
 
@@ -54,19 +41,25 @@ Boilerplate: omit conformance
 		to represent the emergent consensus of most of our participants.
 	* Be timeless enough that it does not need frequent revision.
 
+# The Mission of W3C # {#mission}
+
+	W3C leads the community 
+	in defining a World Wide Web that puts users first, 
+	by developing technical standards and guidelines 
+	to empower an equitable, informed, and interconnected society.
+
 # Introduction # {#intro}
 
 	The World Wide Web was originally conceived
 	as a tool for sharing information.
-	It has evolved into a fundamental part of humanity,
-	providing access to knowledge, education,
+	It has evolved rapidly into a fundamental part of humanity,
+	sparking major social change by 
+	providing and expanding access to knowledge, education,
 	commerce and shopping, social experiences,
 	civic functions, entertainment, and more.
 
-	The Web has been a force for good,
-	and has sparked major social changes.
-	But the Web's amazing success
-	has led to many unintended consequences
+	The Web's amazing success
+	has also led to many unintended and undesirable consequences
 	that harm society:
 	openness and anonymity have given rise to scams, phishing, and fraud;
 	the ease of gathering personal information has led to business models
@@ -81,24 +74,23 @@ Boilerplate: omit conformance
 	in the standards we create.
 
 	Technology is not neutral;
-	new technologies enable new actions and new possibilities.
-	We are proud of the good the Web has enabled;
-	we must take the responsibility to use our values
+	new technologies enable new actions and new possibilities, and
+	we must take responsibility 
 	to address the actual impact of our work.
+	The W3C’s Technical Architecture Group's work 
+	to clearly define <a href="https://www.w3.org/2001/tag/doc/ethical-web-principles/">Ethical Web Principles</a> is a strong basis 
+	to improve the ethical integrity of the Web. 
 
-	Our vision is for a World Wide Web that is more inclusive,
-	and more respectful of its users:
-	a Web that supports truth over falsehood,
-	people over profits,
-	humanity over hate.
+	The Web has had a tremendous impact on the world, 
+	and its impact will continue to grow in the future, 
+	as it expands reach, knowledge, education, and services even more broadly.
+	We believe the World Wide Web should be 
+	inclusive and respectful of its users: 
+	a Web that supports truth over falsehood, 
+	people over profits, 
+	humanity over hate. 
 
-	We will improve the ethical integrity of the Web.
-	As the Web continues to grow in importance
-	to include all humanity as its users,
-	it must increase its respect for those users
-	and the trust it earns from them.
-
-# Vision for the World Wide Web # {#vision-web}
+# W3C's Vision for the World Wide Web # {#vision-web}
 
 	* The Web is for <a href="https://www.w3.org/TR/ethical-web-principles/#allpeople">all humanity</a>.
 	* The Web is designed for the <a href="https://www.w3.org/TR/ethical-web-principles/#noharm">good of its users</a>.
@@ -107,77 +99,79 @@ Boilerplate: omit conformance
 
 # Vision for W3C # {#vision-org}
 
-	The fundamental purpose of W3C is to provide an open forum
+	The World Wide Web Consortium (W3C) was founded as an organization 
+	to provide a consistent architecture 
+	across the rapid pace of progress in the Web, 
+	and to build a common community to support its development. 
+	It has become an association where diverse voices from around the world 
+	and from different industries and organizations work together to evolve the Web.
+
+	To build a better future, the W3C must rise even further 
+	to the challenge of improving the Web's fundamental integrity, 
+	while continuing to expand the Web’s scope and reach. 
+	The Operational Principles for the W3C should reflect the core values of the Web itself.
+
+	These core values will be clearly demonstrated by how W3C leads the Web forward: 
+	by being inclusive, principled, and continually striving to make the Web better 
+	through these principles and the Ethical Web Principles. 
+	As the Ethical Web Principles state, “The web should empower an equitable, informed and interconnected society.”
+
+# Operational Principles for W3C # {#op-principles}
+
+	The fundamental function of W3C is to provide an open forum
 	where diverse voices from around the world
 	and from different organizations and industries
 	work together to build consensus
 	on voluntary global standards for Web technologies.
+	In order to fulfill this function, we will follow these operational principles:
 
 	* We put the needs of users first:
-		above authors, publishers, implementers, paying W3C Members, or theoretical purity.
-	* This organization believes in diversity
+		above authors, publishers, implementers, paying W3C Members, or theoretical purity.	
+	* We intentionally involve stakeholders from end to end 
+		in building the Web: developers, content creators, and end users. 
+		Our work will not be dominated by any person, company, or interest group.
+	* We believe in diversity
 		and inclusion of participants from different
 		geographical locations,
 		cultures,
 		languages,
 		disabilities,
 		gender identities,
+		industries,
+		organizational sizes,
 		and more.
-	* We believe in principled, community-wide consensus-building
-		as the basis for building standards.
-	* We strongly emphasize accessibility,
+		In order to ensure the W3C serves the needs of the entire Web user base, 
+		we also strive to broaden diversity and inclusion for our own participants.
+	* We create standards with an ethical intent to improve 
+		equity of access and participation on the Web. 
+		We will ensure the technical standards of the Web meets broad goals 
+		using consistent horizontal review to ensure accessibility, 
 		internationalization,
+		sustainability,
 		privacy,
 		and security.
-	* We believe the Web must be an environmentally sustainable platform,
-		as defined in the [[ETHICAL-WEB-PRINCIPLES inline|Ethical Web Principles]].
+	* We believe in principled, community-wide consensus-building
+		as the basis for building standards.
 	* Our standards are rooted in a strong royalty-free patent policy
-		and open copyright licenses,
-		openly developed with consensus of industry and key stakeholders.
+		and open copyright licenses.
 	* We welcome individuals and organizations of all sizes
 		(from single-person companies to multi-nationals),
 		and take feedback from the general public.
-
-
-	# Principles and values # {#principles}
-
-	As W3C leads the Web forward,
-	our mission is to recognize and embody fundamental values and principles
-	into the architecture of the Web.
-	We must become more principled in our execution of the vision of the Web.
-	We must
-	* Ensure the Web is trustworthy,
-		by ensuring security and privacy for users.
-	* Aim to reduce centralization in Web architecture,
+	* We believe proven interoperable implementation is a 
+		requirement for broad adoption of standards. 
+		To ensure reliable interoperability, 
+		we require multiple implementations 
+		and open test suites for our standards.
+	* The Web will continue to expand 
+		in user base, global reach, and technical breadth. 
+		We are committed to encouraging incubation in new areas, 
+		collaborating on innovations across our community.
+	* We aim to reduce centralization in Web architecture,
 		minimizing single points of failure
 		and single points of control.
-	* Remain focused on ensuring reliable interoperability
-		through implementation experience
-		and open test suites.
-	* Implement a unified, extensible, Web architecture,
-		which continues to address evolving use cases for the general public.
-
-	We will do this by:
-	* Encouraging incubation in new areas and industries
-		with open platforms for discussion, collaboration, and innovation,
-		making it more structured
-		and improving consensus-building among key stakeholders.
-	* Striving for the broadest participation,
-		along axes including worldwide participation, diversity, and inclusion,
-		facilitating balance, equity, and cooperation
-		among the participants from different industries,
-		user groups, and organizational sizes,
-		and thus establishing W3C as representative of the whole community.
-	* Increasing involvement of under-represented key stakeholders
-		such as end users, content creators, and developers.
-	* Ensuring transparency, equity, and fairness.
-		Our work will not be exclusively dominated
-		by any person, company, or interest group.
-	* Ensuring the Web platform meets goals in horizontal principles such as
-		accessibility, internationalization, privacy, and sustainability.
-	* Establishing and improving collaborative relationships
-		with other organizations in the domain of Internet and Web standards,
-		including building and maintaining respected relationships
+	* We are committed to establishing and improving collaborative relationships
+		with other Internet and Web standards organizations,
+		and building and maintaining respected relationships
 		with governments and businesses for providing credible advice.
 
 # Acknowledgements and supporting material # {#acknowledgements}
