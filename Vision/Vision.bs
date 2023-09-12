@@ -21,6 +21,7 @@ Status Text:
 	The intent is for this document to eventually become a <a href="https://www.w3.org/2023/Process-20230612/#w3c-statement">W3C Statement</a>.
 
 Boilerplate: omit conformance
+Markup Shorthands: markdown yes 
 </pre>
 
 # Purpose of this Document # {#purpose}
@@ -125,12 +126,12 @@ Boilerplate: omit conformance
 	on voluntary global standards for Web technologies.
 	In order to fulfill this function, we will follow these operational principles:
 
-	* We put the needs of users first:
+	* **User-first**: We put the needs of users first:
 		above authors, publishers, implementers, paying W3C Members, or theoretical purity.	
-	* We intentionally involve stakeholders from end to end 
+	* **Multi-stakeholder**: We intentionally involve stakeholders from end to end 
 		in building the Web: developers, content creators, and end users. 
 		Our work will not be dominated by any person, company, or interest group.
-	* We believe in diversity
+	* **Diversity**: We believe in diversity
 		and inclusion of participants from different
 		geographical locations,
 		cultures,
@@ -142,7 +143,7 @@ Boilerplate: omit conformance
 		and more.
 		In order to ensure the W3C serves the needs of the entire Web user base, 
 		we also strive to broaden diversity and inclusion for our own participants.
-	* We create standards with an ethical intent to improve 
+	* **Consistent Review**: We create standards with an ethical intent to improve 
 		equity of access and participation on the Web. 
 		We will ensure the technical standards of the Web meets broad goals 
 		using consistent horizontal review to ensure accessibility, 
@@ -150,26 +151,26 @@ Boilerplate: omit conformance
 		sustainability,
 		privacy,
 		and security.
-	* We believe in principled, community-wide consensus-building
+	* **Consensus**: We believe in principled, community-wide consensus-building
 		as the basis for building standards.
-	* Our standards are rooted in a strong royalty-free patent policy
+	* **Free to Implement**: Our standards are rooted in a strong royalty-free patent policy
 		and open copyright licenses.
-	* We welcome individuals and organizations of all sizes
+	* **Open Participation**: We welcome individuals and organizations of all sizes
 		(from single-person companies to multi-nationals),
 		and take feedback from the general public.
-	* We believe proven interoperable implementation is a 
+	* **Interoperability**: We believe proven interoperable implementation is a 
 		requirement for broad adoption of standards. 
 		To ensure reliable interoperability, 
 		we require multiple implementations 
 		and open test suites for our standards.
-	* The Web will continue to expand 
+	* **Incubation**: The Web will continue to expand 
 		in user base, global reach, and technical breadth. 
 		We are committed to encouraging incubation in new areas, 
 		collaborating on innovations across our community.
-	* We aim to reduce centralization in Web architecture,
+	* **Avoid Centralization**: We aim to reduce centralization in Web architecture,
 		minimizing single points of failure
 		and single points of control.
-	* We are committed to establishing and improving collaborative relationships
+	* **Collaboration**: We are committed to establishing and improving collaborative relationships
 		with other Internet and Web standards organizations,
 		and building and maintaining respected relationships
 		with governments and businesses for providing credible advice.
