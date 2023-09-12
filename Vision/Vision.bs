@@ -87,7 +87,7 @@ Markup Shorthands: markdown yes
 	as it expands reach, knowledge, education, and services even more broadly.
 	We believe the World Wide Web should be 
 	inclusive and respectful of its users: 
-	a Web that supports truth over falsehood, 
+	a Web that supports facts over falsehoods, 
 	people over profits, 
 	humanity over hate. 
 
