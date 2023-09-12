@@ -21,6 +21,7 @@ Status Text:
 	The intent is for this document to eventually become a <a href="https://www.w3.org/2023/Process-20230612/#w3c-statement">W3C Statement</a>.
 
 Boilerplate: omit conformance
+Markup Shorthands: markdown yes 
 </pre>
 
 # Purpose of this Document # {#purpose}
