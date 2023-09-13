@@ -143,9 +143,8 @@ Markup Shorthands: markdown yes
 		and more.
 		In order to ensure the W3C serves the needs of the entire Web user base, 
 		we also strive to broaden diversity and inclusion for our own participants.
-	* **Consistent Review**: We create standards with an ethical intent to improve 
-		equity of access and participation on the Web. 
-		We will ensure the technical standards of the Web meets broad goals 
+	* **Consistent Review**: 
+		We will ensure the technical standards of the Web meet broad goals 
 		using consistent horizontal review to ensure accessibility, 
 		internationalization,
 		sustainability,
