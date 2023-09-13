@@ -144,7 +144,7 @@ Markup Shorthands: markdown yes
 		In order to ensure the W3C serves the needs of the entire Web user base, 
 		we also strive to broaden diversity and inclusion for our own participants.
 	* **Consistent Review**: 
-    We will ensure the technical standards of the Web meet broad goals 
+		We will ensure the technical standards of the Web meet broad goals 
 		using consistent horizontal review to ensure accessibility, 
 		internationalization,
 		sustainability,
