@@ -114,7 +114,9 @@ Markup Shorthands: markdown yes
 
 	These core values will be clearly demonstrated by how W3C leads the Web forward: 
 	by being inclusive, principled, and continually striving to make the Web better 
-	through these principles and the Ethical Web Principles. 
+	through these principles and the Ethical Web Principles.
+	This will lead to a Web that is more equitable,
+	better serving its users in connecting the world. 
 	As the Ethical Web Principles state, “The web should empower an equitable, informed and interconnected society.”
 
 # Operational Principles for W3C # {#op-principles}
