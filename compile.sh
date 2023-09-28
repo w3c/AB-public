@@ -5,7 +5,6 @@ PUBLICATION_URL="https://w3c.github.io/ab-public/"
 # files to be build by bikeshet as a spec.
 BUILD_TARGETS=(
 	"Vision/Vision.bs"
-	"Vision/History.bs"
 	"Glossary/Glossary.bs"
 )
 
