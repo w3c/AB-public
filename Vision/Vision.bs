@@ -32,6 +32,8 @@ Markup Shorthands: markdown yes
 	in the context of our vision for the Web itself.
 	The goal of this vision is not to predict the future,
 	but to define shared principles to guide our decisions.
+	It is outside the purpose of the document to set out any direction involving 
+	finances, Team organisational structure or consortium membership.
 
 	The goal of this document is to:
 
