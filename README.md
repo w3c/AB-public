@@ -6,5 +6,4 @@ The source of the Vision and Principles work is at [https://github.com/w3c/AB-pu
 ## Live Editor Drafts
 
 * Vision for W3C: [https://w3c.github.io/AB-public/Vision](https://w3c.github.io/AB-public/Vision)
-* A History of W3C: [https://w3c.github.io/AB-public/History](https://w3c.github.io/AB-public/History)
 * W3C Glossary: [https://w3c.github.io/AB-public/Glossary](https://w3c.github.io/AB-public/Glossary)
