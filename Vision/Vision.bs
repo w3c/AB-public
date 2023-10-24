@@ -59,21 +59,6 @@ Markup Shorthands: markdown yes
 	commerce and shopping, social experiences,
 	civic functions, entertainment, and more.
 
-	The Web's amazing success
-	has also led to many unintended and undesirable consequences
-	that harm society:
-	openness and anonymity have given rise to scams, phishing, and fraud;
-	the ease of gathering personal information has led to business models
-	that mine and sell detailed user data,
-	without people's awareness or consent;
-	rapid global information sharing
-	has allowed misinformation to flourish and be exploited
-	for political or commercial gain.
-	This has divided societies and incited hate.
-	We must do better.
-	We must take steps to address these consequences
-	in the standards we create.
-
 	Technology is not neutral;
 	new technologies enable new actions and new possibilities, and
 	we must take responsibility
