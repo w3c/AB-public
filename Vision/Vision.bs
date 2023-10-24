@@ -21,7 +21,7 @@ Status Text:
 	The intent is for this document to eventually become a <a href="https://www.w3.org/2023/Process-20230612/#w3c-statement">W3C Statement</a>.
 
 Boilerplate: omit conformance
-Markup Shorthands: markdown yes 
+Markup Shorthands: markdown yes
 </pre>
 
 # Purpose of this Document # {#purpose}
@@ -44,9 +44,9 @@ Markup Shorthands: markdown yes
 
 # The Mission of W3C # {#mission}
 
-	W3C leads the community 
-	in defining a World Wide Web that puts users first, 
-	by developing technical standards and guidelines 
+	W3C convenes the community
+	in defining a World Wide Web that puts users first,
+	by developing technical standards and guidelines
 	to empower an equitable, informed, and interconnected society.
 
 # Introduction # {#intro}
@@ -54,7 +54,7 @@ Markup Shorthands: markdown yes
 	The World Wide Web was originally conceived
 	as a tool for sharing information.
 	It has evolved rapidly into a fundamental part of humanity,
-	sparking major social change by 
+	sparking major social change by
 	providing and expanding access to knowledge, education,
 	commerce and shopping, social experiences,
 	civic functions, entertainment, and more.
@@ -76,20 +76,20 @@ Markup Shorthands: markdown yes
 
 	Technology is not neutral;
 	new technologies enable new actions and new possibilities, and
-	we must take responsibility 
+	we must take responsibility
 	to address the actual impact of our work.
-	The W3C’s Technical Architecture Group's work 
-	to clearly define <a href="https://www.w3.org/2001/tag/doc/ethical-web-principles/">Ethical Web Principles</a> is a strong basis 
-	to improve the ethical integrity of the Web. 
+	The W3C’s Technical Architecture Group's work
+	to clearly define <a href="https://www.w3.org/2001/tag/doc/ethical-web-principles/">Ethical Web Principles</a> is a strong basis
+	to improve the ethical integrity of the Web.
 
-	The Web has had a tremendous impact on the world, 
-	and its impact will continue to grow in the future, 
+	The Web has had a tremendous impact on the world,
+	and its impact will continue to grow in the future,
 	as it expands reach, knowledge, education, and services even more broadly.
-	We believe the World Wide Web should be 
-	inclusive and respectful of its users: 
-	a Web that supports facts over falsehoods, 
-	people over profits, 
-	humanity over hate. 
+	We believe the World Wide Web should be
+	inclusive and respectful of its users:
+	a Web that supports facts over falsehoods,
+	people over profits,
+	humanity over hate.
 
 # W3C's Vision for the World Wide Web # {#vision-web}
 
@@ -100,23 +100,23 @@ Markup Shorthands: markdown yes
 
 # Vision for W3C # {#vision-org}
 
-	The World Wide Web Consortium (W3C) was founded as an organization 
-	to provide a consistent architecture 
-	across the rapid pace of progress in the Web, 
-	and to build a common community to support its development. 
-	It has become an association where diverse voices from around the world 
+	The World Wide Web Consortium (W3C) was founded as an organization
+	to provide a consistent architecture
+	across the rapid pace of progress in the Web,
+	and to build a common community to support its development.
+	It has become an association where diverse voices from around the world
 	and from different industries and organizations work together to evolve the Web.
 
-	To build a better future, the W3C must rise even further 
-	to the challenge of improving the Web's fundamental integrity, 
-	while continuing to expand the Web’s scope and reach. 
+	To build a better future, the W3C must rise even further
+	to the challenge of improving the Web's fundamental integrity,
+	while continuing to expand the Web’s scope and reach.
 	The Operational Principles for the W3C should reflect the core values of the Web itself.
 
-	These core values will be clearly demonstrated by how W3C leads the Web forward: 
-	by being inclusive, principled, and continually striving to make the Web better 
+	These core values will be clearly demonstrated by how W3C leads the Web forward:
+	by being inclusive, principled, and continually striving to make the Web better
 	through these principles and the Ethical Web Principles.
 	This will lead to a Web that is more equitable,
-	better serving its users in connecting the world. 
+	better serving its users in connecting the world.
 	As the Ethical Web Principles state, “The web should empower an equitable, informed and interconnected society.”
 
 # Operational Principles for W3C # {#op-principles}
@@ -129,9 +129,9 @@ Markup Shorthands: markdown yes
 	In order to fulfill this function, we will follow these operational principles:
 
 	* **User-first**: We put the needs of users first:
-		above authors, publishers, implementers, paying W3C Members, or theoretical purity.	
-	* **Multi-stakeholder**: We intentionally involve stakeholders from end to end 
-		in building the Web: developers, content creators, and end users. 
+		above authors, publishers, implementers, paying W3C Members, or theoretical purity.
+	* **Multi-stakeholder**: We intentionally involve stakeholders from end to end
+		in building the Web: developers, content creators, and end users.
 		Our work will not be dominated by any person, company, or interest group.
 	* **Diversity**: We believe in diversity
 		and inclusion of participants from different
@@ -143,11 +143,11 @@ Markup Shorthands: markdown yes
 		industries,
 		organizational sizes,
 		and more.
-		In order to ensure the W3C serves the needs of the entire Web user base, 
+		In order to ensure the W3C serves the needs of the entire Web user base,
 		we also strive to broaden diversity and inclusion for our own participants.
-	* **Consistent Review**: 
-		We will ensure the technical standards of the Web meet broad goals 
-		using consistent horizontal review to ensure accessibility, 
+	* **Consistent Review**:
+		We will ensure the technical standards of the Web meet broad goals
+		using consistent horizontal review to ensure accessibility,
 		internationalization,
 		sustainability,
 		privacy,
@@ -159,14 +159,14 @@ Markup Shorthands: markdown yes
 	* **Open Participation**: We welcome individuals and organizations of all sizes
 		(from single-person companies to multi-nationals),
 		and take feedback from the general public.
-	* **Interoperability**: We believe proven interoperable implementation is a 
-		requirement for broad adoption of standards. 
-		To ensure reliable interoperability, 
-		we require multiple implementations 
+	* **Interoperability**: We believe proven interoperable implementation is a
+		requirement for broad adoption of standards.
+		To ensure reliable interoperability,
+		we require multiple implementations
 		and open test suites for our standards.
-	* **Incubation**: The Web will continue to expand 
-		in user base, global reach, and technical breadth. 
-		We are committed to encouraging incubation in new areas, 
+	* **Incubation**: The Web will continue to expand
+		in user base, global reach, and technical breadth.
+		We are committed to encouraging incubation in new areas,
 		collaborating on innovations across our community.
 	* **Avoid Centralization**: We aim to reduce centralization in Web architecture,
 		minimizing single points of failure
