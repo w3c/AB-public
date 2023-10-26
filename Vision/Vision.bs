@@ -159,11 +159,10 @@ Markup Shorthands: markdown yes
 	* **Open Participation**: We welcome individuals and organizations of all sizes
 		(from single-person companies to multi-nationals),
 		and take feedback from the general public.
-	* **Interoperability**: We believe proven interoperable implementation is a 
-		requirement for broad adoption of standards. 
-		To ensure reliable interoperability, 
-		we require multiple implementations 
-		and open test suites for our standards.
+	* **Interoperability**: We strive to prove the fitness of our specifications
+		through open test suites and actual implementation experience,
+		because we believe the purpose of standards is
+		to enable multiple independent interoperable implementations.
 	* **Incubation**: The Web will continue to expand 
 		in user base, global reach, and technical breadth. 
 		We are committed to encouraging incubation in new areas, 
