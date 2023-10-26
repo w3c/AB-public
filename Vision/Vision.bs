@@ -106,18 +106,17 @@ Markup Shorthands: markdown yes
 	and to build a common community to support its development. 
 	It has become an association where diverse voices from around the world 
 	and from different industries and organizations work together to evolve the Web.
-
 	To build a better future, the W3C must rise even further 
 	to the challenge of improving the Web's fundamental integrity, 
 	while continuing to expand the Web’s scope and reach. 
-	The Operational Principles for the W3C should reflect the core values of the Web itself.
 
-	These core values will be clearly demonstrated by how W3C leads the Web forward: 
-	by being inclusive, principled, and continually striving to make the Web better 
-	through these principles and the Ethical Web Principles.
-	This will lead to a Web that is more equitable,
-	better serving its users in connecting the world. 
-	As the Ethical Web Principles state, “The web should empower an equitable, informed and interconnected society.”
+	As W3C leads the Web forward,
+	our mission is to embody our fundamental values and principles
+	in the architecture of the Web.
+	As the Ethical Web Principles state,
+	“The web should empower an equitable, informed, and interconnected society.”
+	Likewise, our Operational Principles for W3C
+	reflect the core values of the Web itself.
 
 # Operational Principles for W3C # {#op-principles}
 
