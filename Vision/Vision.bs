@@ -188,13 +188,3 @@ Markup Shorthands: markdown yes
 		excellent [[ETHICAL-WEB-PRINCIPLES inline|Ethical Web Principles]].
 		It is not intended to supplant that work nor redefine it,
 		but fit into the same framework and promote many of the same goals.
-
-<pre class=biblio>
-{
-	"W3C-HISTORY": {
-		"href": "https://www.w3.org/TR/2023/DNOTE-w3c-vision-20230725/#history", <!-- To be replaced with a link to the History as a standalone document, if/when it gets published as such -->
-		"title": "A History of W3C",
-		"publisher": "W3C"
-		}
-}
-</pre>
