@@ -188,7 +188,6 @@ Markup Shorthands: markdown yes
 		excellent [[ETHICAL-WEB-PRINCIPLES inline|Ethical Web Principles]].
 		It is not intended to supplant that work nor redefine it,
 		but fit into the same framework and promote many of the same goals.
-	* <span oldids="history"></span>This document also builds on a specific [[W3C-HISTORY inline|history]] of W3C's growth and success.
 
 <pre class=biblio>
 {
