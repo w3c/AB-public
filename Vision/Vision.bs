@@ -110,13 +110,8 @@ Markup Shorthands: markdown yes
 	To build a better future, the W3C must rise even further 
 	to the challenge of improving the Web's fundamental integrity, 
 	while continuing to expand the Web’s scope and reach. 
-	The Operational Principles for the W3C should reflect the core values of the Web itself.
 
-	These core values will be clearly demonstrated by how W3C leads the Web forward: 
-	by being inclusive, principled, and continually striving to make the Web better 
-	through these principles and the Ethical Web Principles.
-	This will lead to a Web that is more equitable,
-	better serving its users in connecting the world. 
+	The W3C must embed core values and principles in the Web's architecture as we lead the Web forward.
 	As the Ethical Web Principles state, “The web should empower an equitable, informed and interconnected society.”
 
 # Operational Principles for W3C # {#op-principles}
