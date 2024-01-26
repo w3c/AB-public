@@ -104,8 +104,12 @@ Markup Shorthands: markdown yes
 	to provide a consistent architecture 
 	across the rapid pace of progress in the Web, 
 	and to build a common community to support its development. 
-	It has become an association where diverse voices from around the world 
-	and from different industries and organizations work together to evolve the Web.
+
+	The fundamental function of W3C today is to provide an open forum
+	where diverse voices from around the world
+	and from different organizations and industries
+	work together to evolve the web by building consensus
+	on voluntary global standards for Web technologies.
 
 	To build a better future, the W3C must rise even further 
 	to the challenge of improving the Web's fundamental integrity, 
@@ -121,12 +125,7 @@ Markup Shorthands: markdown yes
 
 # Operational Principles for W3C # {#op-principles}
 
-	The fundamental function of W3C is to provide an open forum
-	where diverse voices from around the world
-	and from different organizations and industries
-	work together to build consensus
-	on voluntary global standards for Web technologies.
-	In order to fulfill this function, we will follow these operational principles:
+	In order to fulfill our Vision, we will follow these operational principles:
 
 	<ul>
 	<li id=user-first>
