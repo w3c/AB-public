@@ -152,7 +152,8 @@ Markup Shorthands: markdown yes
 	<li id=review>
 		**Thorough Review**:
 		We ensure the technical standards of the Web use broad and 
-		consistent horizontal review to ensure accessibility, 
+		consistent horizontal review to ensure fundamental attributes such as
+		accessibility, 
 		internationalization,
 		sustainability,
 		privacy,
