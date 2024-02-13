@@ -43,7 +43,7 @@ Markup Shorthands: markdown yes
 
 # The Mission of W3C # {#mission}
 
-	W3C leads the community 
+	The purpose of the W3C is to lead the community 
 	in defining a World Wide Web that puts users first, 
 	by developing technical standards and guidelines 
 	to empower an equitable, informed, and interconnected society.
