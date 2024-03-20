@@ -9,10 +9,10 @@ ED: https://w3c.github.io/AB-public/Vision
 Previous Version: https://www.w3.org/TR/2023/DNOTE-w3c-vision-20231026/
 Editor: Chris Wilson, Google, w3cid 3742
 Abstract:
-	This Vision attempts to help the world understand
+	The W3C Vision states W3C’s mission, 
 	what W3C is, what it does and why that matters;
-	and in particular to articulate the principles by which it operates
-	and that guide its decisions.
+	and articulates the values and principles by which it operates
+	and makes decisions.
 
 Status Text:
 	This document was developed by the Advisory Board
@@ -26,20 +26,20 @@ Markup Shorthands: markdown yes
 
 # Purpose of this Document # {#purpose}
 
-	This document is an articulation
-	of W3C’s mission, its values, and its organizational principles;
-	in other words, our vision for W3C as an organization
+	This document articulates
+	W3C’s mission, its values, its organizational principles, 
+	and our vision for W3C as an organization
 	in the context of our vision for the Web itself.
 	The goal of this vision is not to predict the future,
 	but to define shared principles to guide our decisions.
 
-	The goal of this document is to:
+	The goals of this document are to:
 
 	* Help the world understand what W3C is, what it does, and why it matters.
-	* Represent shared values of the W3C community.
-	* Be opinionated enough to provide a helpful framework when making decisions,
+	* Communicate shared values and principles of the W3C community.
+	* Be opinionated enough to provide a framework for making decisions,
 		particularly on controversial issues.
-	* Be timeless enough that it does not need frequent revision.
+	* Be timeless enough to guide W3C yet flexible enough to evolve when needed.
 
 # The Mission of W3C # {#mission}
 
