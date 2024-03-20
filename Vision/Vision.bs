@@ -8,6 +8,7 @@ TR: https://www.w3.org/TR/w3c-vision/
 ED: https://w3c.github.io/AB-public/Vision
 Previous Version: https://www.w3.org/TR/2023/DNOTE-w3c-vision-20231026/
 Editor: Chris Wilson, Google, w3cid 3742
+Editor: Tantek Çelik, Mozilla, w3cid 1464
 Abstract:
 	This Vision attempts to help the world understand
 	what W3C is, what it does and why that matters;
@@ -114,7 +115,7 @@ Markup Shorthands: markdown yes
 	to the challenge of improving the Web's fundamental integrity, 
 	while continuing to expand the Web’s scope and reach. 
 
-	The W3C will embed its core values and principles in the Web's architecture as we lead the Web forward.
+	The W3C will embed its core values and principles in the Web's architecture.
 	As the Ethical Web Principles state, “The web should empower an equitable, informed and interconnected society.”
 
 # Operational Principles for W3C # {#op-principles}
