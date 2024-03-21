@@ -36,11 +36,11 @@ Markup Shorthands: markdown yes
 
 	The goals of this document are to:
 
-	* Help the world understand what W3C is, what it does, and why it matters.
-	* Communicate shared values and principles of the W3C community.
+	* Help the world understand what W3C is, what it does, and why it matters
+	* Communicate shared values and principles of the W3C community
 	* Be opinionated enough to provide a framework for making decisions,
-		particularly on controversial issues.
-	* Be timeless enough to guide W3C yet flexible enough to evolve when needed.
+		particularly on controversial issues
+	* Be timeless enough to guide W3C yet flexible enough to evolve when needed
 
 # The Mission of W3C # {#mission}
 
