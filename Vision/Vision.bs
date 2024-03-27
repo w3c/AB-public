@@ -10,9 +10,9 @@ Previous Version: https://www.w3.org/TR/2023/DNOTE-w3c-vision-20231026/
 Editor: Chris Wilson, Google, w3cid 3742
 Editor: Tantek Çelik, Mozilla, w3cid 1464
 Abstract:
-	The W3C Vision states W3C’s mission, 
-	what W3C is, what it does and why that matters;
-	and articulates the values and principles by which it operates
+	The W3C Vision articulates W3C’s mission, 
+	what W3C is, what it does and why that matters,
+	and the values and principles by which it operates
 	and makes decisions.
 
 Status Text:
