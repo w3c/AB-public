@@ -42,8 +42,6 @@ Markup Shorthands: markdown yes
 		particularly on controversial issues
 	* Be timeless enough to guide W3C yet flexible enough to evolve when needed
 
-# The Mission of W3C # {#mission}
-
 # Introduction # {#intro}
 
 	The World Wide Web was originally conceived
