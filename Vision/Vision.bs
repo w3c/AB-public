@@ -44,11 +44,6 @@ Markup Shorthands: markdown yes
 
 # The Mission of W3C # {#mission}
 
-	W3C leads the community 
-	in defining a World Wide Web that puts users first, 
-	by developing technical standards and guidelines 
-	to empower an equitable, informed, and interconnected society.
-
 # Introduction # {#intro}
 
 	The World Wide Web was originally conceived
@@ -58,6 +53,11 @@ Markup Shorthands: markdown yes
 	providing and expanding access to knowledge, education,
 	commerce and shopping, social experiences,
 	civic functions, entertainment, and more.
+
+	The World Wide Web Consortium (W3C) was founded as an organization 
+	to provide a consistent architecture 
+	across the rapid pace of progress in the Web, 
+	and to build a common community to support its development. 
 
 	The Web's amazing success
 	has also led to many unintended and undesirable consequences
@@ -100,10 +100,10 @@ Markup Shorthands: markdown yes
 
 # Vision for W3C # {#vision-org}
 
-	The World Wide Web Consortium (W3C) was founded as an organization 
-	to provide a consistent architecture 
-	across the rapid pace of progress in the Web, 
-	and to build a common community to support its development. 
+	W3C leads the community 
+	in defining a World Wide Web that puts users first, 
+	by developing technical standards and guidelines 
+	to empower an equitable, informed, and interconnected society.
 
 	The fundamental function of W3C today is to provide an open forum
 	where diverse voices from around the world
