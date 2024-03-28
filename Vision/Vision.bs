@@ -76,7 +76,7 @@ Markup Shorthands: markdown yes
 	new technologies enable new actions and new possibilities, and
 	we must take responsibility 
 	to address the actual impact of our work.
-	The W3C’s Technical Architecture Group's work 
+	W3C’s Technical Architecture Group's work 
 	to clearly define <a href="https://www.w3.org/2001/tag/doc/ethical-web-principles/">Ethical Web Principles</a> is a strong basis 
 	to improve the ethical integrity of the Web. 
 
@@ -109,11 +109,11 @@ Markup Shorthands: markdown yes
 	work together to evolve the web by building consensus
 	on voluntary global standards for Web technologies.
 
-	To build a better future, the W3C must rise even further 
+	To build a better future, W3C must rise even further 
 	to the challenge of improving the Web's fundamental integrity, 
 	while continuing to expand the Web’s scope and reach. 
 
-	The W3C will embed its core values and principles in the Web's architecture.
+	W3C will embed its core values and principles in the Web's architecture.
 	As the Ethical Web Principles state, “The web should empower an equitable, informed and interconnected society.”
 
 # Operational Principles for W3C # {#op-principles}
@@ -139,7 +139,7 @@ Markup Shorthands: markdown yes
 		industries,
 		organizational sizes,
 		and more.
-		In order to ensure the W3C serves the needs of the entire Web user base, 
+		In order to ensure W3C serves the needs of the entire Web user base, 
 		we also strive to broaden diversity and inclusion for our own participants.
 	<li id=review>
 		**Thorough Review**:
