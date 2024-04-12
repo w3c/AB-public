@@ -142,11 +142,12 @@ Markup Shorthands: markdown yes
 	<li id=diversity>
 		**Diversity of Perspective**: We believe in seeking diversity
 		of perspectives from different
+		backgrounds,
 		geographical locales,
 		industries,
 		organizational sizes,
 		and more.
-		This serves to ensure W3C serves the needs of the entire Web user base.
+		This ensures W3C serves the needs of the entire Web user base.
 	<li id=review>
 		**Thorough Review**:
 		We ensure the technical standards of the Web use broad and 
