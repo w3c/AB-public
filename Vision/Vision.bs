@@ -131,14 +131,14 @@ Markup Shorthands: markdown yes
 	<li id=inclusion>
 		**Inclusion**: We believe in actively including
 		and providing a welcoming environment for
-		participants from different
+		participants of different
 		cultures,
-		speaking different languages,
-		with different disabilities,
+		languages,
+		disabilities,
 		gender identities,
 		and more.
 		In order to ensure W3C reflects the entire Web user base, 
-		we will actively seek to be welcoming to all.
+		we will actively seek to be inclusive to all.
 	<li id=diversity>
 		**Diversity of Perspective**: We believe in seeking diversity
 		of perspectives from different
