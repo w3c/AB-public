@@ -146,7 +146,7 @@ Other Relevant Resources</h2>
 	Readers of this document may also be interested in the following resources:
 
 	* The [[!i18n-glossary inline]]
-	* The <a href="https://www.w3.org/Consortium/cepc/#glossary">glossary section</a> of the [[!CEPC inline]]
+	* The <a href="https://www.w3.org/policies/code-of-conduct/#glossary">glossary section</a> of the [[!COC inline]]
 
 	Earlier discontinued attempts at maintaining a glossary:
 	* [[JARGON inline]]
@@ -155,14 +155,15 @@ Other Relevant Resources</h2>
 <div boilerplate="conformance"></div>
 <pre class=biblio>
 {
-	"CEPC": {
+	"COC": {
 		"authors": [
 			"Tzviya Siegman",
 			"An Qi Li",
-			"Ada Rose Cannon"
+			"Ada Rose Cannon",
+			"Wendy Reid"
 		],
-		"href": "https://www.w3.org/Consortium/cepc/",
-		"title": "Positive Work Environment at W3C: Code of Ethics and Professional Conduct",
+		"href": "https://www.w3.org/policies/code-of-conduct/",
+		"title": "Positive Work Environment at W3C: Code of Conduct",
 		"publisher": "W3C"
 	},
 	"JARGON": {
