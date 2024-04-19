@@ -42,7 +42,7 @@ Introduction</h2>
 	The focus here is on terms that may reasonably be encountered
 	in many or most W3C groups.
 
-	Nevertheless, <a href="#also">The last section of this document</a>
+	Nevertheless, <a href="#also">the last section of this document</a>
 	links to more specialized glossaries maintained by other groups,
 	as well as to earlier attempts at W3C-wide glossaries.
 
