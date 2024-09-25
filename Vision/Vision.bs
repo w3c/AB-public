@@ -188,7 +188,8 @@ Markup Shorthands: markdown yes
 		on <a href="https://www.w3.org/wiki/AB/2021_Priorities#Vision">the AB wiki</a>.
 	* This document is the result of many people's work,
 		notably Chris Wilson, David Singer, Mike Champion, Tantek Çelik,
-		Tzviya Siegman, Avneesh Singh, and the rest of the Advisory Board.
+		Tzviya Siegman, Avneesh Singh, and the rest of the Advisory Board
+		and Vision Task Force members.
 	* This document builds on the basis of the Technical Architecture Group's
 		excellent [[ETHICAL-WEB-PRINCIPLES inline|Ethical Web Principles]].
 		It is not intended to supplant that work nor redefine it,
