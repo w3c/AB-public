@@ -149,7 +149,9 @@ Markup Shorthands: markdown yes
 		internationalization,
 		sustainability,
 		privacy,
-		and security.
+		security,
+		technical soundness,
+		and architectural integrity.
 	<li id=consensus>
 		**Consensus**: We believe in principled, community-wide consensus-building
 		as the basis for building standards.
