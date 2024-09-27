@@ -109,12 +109,12 @@ Markup Shorthands: markdown yes
 	work together to evolve the web by building consensus
 	on voluntary global standards for Web technologies.
 
+	W3C embeds its core values and principles in the Web's architecture.
 	To build a better future, W3C must rise even further 
-	to the challenge of improving the Web's fundamental integrity, 
+	to the challenge of improving the Web’s fundamental integrity,
 	while continuing to expand the Web’s scope and reach. 
-
-	W3C will embed its core values and principles in the Web's architecture.
-	As the Ethical Web Principles state, “The web should empower an equitable, informed and interconnected society.”
+	As the Ethical Web Principles state,
+	“The Web should empower an equitable, informed and interconnected society.”
 
 # Operational Principles for W3C # {#op-principles}
 
