@@ -28,8 +28,8 @@ Markup Shorthands: markdown yes
 # Purpose of this Document # {#purpose}
 
 	This document articulates
-	W3C’s mission, its values, its organizational principles, 
-	and our vision for W3C as an organization
+	W3C’s mission, its values, and its organizational principles;
+	in other words, our vision for W3C as an organization
 	in the context of our vision for the Web itself.
 	The goal of this vision is not to predict the future,
 	but to define shared principles to guide our decisions.
