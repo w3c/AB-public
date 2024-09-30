@@ -25,7 +25,7 @@ Boilerplate: omit conformance
 Markup Shorthands: markdown yes 
 </pre>
 
-# Purpose of this Document # {#purpose}
+# Introduction # {#intro}
 
 	This document articulates
 	W3C’s mission, its values, and its organizational principles;
@@ -42,7 +42,7 @@ Markup Shorthands: markdown yes
 		particularly on controversial issues
 	* Be timeless enough to guide W3C yet flexible enough to evolve when needed
 
-# Introduction # {#intro}
+# Background and Motivation # {#background}
 
 	The World Wide Web was originally conceived
 	as a tool for sharing information.
