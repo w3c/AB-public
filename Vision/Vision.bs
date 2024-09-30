@@ -111,10 +111,8 @@ Markup Shorthands: markdown yes
 
 	W3C embeds its core values and principles in the Web's architecture.
 	To build a better future, W3C must rise even further 
-	to the challenge of improving the Web’s fundamental integrity, 
-	while continuing to expand the Web’s scope and reach. 
-	As the Ethical Web Principles state, 
-	“The Web should empower an equitable, informed and interconnected society.”
+	to the challenge of improving the Web’s fundamental integrity 
+	while continuing to expand the Web’s scope and reach.
 
 # Operational Principles for W3C # {#op-principles}
 
