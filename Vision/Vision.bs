@@ -100,8 +100,7 @@ Markup Shorthands: markdown yes
 
 	W3C leads the community 
 	in defining a World Wide Web that puts users first, 
-	by developing technical standards and guidelines 
-	to empower an equitable, informed, and interconnected society.
+	by developing principles-based technical standards and guidelines.
 
 	The fundamental function of W3C today is to provide an open forum
 	where diverse voices from around the world
@@ -113,8 +112,8 @@ Markup Shorthands: markdown yes
 	To build a better future, W3C must rise even further 
 	to the challenge of improving the Web’s fundamental integrity, 
 	while continuing to expand the Web’s scope and reach. 
-	As the Ethical Web Principles state, 
-	“The Web should empower an equitable, informed and interconnected society.”
+	As the Ethical Web Principles state: 
+	“The Web should empower an equitable, informed, and interconnected society.”
 
 # Operational Principles for W3C # {#op-principles}
 
