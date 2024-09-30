@@ -113,7 +113,7 @@ Markup Shorthands: markdown yes
 	To build a better future, W3C must rise even further 
 	to the challenge of improving the Web’s fundamental integrity, 
 	while continuing to expand the Web’s scope and reach. 
-	As the Ethical Web Principles state,
+	As the Ethical Web Principles state, 
 	“The Web should empower an equitable, informed and interconnected society.”
 
 # Operational Principles for W3C # {#op-principles}
