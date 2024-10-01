@@ -19,6 +19,7 @@ Status Text:
 	This document was developed by the Advisory Board
 	in cooperation with its <a href="https://www.w3.org/wiki/AB/VisionTF">Vision Task Force</a>.
 	The intent is for this document to eventually become a <a href="https://www.w3.org/2023/Process-20230612/#w3c-statement">W3C Statement</a>.
+	This document reflects the consensus of the AB at the time of publication. 
 	It will continue to evolve, and the AB will issue updates as often as needed.
 
 Boilerplate: omit conformance
