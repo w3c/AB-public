@@ -130,6 +130,8 @@ Markup Shorthands: markdown yes
 	<li id=diversity>
 		**Diversity**: We believe in diversity
 		and inclusion of participants from different
+		ages,	
+		economic backgrounds,
 		geographical locations,
 		cultures,
 		languages,
