@@ -44,7 +44,7 @@ Markup Shorthands: markdown yes
 
 # Introduction # {#intro}
 
-	The World Wide Web was originally conceived
+	The World Wide Web (WWW) was originally conceived
 	as a tool for sharing information.
 	It has evolved rapidly into a fundamental part of humanity,
 	sparking major social change by 
