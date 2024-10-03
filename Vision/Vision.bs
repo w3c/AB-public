@@ -52,7 +52,7 @@ Markup Shorthands: markdown yes
 	commerce and shopping, social experiences,
 	civic functions, entertainment, and more.
 
-	The World Wide Web Consortium (W3C) was founded as an organization 
+	The World Wide Web Consortium (<abbr>W3C</abbr>) was founded as an organization 
 	to provide a consistent architecture 
 	across the rapid pace of progress in the Web, 
 	and to build a common community to support its development. 
