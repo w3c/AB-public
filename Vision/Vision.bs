@@ -106,7 +106,7 @@ Markup Shorthands: markdown yes
 	where diverse voices from around the world
 	and from different organizations and industries
 	work together to evolve the web by building consensus
-	on global standards, some voluntary and some not, for Web technologies.
+	on global standards for Web technologies.
 
 	W3C embeds its core values and principles in the Web's architecture.
 	To build a better future, W3C must rise even further 
@@ -166,6 +166,10 @@ Markup Shorthands: markdown yes
 		through open test suites and actual implementation experience,
 		because we believe the purpose of standards is
 		to enable independent interoperable implementations.
+	<li id=prudence>
+		**Prudent Enforcement**: We take great care to deploy the coercive 
+		power of standards thoughtfully, responsibly, and in accordance with 
+		clearly established principles.
 	<li id=incub>
 		**Incubation**: The Web will continue to expand
 		in user base, global reach, and technical breadth. 
