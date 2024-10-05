@@ -196,3 +196,8 @@ Markup Shorthands: markdown yes
 		excellent [[ETHICAL-WEB-PRINCIPLES inline|Ethical Web Principles]].
 		It is not intended to supplant that work nor redefine it,
 		but fit into the same framework and promote many of the same goals.
+
+# Changes
+## Changes from <a href="https://www.w3.org/TR/2024/NOTE-w3c-vision-20240403/">2024-04-03 Note</a>
+View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FTR%2Fw3c-vision%2F&doc2=https%3A%2F%2Fw3c.github.io%2FAB-public%2FVision">differences between Editor’s Draft and First Public Group Note</a>
+* ... (to be filled in by editor with summary items of each change and reasoning (GH issue link for substantial edits) for each)
