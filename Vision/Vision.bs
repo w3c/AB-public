@@ -158,6 +158,10 @@ Markup Shorthands: markdown yes
 	<li id=free-impl>
 		**Free to Implement**: Our standards are rooted in a strong royalty-free patent policy
 		and open copyright licenses.
+	<li id=voluntary-impl>
+		**Voluntary Conformance**: Our standards are voluntary, not <i lang=la>de jure</i>,
+		ensuring that the market, not W3C,
+		proves and decides whether a standard is worth adopting.
 	<li id=open>
 		**Open Participation**: We welcome individuals and organizations of all sizes
 		(from single-person companies to multi-nationals),
