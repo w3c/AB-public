@@ -202,16 +202,29 @@ Markup Shorthands: markdown yes
 ## Changes from <a href="https://www.w3.org/TR/2024/NOTE-w3c-vision-20240403/">2024-04-03 Note</a>
 View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FTR%2Fw3c-vision%2F&doc2=https%3A%2F%2Fw3c.github.io%2FAB-public%2FVision">differences between Editor’s Draft and First Public Group Note</a>
 <ul>
+<li>Status of this document: <ul>
+  <li>add “and reflects the consensus of the AB at the time of publication”
+      (<a href="https://github.com/w3c/AB-public/pull/186">#186</a>)</li>
+  <li>move “It will continue to evolve, and the AB will issue updates as often as needed.” to end of last paragraph to clarify intent to iterate after Statement
+      (<a href="https://github.com/w3c/AB-public/pull/174">#174</a>)</li>
 <li>1. Purpose of this Document: <ul>
-  <li>first sentence: clarify components of the Vision</li>
-  <li>last two goals: move “guidance” into second to last goal, last goal add “remain relevant without needing frequent revision, while being open”, change “evolve when needed” to “evolving based on the needs of the community”.</li></ul>
+  <li>first sentence: clarify components of the Vision
+      (<a href="https://github.com/w3c/AB-public/pull/179">#179</a>)</li>
+  <li>last two goals: move “guidance” into second to last goal, last goal add “remain relevant without needing frequent revision, while being open”, change “evolve when needed” to “evolving based on the needs of the community”. 
+      (<a href="https://github.com/w3c/AB-public/pull/181">#181</a>)</li></ul>
 <li>2. Introduction: <ul>
-  <li>add abbr markup to parenthetical W3C</li></ul>
+  <li>add abbr markup to parenthetical W3C 
+      (<a href="https://github.com/w3c/AB-public/pull/191">#191</a>)</li></ul>
 <li>4. Vision for W3C: <ul>
-  <li>first sentence: add “principles-based” to connect to latter Ethical Web Principles (<abbr>EWP</abbr>) reference, de-dupe phrase from EWP expanded later in section</li>
-  <li>third paragraph: Move “… core values and principles in the Web’s architecture.” to start of paragraph, punctuation, use exact quote from EWP</li></ul>
+  <li>first sentence: add “principles-based” to connect to latter Ethical Web Principles (<abbr>EWP</abbr>) reference, de-dupe phrase from EWP expanded later in section
+      (<a href="https://github.com/w3c/AB-public/pull/184">#184</a>)</li>
+  <li>third paragraph: Move “… core values and principles in the Web’s architecture.” to start of paragraph, punctuation, use exact quote from EWP
+      (<a href="https://github.com/w3c/AB-public/pull/178">#178</a>, 
+       <a href="https://github.com/w3c/AB-public/pull/184">#184</a>)</li></ul>
 <li>5. Operational Principles for W3C: <ul>
-  <li>Thorough Review: add “technical soundness, and architectural integrity” to end of list</li></ul>
+  <li>Thorough Review: add “technical soundness, and architectural integrity” to end of list
+      (<a href="https://github.com/w3c/AB-public/pull/173">#173</a>)</li></ul>
 <li>6 Acknowledgements and supporting material: <ul>
-  <li>add “and Vision Task Force members.”</li></ul>
+  <li>add “and Vision Task Force members.”
+      (<a href="https://github.com/w3c/AB-public/pull/175">#175</a>)</li></ul>
 </ul>
