@@ -201,15 +201,17 @@ Markup Shorthands: markdown yes
 # Changes
 ## Changes from <a href="https://www.w3.org/TR/2024/NOTE-w3c-vision-20240403/">2024-04-03 Note</a>
 View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FTR%2Fw3c-vision%2F&doc2=https%3A%2F%2Fw3c.github.io%2FAB-public%2FVision">differences between Editor’s Draft and First Public Group Note</a>
-* 1 Purpose of this Document:
-  * first sentence: clarify components of the Vision
-  * last two goals: move “guidance” into second to last goal, last goal add “remain relevant without needing frequent revision, while being open”, change “evolve when needed” to “evolving based on the needs of the community”.
-* 2 Introduction: 
-  * add abbr markup to parenthetical W3C
-* 4 Vision for W3C:
-  * first sentence: add “principles-based” to connect to latter Ethical Web Principles (<abbr>EWP</abbr>) reference, de-dupe phrase from EWP expanded later in section
-  * third paragraph: Move “… core values and principles in the Web’s architecture.” to start of paragraph, punctuation, use exact quote from EWP
-* 5 Operational Principles for W3C:
-  * Thorough Review: add “technical soundness, and architectural integrity” to end of list
-* 6 Acknowledgements and supporting material:
-  * add “and Vision Task Force members.”
+<ul>
+<li>1. Purpose of this Document: <ul>
+  <li>first sentence: clarify components of the Vision</li>
+  <li>last two goals: move “guidance” into second to last goal, last goal add “remain relevant without needing frequent revision, while being open”, change “evolve when needed” to “evolving based on the needs of the community”.</li></ul>
+<li>2. Introduction: <ul>
+  <li>add abbr markup to parenthetical W3C</li></ul>
+<li>4. Vision for W3C: <ul>
+  <li>first sentence: add “principles-based” to connect to latter Ethical Web Principles (<abbr>EWP</abbr>) reference, de-dupe phrase from EWP expanded later in section</li>
+  <li>third paragraph: Move “… core values and principles in the Web’s architecture.” to start of paragraph, punctuation, use exact quote from EWP</li></ul>
+<li>5. Operational Principles for W3C: <ul>
+  <li>Thorough Review: add “technical soundness, and architectural integrity” to end of list</li></ul>
+<li>6 Acknowledgements and supporting material: <ul>
+  <li>add “and Vision Task Force members.”</li></ul>
+</ul>
