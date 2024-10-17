@@ -9,7 +9,7 @@ The source of the Vision and Principles work is at [https://github.com/w3c/AB-pu
 * W3C Glossary: [https://w3c.github.io/AB-public/Glossary](https://w3c.github.io/AB-public/Glossary)
 
 ## Latest Published Draft
-* Vision for W3C: https://www.w3.org/TR/w3c-vision/
+* Vision for W3C: [https://www.w3.org/TR/w3c-vision/](https://www.w3.org/TR/w3c-vision/)
 
 ## Goals And Workmodes
 * Vision Task Force goals & workmode: https://www.w3.org/wiki/AB/VisionTF
