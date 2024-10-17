@@ -206,7 +206,7 @@ View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FT
   <li>add “and reflects the consensus of the AB at the time of publication”
       (<a href="https://github.com/w3c/AB-public/pull/186">#186</a>)</li>
   <li>move “It will continue to evolve, and the AB will issue updates as often as needed.” to end of last paragraph to clarify intent to iterate after Statement
-      (<a href="https://github.com/w3c/AB-public/pull/174">#174</a>)</li>
+      (<a href="https://github.com/w3c/AB-public/pull/174">#174</a>)</li></ul>
 <li>1. Purpose of this Document: <ul>
   <li>first sentence: clarify components of the Vision
       (<a href="https://github.com/w3c/AB-public/pull/179">#179</a>)</li>
