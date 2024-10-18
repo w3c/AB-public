@@ -227,3 +227,4 @@ View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FT
   <li>add “and Vision Task Force members.”
       (<a href="https://github.com/w3c/AB-public/pull/175">#175</a>)</li></ul>
 </ul>
+<p role="navigation" id="back-to-top"><a href="#title"><abbr title="Back to top">↑</abbr></a></p>
