@@ -185,7 +185,7 @@ Markup Shorthands: markdown yes
 
 # Acknowledgements and supporting material # {#acknowledgements}
 
-	* This document is intended to be a stronger vision statement for <a href="https://w3.org/">W3C</a>.
+	* This document is intended to be a stronger vision statement for <a href="https://www.w3.org/">W3C</a>.
 		This is currently exposed as a work item of the <a href="https://www.w3.org/2002/ab/">W3C Advisory Board</a>,
 		on <a href="https://www.w3.org/wiki/AB/2025_Priorities#Vision">the AB wiki</a>.
 	* This document is the result of many people's work,
