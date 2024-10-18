@@ -25,7 +25,7 @@ Status Text:
 Boilerplate: omit conformance
 Markup Shorthands: markdown yes 
 </pre>
-
+<p id="w3c-state" style="display:none">W3C Note 18 October 2024</p>
 # Purpose of this Document # {#purpose}
 
 	This document articulates
