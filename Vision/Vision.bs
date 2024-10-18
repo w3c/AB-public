@@ -25,7 +25,6 @@ Status Text:
 Boilerplate: omit conformance
 Markup Shorthands: markdown yes 
 </pre>
-<p id="w3c-state" style="display:none">W3C Note 18 October 2024</p>
 # Purpose of this Document # {#purpose}
 
 	This document articulates
@@ -228,3 +227,4 @@ View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FT
   <li>add “and Vision Task Force members.”
       (<a href="https://github.com/w3c/AB-public/pull/175">#175</a>)</li></ul>
 </ul>
+<p id="w3c-state" style="display:none">W3C Note 18 October 2024</p>
