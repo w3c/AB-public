@@ -129,8 +129,8 @@ Markup Shorthands: markdown yes
 		in building the Web: developers, content creators, and end users. 
 		Our work will not be dominated by any person, company, or interest group.
 	<li id=diversity>
-		**Diversity**: We believe in diversity
-		and inclusion of participants from different
+		**Diversity**: We value the diversity of perspectives
+		from participants of different
 		geographical locations,
 		cultures,
 		languages,
@@ -140,7 +140,8 @@ Markup Shorthands: markdown yes
 		organizational sizes,
 		and more.
 		In order to ensure W3C serves the needs of the entire Web user base, 
-		we also strive to broaden diversity and inclusion for our own participants.
+		we strive to actively include their participation
+		and provide a welcoming environment to all contributors.
 	<li id=review>
 		**Thorough Review**:
 		We ensure the technical standards of the Web use broad and 
