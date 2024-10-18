@@ -78,7 +78,7 @@ Markup Shorthands: markdown yes
 	we must take responsibility 
 	to address the actual impact of our work.
 	W3C’s Technical Architecture Group's work 
-	to clearly define <a href="https://www.w3.org/2001/tag/doc/ethical-web-principles/">Ethical Web Principles</a> is a strong basis 
+	to clearly define <a href="https://www.w3.org/TR/ethical-web-principles/">Ethical Web Principles</a> is a strong basis 
 	to improve the ethical integrity of the Web. 
 
 	The Web has had a tremendous impact on the world, 
