@@ -6,7 +6,7 @@ Status: ED
 Group: AB
 TR: https://www.w3.org/TR/w3c-vision/
 ED: https://w3c.github.io/AB-public/Vision
-Previous Version: https://www.w3.org/TR/2023/DNOTE-w3c-vision-20231026/
+Previous Version: https://www.w3.org/TR/2024/NOTE-w3c-vision-20240403/
 Editor: Chris Wilson, Google, w3cid 3742
 Editor: Tantek Çelik, Mozilla, w3cid 1464
 Abstract:
