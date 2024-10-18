@@ -2,8 +2,8 @@
 Title: Vision for W3C
 Shortname: w3c-vision
 Level: none
-Status: ED
-Group: AB
+Status: NOTE
+Group: w3c/AB
 TR: https://www.w3.org/TR/w3c-vision/
 ED: https://w3c.github.io/AB-public/Vision
 Previous Version: https://www.w3.org/TR/2024/NOTE-w3c-vision-20240403/
@@ -227,4 +227,3 @@ View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FT
   <li>add “and Vision Task Force members.”
       (<a href="https://github.com/w3c/AB-public/pull/175">#175</a>)</li></ul>
 </ul>
-<p id="w3c-state" style="display:none">W3C Note 18 October 2024</p>
