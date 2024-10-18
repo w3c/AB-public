@@ -2,12 +2,12 @@
 Title: Vision for W3C
 Shortname: w3c-vision
 Level: none
-Status: NOTE
-Prepare for TR: true
+Status: ED
+Prepare for TR: false
 Group: w3c/AB
 TR: https://www.w3.org/TR/w3c-vision/
 ED: https://w3c.github.io/AB-public/Vision
-Previous Version: https://www.w3.org/TR/2024/NOTE-w3c-vision-20240403/
+Previous Version: https://www.w3.org/TR/2024/NOTE-w3c-vision-20241018/
 Editor: Chris Wilson, Google, w3cid 3742
 Editor: Tantek Çelik, Mozilla, w3cid 1464
 Abstract:
@@ -199,8 +199,13 @@ Markup Shorthands: markdown yes
 		but fit into the same framework and promote many of the same goals.
 
 <h2 id="changes">Changes</h2>
+<h3 id="changes-from-2024-10-18">Changes from <a href="https://www.w3.org/TR/2024/NOTE-w3c-vision-20241018/">2024-10-18 Note</a></h2>
+View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FTR%2F2024%2FNOTE-w3c-vision-20241018%2F&doc2=https%3A%2F%2Fw3c.github.io%2FAB-public%2FVision">all differences from Second Public Group Note</a>
+<ul>
+<li>Nothing substantive yet. Help find consensus and propose resolutions in <a href="https://github.com/w3c/AB-public/issues/">open issues</a>, and the editor will make changes accordingly.</li>
+<?ul>
 <h3 id="changes-from-2024-04-03">Changes from <a href="https://www.w3.org/TR/2024/NOTE-w3c-vision-20240403/">2024-04-03 Note</a></h2>
-View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FTR%2F2024%2FNOTE-w3c-vision-20240403%2F&doc2=https%3A%2F%2Fwww.w3.org%2FTR%2F2024%2FNOTE-w3c-vision-20241018%2F">all differences from First Public Group Note</a>
+View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FTR%2F2024%2FNOTE-w3c-vision-20240403%2F&doc2=https%3A%2F%2Fwww.w3.org%2FTR%2F2024%2FNOTE-w3c-vision-20241018%2F">diffs from First Public Group Note to Second</a>
 <ul>
 <li>Status of this document: <ul>
   <li>add “and reflects the consensus of the AB at the time of publication”
