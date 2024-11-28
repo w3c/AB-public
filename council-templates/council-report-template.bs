@@ -141,7 +141,9 @@ Recommendations</h2>
 	write them here.
 	This could be, in the case of objections overruled despite some concerns,
 	advice on what to do in order to avoid further potentially sustainable objections
-	at a later stage.
+	at a later stage;
+	alternatively, in the case of sustained objections,
+	suggestions of what the originating group can do to try and overcome the disagreements.
 	None of this, however, is binding.
 	</i>
 
