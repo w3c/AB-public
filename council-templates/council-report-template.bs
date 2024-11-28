@@ -32,8 +32,9 @@ q { font-style: italic; }
 	</i>
 
 	<p><span class=todo>
-		&#91;text between square brackets is meant to stay in the report,
-		but needs adjustments before publishing.]
+		&#91;text between square brackets is meant become part of the report,
+		but needs adjustments or completion before publishing,
+		or deletion in cases where it is not applicable.]
 	</span>
 
 	<p class=todo><i>The source of this document is available in <a href="https://speced.github.io/bikeshed/">Bikeshed</a> format at <a href="https://github.com/w3c/AB-public/tree/main/council-templates">https://github.com/w3c/AB-public/tree/main/council-templates</a>.</i>
