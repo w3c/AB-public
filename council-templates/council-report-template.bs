@@ -91,7 +91,7 @@ Decision</h2>
 
 	<p class=todo>
 	<i>
-		If there any post-AC review changes got consensus
+		If any post-AC review changes got consensus
 		and were integrated into the proposed charter/spec/etc,
 		especially if that was necessary to resolve some of the formal objections,
 		and if the remaining formal objections were overruled,
