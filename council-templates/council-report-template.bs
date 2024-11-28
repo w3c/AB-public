@@ -1,0 +1,231 @@
+<pre class='metadata'>
+Title: W3C Council Report on the Formal Objection<span class=todo>[s]</span> Against <span class=todo>[Identify the Decision]</span>
+shortname: council-report-on-???
+Status: FINDING
+No editor: true
+No Abstract: true
+Complain About: accidental-2119 no, missing-example-ids yes
+Markup Shorthands: markdown yes, css no
+Local Boilerplate: copyright yes
+</pre>
+<pre class="metadata">
+Boilerplate: idl-index no, property-index no, status no, references no, conformance no, spec-metadata no
+</pre>
+
+<style>
+.todo { background: yellow; }
+q { font-style: italic; }
+.pack {
+	columns: 10em;
+}
+</style>
+
+	<blockquote class=todo>
+	Blocks like this are quotes from the Process,
+	included to help understand what various sections need to cover.
+	Delete them before publishing the report.</blockquote>
+
+	<p>
+
+	<i class=todo>
+		Italicized sentences like this give instructions or comments to the writer of the report.
+		Delete them before publishing the report.
+	</i>
+
+	<p><span class=todo>
+		&#91;text between square brackets is meant to stay in the report,
+		but needs adjustments before publishing.]
+	</span>
+
+<h2 id="intro">
+Introduction</h2>
+
+	<p>
+	<i>A detailed exposition of this case may be found in the <a href="????" class=todo>report</a> prepared by the W3C Team.</i>
+
+	<p class=todo>
+	<i>
+	Summarise the situation,
+	clearly identify the decision that is being formally objected to,
+	list the objections raised,
+	indicate if any were resolved by consensus
+	(and therefore don't need to be ruled on by the council),
+	to make clear exactly what the Council considers it is being asked to rule on.
+	If practical,
+	and summarize the (not yet resolved) objections
+	to make this report easier to read standalone.
+	However,
+	if the objections are long,
+	raise numerous points,
+	or are hard to summarize,
+	linking may be more prudent than rephrasing.
+	</i>
+
+	<p class=todo>
+	&#91;…]
+
+	<p>
+	A Council was then formed to rule on <span class=todo>&#91;this | these]</span> <span class=todo>&#91;remaining]</span> objection<span class=todo>&#91;s]</span>.
+	This <a href="https://www.w3.org/policies/process/#council-report">Council Report</a> documents the conclusions of this Council.
+
+
+</p><h2 id="decision">
+Decision</h2>
+
+	<p>
+	The Council resolved to
+	<span class=todo>[accept the Team's recommendation to]</span>
+	<span class=todo>[<strong>overrule | sustain</strong>]</span> the <span class=todo>[remaining]</span> objection<span class=todo>[s]</span>.
+
+	<p class=todo>
+	<em>Pick the right option,
+	or write a similar short sentence making it clear what the consequence of the decision is:</em><br>
+	[The decision stands.]
+	[The decision is overturned.]
+	[The charter may proceed.]
+	[The charter, as proposed, is rejected.]
+	[The specification may proceed to Recommendation.]
+	[The specification, as proposed, cannot proceed to Recommendation.]
+	[…]
+
+	<p class=todo>
+	<i>
+		If there any post-AC review changes got consensus
+		and were integrated into the proposed charter/spec/etc,
+		especially if that was necessary to resolve some of the formal objections,
+		and if the remaining formal objections were overruled,
+		for the avoidance of doubt,
+		it's usually good to clarify that the document that is cleared for advancement
+		is the one with those changes integrated.
+		A link to <a href="https://www.w3.org/policies/process/#ACReviewAfter">the section of the Process that explains how such changes are integrated</a>
+		is welcome too.
+	</i>
+
+<h2 id="rationale">
+Rationale</h2>
+
+	<blockquote class="todo">
+	<em>must</em> provide a rationale supporting the decision, which <em>should</em> address each argument raised in the Formal Objection(s).
+	</blockquote>
+
+	<blockquote class="todo">
+	The W3C Council may overrule the Formal Objection even if it agrees with <em>some</em> of the supportive arguments.
+	</blockquote>
+
+	<p class=todo>[…]
+
+	<p class=todo>
+	<i>Delete the following paragraph if not applicable:<br></i>
+	Some additional <a href="https://www.w3.org/2021/Process-20211102/#Member-only">Member-only</a> remarks
+	were made in connection with the objection<span class=todo>[s]</span>.
+	These were taken into account in the Council's conclusion.
+	To respect confidentiality,
+	they cannot be discussed in this report,
+	but are covered in a
+	<a href="council-supplemental-report-template.html" class=todo>Supplemental Member-only Council Report</a>.
+
+<h2 id="recommendations">
+Recommendations</h2>
+
+	<blockquote class="todo">
+	<em>must</em> include any recommendation decided by the Council.
+	</blockquote>
+
+	<blockquote class="todo">
+	When upholding an objection, it <em>should</em> recommend a way forward.
+	</blockquote>
+
+	<p class=todo>
+	<i>If the Council has some suggestions to give,
+	write them here.
+	This could be, in the case of objections overruled despite some concerns,
+	advice on what to do in order to avoid further potentially sustainable objections
+	at a later stage.
+	None of this, however, is binding.
+	</i>
+
+	<p class=todo>[…]
+
+<h2 id="mitigations">
+Mitigations</h2>
+
+	<blockquote class="todo">
+		If an overturned decision has already had consequences (e.g., if the objection concerns material already in a published document) the Council should suggest how these consequences might be mitigated. The Team is responsible for making sure that adequate mitigations are enacted in a timely fashion; and the Formal Objection is not considered fully addressed until then.
+
+		<p class=note>
+Note: This does not create new powers for the Team, such as the ability to “unpublish” documents. The Team's role is to ensure the responsible parties enact adequate mitigations, by whatever means they already have at their disposal.
+	</blockquote>
+
+	<p class=todo>[…]
+
+	<p class=todo>
+	<i>
+	If the objections were overruled,
+	delete this section.
+	</i>
+
+<h2 id="participation" class=no-num>
+Appendix A:
+Council Participation</h2>
+
+	<p>
+	Information on participation, as <a href="https://www.w3.org/policies/process/#council-decision">required</a> by Process on Councils.
+
+	</p><p>
+	The following individuals were potential Council members, due to either
+	being participants in the TAG or the AB, or to being <span class=todo>[the Team delegate chosen by]</span> the W3C CEO:</p>
+
+	<ul class="pack">
+		<li><span class=todo>[…]</spam>
+		<li><span class=todo>[…]</spam>
+		<li><span class=todo>[…]</spam>
+	</ul>
+
+	<p>
+	<span class=todo>[X, Y, and Z | None of the potential Council members]</span> <a href="https://www.w3.org/policies/process/#renounce">renounced</a> their seats on the Council;
+	<span class=todo>[X, Y, and Z | none of the potential Council members]</span> <span class=todo>[was | were]</span> <a href="https://www.w3.org/policies/process/#dismissed">dismissed</a>.
+	Therefore, the actual membership of this council was:
+
+	<p><i class=todo>Delete the following list (and the “Therefore…” sentence right before it) if it is identical to the previous one.</i>
+	<ul class="pack">
+		<li><span class=todo>[…]</spam>
+		<li><span class=todo>[…]</spam>
+		<li><span class=todo>[…]</spam>
+	</ul>
+
+	<p><span class=todo>[Name]</span> was appointed as chair.
+
+	<p>
+	Of those qualified to serve, the following participated in the final decision:
+
+	<ul class="pack">
+		<li><span class=todo>[…]</spam>
+		<li><span class=todo>[…]</spam>
+		<li><span class=todo>[…]</spam>
+	</ul>
+
+	<p class=todo>
+	<i>Pick among the following two paragraphs, as appropriate, and delete the other one.</i>
+
+	<p>
+	The decision was made by consensus.
+
+	<p>
+	The decision was made by vote, with <span class=todo>[x]</span> in favor, <span class=todo>[y]</span> against, and <span class=todo>[z]</span> abstaining<span class=todo>[, with the chair breaking the tie]</span>.
+
+<h2 id="minority" class="no-num todo">
+Appendix B:
+Minority Report</h2>
+
+	<blockquote class=todo>
+		In the case of non-unanimous decisions, members of a W3C Council who disagree with the decision may write a Minority Opinion explaining the reason for their disagreement.
+	</blockquote>
+
+	<p class=todo>&#91;…]
+
+	<p class=todo>
+	<i>
+	If the decision was taken by consensus,
+	or those who lost the vote do no wish to explain their views,
+	delete this section.
+	</i>

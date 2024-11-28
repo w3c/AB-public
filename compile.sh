@@ -6,6 +6,8 @@ PUBLICATION_URL="https://w3c.github.io/ab-public/"
 BUILD_TARGETS=(
 	"Vision/Vision.bs"
 	"Glossary/Glossary.bs"
+	"council-templates/council-report-template.bs"
+	"council-templates/council-supplemental-report-template.bs"
 )
 
 # files or directories to be copied as is into the output.

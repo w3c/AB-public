@@ -13,3 +13,7 @@ The source of the Vision and Principles work is at [https://github.com/w3c/AB-pu
 
 ## Goals And Workmodes
 * Vision Task Force goals & workmode: https://www.w3.org/wiki/AB/VisionTF
+
+## Templates for W3C Council Reports
+* Council report template: [https://w3c/github.io/AB-public/council-report-template](https://w3c/github.io/AB-public/council-report-template)
+* Council supplemental report template: [https://w3c/github.io/AB-public/ouncil-supplemental-report-template](https://w3c/github.io/AB-public/ouncil-supplemental-report-template)
