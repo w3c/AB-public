@@ -26,7 +26,6 @@ q { font-style: italic; }
 	Delete them before publishing the report.</blockquote>
 
 	<p>
-
 	<i class=todo>
 		Italicized sentences like this give instructions or comments to the writer of the report.
 		Delete them before publishing the report.
@@ -36,6 +35,8 @@ q { font-style: italic; }
 		&#91;text between square brackets is meant to stay in the report,
 		but needs adjustments before publishing.]
 	</span>
+
+	<p class=todo><i>The source of this document is available in <a href="https://speced.github.io/bikeshed/">Bikeshed</a> format at <a href="https://github.com/w3c/AB-public/tree/main/council-templates">https://github.com/w3c/AB-public/tree/main/council-templates</a>.</i>
 
 <h2 id="intro">
 Introduction</h2>
