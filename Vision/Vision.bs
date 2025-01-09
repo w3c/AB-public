@@ -162,6 +162,11 @@ Markup Shorthands: markdown yes
 		**Open Participation**: We welcome individuals and organizations of all sizes
 		(from single-person companies to multi-nationals),
 		and take feedback from the general public.
+	<li id=transparency>
+		**Transparency**: We document the reasoning behind our decisions. 
+		We document the decision-making process in order to support better consensus, 
+		encourage open participation,
+		and ensure strong trust in our decisions.
 	<li id=interop>
 		**Interoperability**: We verify the fitness of our specifications
 		through open test suites and actual implementation experience,
