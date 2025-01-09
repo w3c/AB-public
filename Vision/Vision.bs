@@ -51,7 +51,7 @@ Markup Shorthands: markdown yes
 	It has evolved rapidly into a fundamental part of humanity,
 	sparking major social change by 
 	providing and expanding access to knowledge, education,
-	commerce and shopping, social experiences,
+	commerce and shopping, communication, social experiences,
 	civic functions, entertainment, and more.
 
 	The World Wide Web Consortium (<abbr>W3C</abbr>) was founded as an organization 
