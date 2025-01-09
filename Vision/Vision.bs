@@ -154,7 +154,7 @@ Markup Shorthands: markdown yes
 		technical soundness,
 		and architectural integrity.
 	<li id=consensus>
-		**Consensus**: We will use principled, community-wide consensus-building
+		**Consensus**: We use principled, community-wide consensus-building
 		as the basis for building standards.
 	<li id=free-impl>
 		**Free to Implement**: Our standards are rooted in a strong royalty-free patent policy
