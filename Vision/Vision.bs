@@ -143,8 +143,9 @@ Markup Shorthands: markdown yes
 		we also strive to broaden diversity and inclusion for our own participants.
 	<li id=review>
 		**Thorough Review**:
-		We ensure the technical standards of the Web use broad and 
-		consistent horizontal review to ensure fundamental attributes such as
+		We ensure the quality of the technical standards of the Web
+                through consistent use of wide and deep reviews
+                to ensure fundamental attributes such as
 		accessibility, 
 		internationalization,
 		sustainability,
