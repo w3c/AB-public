@@ -136,7 +136,7 @@ Markup Shorthands: markdown yes
 	<li id=diversity>
 		**Diversity**: 
 		In order to ensure W3C serves the needs of the entire Web community, 
-		inclusion of participants from a <a href="https://www.w3.org/policies/code-of-conduct/#dfn-diversity">diverse range</a> of identities, lived experiences, abilities, and perspectives is fundamental.
+		we will include participants from a <a href="https://www.w3.org/policies/code-of-conduct/#dfn-diversity">diverse range</a> of identities, lived experiences, abilities, and perspectives and make them feel welcome.
 	<li id=review>
 		**Thorough Review**:
 		We ensure the technical standards of the Web use broad and 
