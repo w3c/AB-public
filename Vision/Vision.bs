@@ -186,9 +186,9 @@ Markup Shorthands: markdown yes
 		minimizing single points of failure
 		and single points of control.
 	<li id=collab>
-		**Collaboration**: We are committed to establishing and improving collaborative relationships
+		**Collaboration**: We will establish and improve collaborative relationships
 		with other Internet and Web standards organizations,
-		and building and maintaining respected relationships
+		and build and maintain relationships
 		with governments and businesses for providing credible advice.
 	</ul>
 
