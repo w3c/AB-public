@@ -179,7 +179,7 @@ Markup Shorthands: markdown yes
 	<li id=incub>
 		**Incubation**: The Web will continue to expand
 		in user base, global reach, and technical breadth. 
-		We are committed to encouraging incubation in new areas, 
+		We encourage and facilitate incubation in new areas, 
 		collaborating on innovations across our community.
 	<li id=avoid-central>
 		**Avoid Centralization**: We aim to reduce centralization in Web architecture,
