@@ -152,7 +152,7 @@ Markup Shorthands: markdown yes
 		security,
 		technical soundness,
 		and architectural integrity
-		through consistent deep and wide review.
+		through deep technical analysis and consistent wide and horizontal review.
 
 	<li id=consensus>
 		**Consensus**: We use principled, community-wide consensus-building
