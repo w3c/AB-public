@@ -142,15 +142,17 @@ Markup Shorthands: markdown yes
 		and make them feel welcome.
 	<li id=review>
 		**Thorough Review**:
-		We ensure the technical standards of the Web use broad and 
-		consistent horizontal review to ensure fundamental attributes such as
+		We ensure the technical standards of the Web
+		embody fundamental attributes such as
 		accessibility, 
 		internationalization,
 		sustainability,
 		privacy,
 		security,
 		technical soundness,
-		and architectural integrity.
+		and architectural integrity
+		through deep technical analysis and consistent wide and horizontal review.
+
 	<li id=consensus>
 		**Consensus**: We use principled, community-wide consensus-building
 		as the basis for building standards.
