@@ -146,11 +146,11 @@ Markup Shorthands: markdown yes
 		embody fundamental attributes such as
 		accessibility, 
 		internationalization,
-		sustainability,
 		privacy,
 		security,
 		technical soundness,
-		and architectural integrity
+		architectural integrity,
+		and are expanding to include sustainability,
 		through deep technical analysis and consistent wide and horizontal review.
 
 	<li id=consensus>
