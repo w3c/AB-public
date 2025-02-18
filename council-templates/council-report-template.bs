@@ -176,24 +176,17 @@ Appendix A:
 Council Participation</h2>
 
 	<p>
-	Information on participation, as <a href="https://www.w3.org/policies/process/#council-decision">required</a> by Process on Councils.
+	<i class=todo>
+		Information on participation, as <a href="https://www.w3.org/policies/process/#council-decision">required</a> by Process on Councils;
+		this section needs to be filled out.
+	</i>
 
 	</p><p>
-	The following individuals were potential Council members, due to either
-	being participants in the TAG or the AB, or to being <span class=todo>[the Team delegate chosen by]</span> the W3C CEO:</p>
-
-	<ul class="pack">
-		<li><span class=todo>[…]</span>
-		<li><span class=todo>[…]</span>
-		<li><span class=todo>[…]</span>
-	</ul>
-
-	<p>
-	<span class=todo>[X, Y, and Z | None of the potential Council members]</span> <a href="https://www.w3.org/policies/process/#renounce">renounced</a> their seats on the Council;
-	<span class=todo>[X, Y, and Z | none of the potential Council members]</span> <span class=todo>[was | were]</span> <a href="https://www.w3.org/policies/process/#dismissed">dismissed</a>.
+	The Council was formed on <span class=todo>[DATE]</span> from the members of the TAG and the AB, plus <span class=todo>[the Team delegate chosen by]</span> the CEO.
+	<span class=todo>[X, Y, and Z | no-one]</span> <a href="https://www.w3.org/policies/process/#renounce">renounced</a> their seats on the Council;
+	<span class=todo>[X, Y, and Z | no-one]</span> <span class=todo>[was | were]</span> <a href="https://www.w3.org/policies/process/#dismissed">dismissed</a>.
 	Therefore, the actual membership of this council was:
 
-	<p><i class=todo>Delete the following list (and the “Therefore…” sentence right before it) if it is identical to the previous one.</i>
 	<ul class="pack">
 		<li><span class=todo>[…]</span>
 		<li><span class=todo>[…]</span>
