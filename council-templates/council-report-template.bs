@@ -180,9 +180,9 @@ Council Participation</h2>
 	being participants in the TAG or the AB, or to being <span class=todo>[the Team delegate chosen by]</span> the W3C CEO:</p>
 
 	<ul class="pack">
-		<li><span class=todo>[…]</spam>
-		<li><span class=todo>[…]</spam>
-		<li><span class=todo>[…]</spam>
+		<li><span class=todo>[…]</span>
+		<li><span class=todo>[…]</span>
+		<li><span class=todo>[…]</span>
 	</ul>
 
 	<p>
@@ -192,9 +192,9 @@ Council Participation</h2>
 
 	<p><i class=todo>Delete the following list (and the “Therefore…” sentence right before it) if it is identical to the previous one.</i>
 	<ul class="pack">
-		<li><span class=todo>[…]</spam>
-		<li><span class=todo>[…]</spam>
-		<li><span class=todo>[…]</spam>
+		<li><span class=todo>[…]</span>
+		<li><span class=todo>[…]</span>
+		<li><span class=todo>[…]</span>
 	</ul>
 
 	<p><span class=todo>[Name]</span> was appointed as chair.
@@ -203,9 +203,9 @@ Council Participation</h2>
 	Of those qualified to serve, the following participated in the final decision:
 
 	<ul class="pack">
-		<li><span class=todo>[…]</spam>
-		<li><span class=todo>[…]</spam>
-		<li><span class=todo>[…]</spam>
+		<li><span class=todo>[…]</span>
+		<li><span class=todo>[…]</span>
+		<li><span class=todo>[…]</span>
 	</ul>
 
 	<p class=todo>
