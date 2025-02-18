@@ -18,6 +18,9 @@ q { font-style: italic; }
 .pack {
 	columns: 10em;
 }
+.pack li {
+	break-inside: avoid;
+}
 </style>
 
 	<blockquote class=todo>
