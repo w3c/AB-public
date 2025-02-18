@@ -1,12 +1,13 @@
 <pre class='metadata'>
 Title: W3C Council Report on the Formal Objection<span class=todo>[s]</span> Against <span class=todo>[Identify the Decision]</span>
 shortname: council-report-on-???
-Status: FINDING
+Status: COUNCIL-REPORT
+Org: W3C
+Group: Council
 No editor: true
 No Abstract: true
 Complain About: accidental-2119 no, missing-example-ids yes
 Markup Shorthands: markdown yes, css no
-Local Boilerplate: copyright yes
 </pre>
 <pre class="metadata">
 Boilerplate: idl-index no, property-index no, status no, references no, conformance no, spec-metadata no
