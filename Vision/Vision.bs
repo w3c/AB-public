@@ -152,7 +152,6 @@ Markup Shorthands: markdown yes
 		technical soundness,
 		and architectural integrity
 		through deep technical analysis and consistent wide and horizontal review.
-
 	<li id=consensus>
 		**Consensus**: We use principled, community-wide consensus-building
 		as the basis for building standards.
