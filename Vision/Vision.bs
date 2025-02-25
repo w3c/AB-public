@@ -101,7 +101,7 @@ Markup Shorthands: markdown yes
 # Vision for W3C # {#vision-org}
 
 	W3C leads the community 
-	in defining a World Wide Web that puts users first, 
+	in defining a World Wide Web that puts people first, 
 	by developing principles-based technical standards and guidelines.
 
 	The fundamental function of W3C today is to provide an open forum
