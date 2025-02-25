@@ -134,6 +134,7 @@ Markup Shorthands: markdown yes
 		organizational sizes,
 		and more.
 		Our work will not be dominated by any person, company, or interest group.
+		Contributions are judged on their merits, not their source.
 	<li id=diversity>
 		**Diversity**: 
 		In order to ensure W3C serves the needs of the entire Web community, 
