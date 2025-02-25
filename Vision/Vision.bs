@@ -160,9 +160,9 @@ Markup Shorthands: markdown yes
 		**Free to Implement**: Our standards are rooted in a strong royalty-free patent policy
 		and open copyright licenses.
 	<li id=voluntary-impl>
-		**Voluntary to Implement**: Our standards span many diverse use-cases and industries, 
-                are thus developed to be voluntarily adopted, 
-		and success is determined by the market.
+		**Voluntary to Implement**: Our standards span many diverse use-cases and industries.
+		The success of our standards is therefore determined 
+		by the market, through voluntary adoption across a broad set of stakeholders.
 	<li id=open>
 		**Open Participation**: We welcome individuals and organizations of all sizes
 		(from single-person companies to multi-nationals),
