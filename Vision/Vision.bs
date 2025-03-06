@@ -179,7 +179,7 @@ Markup Shorthands: markdown yes
 		to enable independent interoperable implementations.
 	<li id=incub>
 		**Incubation**: The Web will continue to expand
-		in user base, global reach, and technical breadth. 
+		in user base, global reach, and technical capabilities. 
 		We encourage and facilitate careful and responsible exploration of new areas and ideas, 
 		and intentional collaboration on innovations across our community.
 	<li id=avoid-central>
