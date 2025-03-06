@@ -168,8 +168,8 @@ Markup Shorthands: markdown yes
 		(from single-person companies to multi-nationals),
 		and take feedback from the general public.
 	<li id=transparency>
-		**Transparency**: We document the reasoning behind our decisions and
-		decision-making process in order to support better consensus, 
+		**Transparency**: We document our decision-making process as well as 
+		the reasoning behind our decisions in order to support better consensus, 
 		encourage open participation,
 		and ensure strong trust in our decisions.
 	<li id=interop>
