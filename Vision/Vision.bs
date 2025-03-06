@@ -86,7 +86,7 @@ Markup Shorthands: markdown yes
 	and its impact will continue to grow in the future, 
 	as it expands reach, knowledge, education, and services even more broadly.
 	We believe the World Wide Web should be 
-	inclusive and respectful of all: 
+	inclusive and respectful of all participants: 
 	a Web that supports facts over falsehoods, 
 	people over profits, 
 	humanity over hate. 
