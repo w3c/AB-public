@@ -161,7 +161,7 @@ Markup Shorthands: markdown yes
 		and open copyright licenses.
 	<li id=voluntary-impl>
 		**Voluntary to Implement**: Our standards span many diverse use-cases and industries.
-		The success of our standards is therefore determined 
+		The success of our standards is determined 
 		by the market, through voluntary adoption across a broad set of stakeholders.
 	<li id=open>
 		**Open Participation**: We welcome individuals and organizations of all sizes
