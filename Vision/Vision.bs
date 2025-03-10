@@ -161,8 +161,8 @@ Markup Shorthands: markdown yes
 		and open copyright licenses.
 	<li id=voluntary-impl>
 		**Voluntary to Implement**: Our work spans many diverse use-cases and industries,
-		and our standards matter when implementers choose to embrace them. 
-		Rather than constraining anyone to adopt our designs, 
+		and our standards matter when implementers choose to adopt them. 
+		Rather than constraining anyone to use our designs, 
 		the success of our standards is determined 
 		by the market, through voluntary adoption across a broad set of stakeholders.
 	<li id=open>
