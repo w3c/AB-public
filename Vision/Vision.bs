@@ -162,8 +162,7 @@ Markup Shorthands: markdown yes
 	<li id=voluntary-impl>
 		**Voluntary to Implement**: Our work spans many diverse use-cases and industries,
 		and our standards matter when people readily embrace them. 
-		This is a result of our focus on consensus-building: 
-		rather than constraining anyone to implement or adopt any particular technology, 
+		Rather than constraining anyone to implement or adopt any particular technology, 
 		the success of our standards is determined 
 		by the market, through voluntary adoption across a broad set of stakeholders.
 	<li id=open>
