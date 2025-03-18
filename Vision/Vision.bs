@@ -95,7 +95,7 @@ Markup Shorthands: markdown yes
 
 	* The Web is for <a href="https://www.w3.org/TR/ethical-web-principles/#allpeople">all humanity</a>.
 	* The Web is designed for the <a href="https://www.w3.org/TR/ethical-web-principles/#noharm">good of all people.</a>.
-	* The Web must be <a href="https://www.w3.org/TR/ethical-web-principles/#privacy">safe for those who use it</a>.
+	* The Web must be <a href="https://www.w3.org/TR/ethical-web-principles/#privacy">safe to use</a>.
 	* There is <a href="https://www.w3.org/TR/ethical-web-principles/#oneweb">one interoperable world-wide Web</a>.
 
 # Vision for W3C # {#vision-org}
