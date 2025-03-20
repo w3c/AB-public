@@ -13,7 +13,7 @@ Editor: Tantek Çelik, Mozilla, w3cid 1464
 Abstract:
 	The W3C Vision articulates the values that underpin W3C’s mission, 
 	what W3C is, what it does and why that matters,
-	and and the principles by which
+	and the principles by which
 	it makes decisions.
 
 Status Text:
