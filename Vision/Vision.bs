@@ -11,10 +11,10 @@ Previous Version: https://www.w3.org/TR/2024/NOTE-w3c-vision-20241018/
 Editor: Chris Wilson, Google, w3cid 3742
 Editor: Tantek Çelik, Mozilla, w3cid 1464
 Abstract:
-	The W3C Vision articulates W3C’s mission, 
+	The W3C Vision articulates the values that underpin W3C’s mission, 
 	what W3C is, what it does and why that matters,
-	and the values and principles by which it operates
-	and makes decisions.
+	and and the principles by which
+	it makes decisions.
 
 Status Text:
 	This document was developed by the Advisory Board
@@ -29,7 +29,7 @@ Markup Shorthands: markdown yes
 # Purpose of this Document # {#purpose}
 
 	This document articulates
-	W3C’s mission, its values, and its organizational principles;
+	W3C’s organizational principles and the values that underpin <a href="https://www.w3.org/mission/">its mission</a>;
 	in other words, our vision for W3C as an organization
 	in the context of our vision for the Web itself.
 	The goal of this vision is not to predict the future,
@@ -104,7 +104,7 @@ Markup Shorthands: markdown yes
 	in defining a World Wide Web that puts people first, 
 	by developing principles-based technical standards and guidelines.
 
-	The fundamental function of W3C today is to provide an open forum
+	The fundamental function of W3C is to provide an open forum
 	where diverse voices from around the world
 	and from different organizations and industries
 	work together to evolve the web by building consensus
@@ -179,7 +179,7 @@ Markup Shorthands: markdown yes
 		through open test suites and actual implementation experience,
 		because we believe the purpose of standards is
 		to enable independent interoperable implementations.
-	<li id=incub>
+	<li id=incubation>
 		**Incubation**: The Web will continue to expand
 		in user base, global reach, and technical capabilities. 
 		We encourage and facilitate careful and responsible exploration of new areas and ideas, 
@@ -198,7 +198,7 @@ Markup Shorthands: markdown yes
 # Acknowledgements and supporting material # {#acknowledgements}
 
 	* This document is intended to be a stronger vision statement for <a href="https://www.w3.org/">W3C</a>.
-		This is currently exposed as a work item of the <a href="https://www.w3.org/2002/ab/">W3C Advisory Board</a>,
+		This document was produced as a work item of the <a href="https://www.w3.org/2002/ab/">W3C Advisory Board</a>,
 		on <a href="https://www.w3.org/wiki/AB/2025_Priorities#Vision">the AB wiki</a>.
 	* This document is the result of many people's work,
 		notably Chris Wilson, David Singer, Mike Champion, Tantek Çelik,
