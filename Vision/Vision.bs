@@ -179,7 +179,7 @@ Markup Shorthands: markdown yes
 		through open test suites and actual implementation experience,
 		because we believe the purpose of standards is
 		to enable independent interoperable implementations.
-	<li id=incub>
+	<li id=incubation>
 		**Incubation**: The Web will continue to expand
 		in user base, global reach, and technical capabilities. 
 		We encourage and facilitate careful and responsible exploration of new areas and ideas, 
