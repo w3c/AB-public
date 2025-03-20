@@ -14,7 +14,7 @@ Abstract:
 	The W3C Vision articulates the values that underpin W3C’s mission, 
 	what W3C is, what it does and why that matters,
 	and the principles by which it operates
-	it makes decisions.
+	and makes decisions.
 
 Status Text:
 	This document was developed by the Advisory Board
