@@ -229,7 +229,7 @@ View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FT
 <li> 4. Vision for W3C: <ul>
   <li>replace an instance of “users” with “people”
       (<a href="https://github.com/w3c/AB-public/issues/211">#211</a>).</li>
-  <li>remove “today“ for more timeless wording
+  <li>remove “today” for more timeless wording
       (team feedback in email re: <a href="https://github.com/w3c/AB-public/issues/163">#163</a>).</li></ul>
 <li>… there are several more substantive changes since the last published Note as a result of 
   <a href="https://github.com/w3c/AB-public/issues/195">wide review</a>, 
