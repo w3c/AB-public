@@ -217,10 +217,20 @@ View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FT
   <li>The Vision states values that underpin the Mission, and links to the Mission rather than stating it 
   (<a href="https://github.com/w3c/AB-public/issues/163">#163</a>).</li></ul>
 <li>2. Introduction: <ul>
-  <li>Added “communication” to list in first paragraph 
+  <li>add “communication” to list in first paragraph 
       (<a href="https://github.com/w3c/AB-public/issues/213">213</a>).</li>
-  <li>Replace an instance of “its users” with “all participants” 
+  <li>replace an instance of “its users” with “all participants” 
       (<a href="https://github.com/w3c/AB-public/issues/211">211</a>).</li></ul>
+<li>3. W3C’s Core Vision for the World Wide Web: <ul>
+  <li>add “Core” to heading to reduce implied scope 
+      (<a href="https://github.com/w3c/AB-public/issues/215">215</a>).</li>
+  <li>replace two instances of “users”
+      (<a href="https://github.com/w3c/AB-public/issues/211">211</a>).</li></ul>
+<li> 4. Vision for W3C: <ul>
+  <li>replace an instance of “users” with “people”
+      (<a href="https://github.com/w3c/AB-public/issues/211">211</a>).</li>
+  <li>remove “today“ for more timeless wording
+      (team feedback in email re: <a href="https://github.com/w3c/AB-public/issues/163">163</a>).</li></ul>
 <li>… there are several more substantive changes since the last published Note as a result of 
   <a href="https://github.com/w3c/AB-public/issues/195">wide review</a>, 
   and the editor is in the process of documenting those changes inline in this section accordingly.
