@@ -216,6 +216,11 @@ View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FT
 <li>Abstract and 1. Purpose of this Document: <ul>
   <li>The Vision states values that underpin the Mission, and links to the Mission rather than stating it 
   (<a href="https://github.com/w3c/AB-public/issues/163">#163</a>).</li></ul>
+<li>2. Introduction: </ul>
+  <li>Added “communication” to list in first paragraph 
+      (<a href="https://github.com/w3c/AB-public/issues/213">213</a>).</li>
+  <li>Replace an instance of “its users” with “all participants” 
+      (<a href="https://github.com/w3c/AB-public/issues/211">211</a>).</li></ul>
 <li>… there are several more substantive changes since the last published Note as a result of 
   <a href="https://github.com/w3c/AB-public/issues/195">wide review</a>, 
   and the editor is in the process of documenting those changes inline in this section accordingly.
