@@ -240,6 +240,16 @@ View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FT
       (<a href="https://github.com/w3c/AB-public/issues/169">#169</a>).</li>
   <li>Diversity: link to Code of Conduct for dimensions of diversity rather than duplicating inline
       (<a href="https://github.com/w3c/AB-public/issues/169">#169</a>).</li>
+  <li>Thorough Review: reword to describe goals achieved through wide and horizontal review 
+      and explicitly mention “deep technical analysis” 
+      (<a href="https://github.com/w3c/AB-public/issues/228">#228</a>).</li>
+  <li>Consensus: action over belief
+      (<a href="https://github.com/w3c/AB-public/issues/217">#217</a>).</li>
+  <li>Voluntary to Implement: introduced in this version 
+      (<a href="https://github.com/w3c/AB-public/issues/177">#177</a>).</li>
+  <li>Transparency: introduced in this version
+      (<a href="https://github.com/w3c/AB-public/issues/218">#218</a>).</li>
+
 </ul>
 <li>… there are several more substantive changes since the last published Note as a result of 
   <a href="https://github.com/w3c/AB-public/issues/195">wide review</a>, 
