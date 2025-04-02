@@ -226,11 +226,21 @@ View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FT
       (<a href="https://github.com/w3c/AB-public/issues/215">#215</a>).</li>
   <li>replace two instances of “users”
       (<a href="https://github.com/w3c/AB-public/issues/211">#211</a>).</li></ul>
-<li> 4. Vision for W3C: <ul>
+<li>4. Vision for W3C: <ul>
   <li>replace an instance of “users” with “people”
       (<a href="https://github.com/w3c/AB-public/issues/211">#211</a>).</li>
   <li>remove “today” for more timeless wording
       (team feedback in email re: <a href="https://github.com/w3c/AB-public/issues/163">#163</a>).</li></ul>
+<li>5. Operational Principles for W3C: <ul>
+  <li>User-first: simplify, explicitly prioritize users over others, including Members, leaving longer ordered 
+      <a href="https://www.w3.org/TR/design-principles/#priority-of-constituencies">priority of constituencies</a> 
+      to the [[DESIGN-PRINCIPLES inline|Design Principles]]
+      (<a href="https://github.com/w3c/AB-public/issues/216#issuecomment-2580809399">#216</a>).</li>
+  <li>Multi-stakeholder: include a few explicit spectrums of stakeholders 
+      (<a href="https://github.com/w3c/AB-public/issues/169">#169</a>).</li>
+  <li>Diversity: link to Code of Conduct for dimensions of diversity rather than duplicating inline
+      (<a href="https://github.com/w3c/AB-public/issues/169">#169</a>).</li>
+</ul>
 <li>… there are several more substantive changes since the last published Note as a result of 
   <a href="https://github.com/w3c/AB-public/issues/195">wide review</a>, 
   and the editor is in the process of documenting those changes inline in this section accordingly.
