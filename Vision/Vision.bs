@@ -249,7 +249,12 @@ View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FT
       (<a href="https://github.com/w3c/AB-public/issues/177">#177</a>).</li>
   <li>Transparency: introduced in this version
       (<a href="https://github.com/w3c/AB-public/issues/218">#218</a>).</li>
-
+  <li>Incubation: actions over “committed to”
+      (<a href="https://github.com/w3c/AB-public/issues/217">#217</a>), 
+      use simpler wording and reword to avoid use of term to define itself 
+      (<a href="https://github.com/w3c/AB-public/issues/219">#219</a>).</li>
+  <li>Collaboration: actions over “committed to”
+      (<a href="https://github.com/w3c/AB-public/issues/217">#217</a>).</li>
 </ul>
 <li>… there are several more substantive changes since the last published Note as a result of 
   <a href="https://github.com/w3c/AB-public/issues/195">wide review</a>, 
