@@ -210,8 +210,13 @@ Markup Shorthands: markdown yes
 		but fit into the same framework and promote many of the same goals.
 
 <h2 id="changes">Changes</h2>
-<h3 id="changes-from-2024-10-18">Changes from <a href="https://www.w3.org/TR/2024/NOTE-w3c-vision-20241018/">2024-10-18 Note</a></h2>
-View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FTR%2F2024%2FNOTE-w3c-vision-20241018%2F&doc2=https%3A%2F%2Fw3c.github.io%2FAB-public%2FVision">all differences from Second Public Group Note</a>
+<h3 id="changes-from-2024-10-18">Changes from 
+  <a href="https://www.w3.org/TR/2024/NOTE-w3c-vision-20241018/">2024-10-18 Note</a></h3> 
+<p>Summary of substantive changes, including as a result of 
+  <a href="https://github.com/w3c/AB-public/issues/195">wide review</a>, 
+  from Second Public Group Note.
+  View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FTR%2F2024%2FNOTE-w3c-vision-20241018%2F&doc2=https%3A%2F%2Fw3c.github.io%2FAB-public%2FVision"
+         >all differences from Second Public Group Note</a></p>
 <ul>
 <li>Abstract and 1. Purpose of this Document: <ul>
   <li>The Vision states values that underpin the Mission, and links to the Mission rather than stating it 
@@ -254,15 +259,11 @@ View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FT
       use simpler wording and reword to avoid use of term to define itself 
       (<a href="https://github.com/w3c/AB-public/issues/219">#219</a>).</li>
   <li>Collaboration: actions over “committed to”
-      (<a href="https://github.com/w3c/AB-public/issues/217">#217</a>).</li>
+      (<a href="https://github.com/w3c/AB-public/issues/217">#217</a>).</li></ul>
 </ul>
-<li>… there are several more substantive changes since the last published Note as a result of 
-  <a href="https://github.com/w3c/AB-public/issues/195">wide review</a>, 
-  and the editor is in the process of documenting those changes inline in this section accordingly.
-  This list item indicates changes documentation in-progress.</li>
-</ul>
-<h3 id="changes-from-2024-04-03">Changes from <a href="https://www.w3.org/TR/2024/NOTE-w3c-vision-20240403/">2024-04-03 Note</a></h2>
-View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FTR%2F2024%2FNOTE-w3c-vision-20240403%2F&doc2=https%3A%2F%2Fwww.w3.org%2FTR%2F2024%2FNOTE-w3c-vision-20241018%2F">diffs from First Public Group Note to Second</a>
+<h3 id="changes-from-2024-04-03">Changes from <a href="https://www.w3.org/TR/2024/NOTE-w3c-vision-20240403/">2024-04-03 Note</a></h3>
+<p>View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FTR%2F2024%2FNOTE-w3c-vision-20240403%2F&doc2=https%3A%2F%2Fwww.w3.org%2FTR%2F2024%2FNOTE-w3c-vision-20241018%2F"
+          >diffs from First Public Group Note to Second</a></p>
 <ul>
 <li>Status of this document: <ul>
   <li>add “and reflects the consensus of the AB at the time of publication”
