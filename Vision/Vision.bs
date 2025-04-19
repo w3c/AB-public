@@ -2,8 +2,8 @@
 Title: Vision for W3C
 Shortname: w3c-vision
 Level: none
-Status: NOTE
-Prepare for TR: true
+Status: NOTE-ED
+Prepare for TR: false
 Group: w3c/AB
 TR: https://www.w3.org/TR/w3c-vision/
 ED: https://w3c.github.io/AB-public/Vision
@@ -215,7 +215,7 @@ Markup Shorthands: markdown yes
 <p>Summary of substantive changes, including as a result of 
   <a href="https://github.com/w3c/AB-public/issues/195">wide review</a>, 
   from Second Public Group Note.
-  View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FTR%2F2024%2FNOTE-w3c-vision-20241018%2F&doc2=https%3A%2F%2Fw3c.github.io%2FAB-public%2FVision"
+  View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FTR%2F2024%2FNOTE-w3c-vision-20241018%2F&doc2=https%3A%2F%2Fwww.w3.org%2FTR%2F2025%2FNOTE-w3c-vision-20250402%2F"
          >all differences from Second Public Group Note</a></p>
 <ul>
 <li>Abstract and 1. Purpose of this Document: <ul>
