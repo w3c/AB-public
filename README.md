@@ -1,5 +1,6 @@
 # AB-public
-Advisory Board repository for materials not meant to be restricted to W3C Members
+Advisory Board repository for materials not meant to be restricted to W3C Members. 
+This [README is on GitHub](https://github.com/w3c/AB-public/blob/main/README.md).
 
 The source of the Vision and Principles work is at [https://github.com/w3c/AB-public/tree/main/Vision](https://github.com/w3c/AB-public/tree/main/Vision).
 
@@ -12,11 +13,11 @@ The source of the Vision and Principles work is at [https://github.com/w3c/AB-pu
 * Vision for W3C: [https://www.w3.org/TR/w3c-vision/](https://www.w3.org/TR/w3c-vision/)
 
 ## Goals And Workmodes
-* Vision Task Force goals & workmode: https://www.w3.org/wiki/AB/VisionTF
+* Vision Task Force goals & workmode: [https://www.w3.org/wiki/AB/VisionTF](https://www.w3.org/wiki/AB/VisionTF)
 
 ## Templates for W3C Council Reports
 * Council report template: [https://w3c.github.io/AB-public/council-report-template](https://w3c.github.io/AB-public/council-report-template)
-* Council supplemental report template: [https://w3c.github.io/AB-public/ouncil-supplemental-report-template](https://w3c.github.io/AB-public/ouncil-supplemental-report-template)
+* Council supplemental report template: [https://w3c.github.io/AB-public/council-supplemental-report-template](https://w3c.github.io/AB-public/council-supplemental-report-template)
 
 ## Social Web
 * On the #Fediverse at <a href="https://w3c.social/@ab" rel="me">`@ab@w3c.social`</a>
