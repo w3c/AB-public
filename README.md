@@ -19,4 +19,4 @@ The source of the Vision and Principles work is at [https://github.com/w3c/AB-pu
 * Council supplemental report template: [https://w3c.github.io/AB-public/ouncil-supplemental-report-template](https://w3c.github.io/AB-public/ouncil-supplemental-report-template)
 
 ## Social Web
-* On the #Fediverse at <a href="https://w3c.social/@ab" rel="me">`@ab@mastodon.social`</a>
+* On the #Fediverse at <a href="https://w3c.social/@ab" rel="me">`@ab@w3c.social`</a>
