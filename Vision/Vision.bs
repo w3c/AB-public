@@ -7,7 +7,7 @@ Prepare for TR: true
 Group: w3c/AB
 TR: https://www.w3.org/TR/w3c-vision/
 ED: https://w3c.github.io/AB-public/Vision
-Previous Version: https://www.w3.org/TR/2024/NOTE-w3c-vision-20241018/
+Previous Version: https://www.w3.org/TR/2025/NOTE-w3c-vision-20250402/
 Editor: Chris Wilson, Google, w3cid 3742
 Editor: Tantek Çelik, Mozilla, w3cid 1464
 Abstract:
@@ -210,13 +210,22 @@ Markup Shorthands: markdown yes
 		but fit into the same framework and promote many of the same goals.
 
 <h2 id="changes">Changes</h2>
+<h3 id="changes-from-2025-04-02">Changes from 
+  <a href="https://www.w3.org/TR/2025/NOTE-w3c-vision-20250402/">2025-04-02 Note</a></h3>
+<p>Summary of changes from Group Note sent to Advisory Committee review. 
+  View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FTR%2F2025%2FNOTE-w3c-vision-20250402%2F&doc2=https%3A%2F%2Fwww.w3.org%2FTR%2Fw3c-vision%2F"
+         >all differences from Third Public Group Note to W3C Statement</a></p>
+<ul>
+<li>Class 1 editorial markup changes for a few outbound links
+    (<a href="https://github.com/w3c/AB-public/issues/271">#271</a>).</li>
+</ul>
 <h3 id="changes-from-2024-10-18">Changes from 
   <a href="https://www.w3.org/TR/2024/NOTE-w3c-vision-20241018/">2024-10-18 Note</a></h3> 
 <p>Summary of substantive changes, including as a result of 
   <a href="https://github.com/w3c/AB-public/issues/195">wide review</a>, 
   from Second Public Group Note.
   View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FTR%2F2024%2FNOTE-w3c-vision-20241018%2F&doc2=https%3A%2F%2Fwww.w3.org%2FTR%2F2025%2FNOTE-w3c-vision-20250402%2F"
-         >all differences from Second Public Group Note</a></p>
+         >all differences from Second Public Group Note to Third</a></p>
 <ul>
 <li>Abstract and 1. Purpose of this Document: <ul>
   <li>The Vision states values that underpin the Mission, and links to the Mission rather than stating it 
