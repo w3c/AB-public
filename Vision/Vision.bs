@@ -2,7 +2,7 @@
 Title: Vision for W3C
 Shortname: w3c-vision
 Level: none
-Status: STATEMENT
+Status: STMT
 Prepare for TR: true
 Group: w3c/AB
 TR: https://www.w3.org/TR/w3c-vision/
@@ -213,7 +213,7 @@ Markup Shorthands: markdown yes
 <h3 id="changes-from-2025-04-02">Changes from 
   <a href="https://www.w3.org/TR/2025/NOTE-w3c-vision-20250402/">2025-04-02 Note</a></h3>
 <p>Summary of changes from Group Note sent to Advisory Committee review. 
-  View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FTR%2F2025%2FNOTE-w3c-vision-20250402%2F&doc2=https%3A%2F%2Fwww.w3.org%2FTR%2Fw3c-vision%2F"
+  View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FTR%2F2025%2FNOTE-w3c-vision-20250402%2F&doc2=https%3A%2F%2Fw3c.github.io%2FAB-public%2FVision"
          >all differences from Third Public Group Note to W3C Statement</a></p>
 <ul>
 <li>Class 1 editorial markup changes for a few outbound links
