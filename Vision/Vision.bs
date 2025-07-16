@@ -2,7 +2,7 @@
 Title: Vision for W3C
 Shortname: w3c-vision
 Level: none
-Status: STMT
+Status: STATEMENT
 Prepare for TR: true
 Group: w3c/AB
 TR: https://www.w3.org/TR/w3c-vision/
