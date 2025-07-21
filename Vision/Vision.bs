@@ -31,7 +31,7 @@ Markup Shorthands: markdown yes
 	This document articulates
 	W3C’s organizational principles and the values that underpin <a href="https://www.w3.org/mission/">its mission</a>;
 	in other words, our vision for W3C as an organization
-	in the context of our vision for the Web itself.
+	in the context of our vision for the web itself.
 	The goal of this vision is not to predict the future,
 	but to define shared principles to guide our decisions.
 
@@ -56,10 +56,10 @@ Markup Shorthands: markdown yes
 
 	The World Wide Web Consortium (<abbr>W3C</abbr>) was founded as an organization 
 	to provide a consistent architecture 
-	across the rapid pace of progress in the Web, 
+	across the rapid pace of progress in the web, 
 	and to build a common community to support its development. 
 
-	The Web's amazing success
+	The web's amazing success
 	has also led to many unintended and undesirable consequences
 	that harm society:
 	openness and anonymity have given rise to scams, phishing, and fraud;
@@ -80,23 +80,23 @@ Markup Shorthands: markdown yes
 	to address the actual impact of our work.
 	W3C’s Technical Architecture Group's work 
 	to clearly define [[ETHICAL-WEB-PRINCIPLES index|Ethical Web Principles]] is a strong basis 
-	to improve the ethical integrity of the Web. 
+	to improve the ethical integrity of the web. 
 
-	The Web has had a tremendous impact on the world, 
+	The web has had a tremendous impact on the world, 
 	and its impact will continue to grow in the future, 
 	as it expands reach, knowledge, education, and services even more broadly.
 	We believe the World Wide Web should be 
 	inclusive and respectful of all participants: 
-	a Web that supports facts over falsehoods, 
+	a web that supports facts over falsehoods, 
 	people over profits, 
 	humanity over hate. 
 
 # W3C's Core Vision for the World Wide Web # {#vision-web}
 
-	* The Web is for <a href="https://www.w3.org/TR/ethical-web-principles/#allpeople" target="ewp">all humanity</a>.
-	* The Web is designed for the <a href="https://www.w3.org/TR/ethical-web-principles/#noharm" target="ewp">good of all people</a>.
-	* The Web must be <a href="https://www.w3.org/TR/ethical-web-principles/#privacy" target="ewp">safe to use</a>.
-	* There is <a href="https://www.w3.org/TR/ethical-web-principles/#oneweb" target="ewp">one interoperable world-wide Web</a>.
+	* The web is for <a href="https://www.w3.org/TR/ethical-web-principles/#allpeople" target="ewp">all humanity</a>.
+	* The web is designed for the <a href="https://www.w3.org/TR/ethical-web-principles/#noharm" target="ewp">good of all people</a>.
+	* The web must be <a href="https://www.w3.org/TR/ethical-web-principles/#privacy" target="ewp">safe to use</a>.
+	* There is <a href="https://www.w3.org/TR/ethical-web-principles/#oneweb" target="ewp">one interoperable world-wide web</a>.
 
 # Vision for W3C # {#vision-org}
 
@@ -108,14 +108,14 @@ Markup Shorthands: markdown yes
 	where diverse voices from around the world
 	and from different organizations and industries
 	work together to evolve the web by building consensus
-	on voluntary global standards for Web technologies.
+	on voluntary global standards for web technologies.
 
-	W3C embeds its core values and principles in the Web's architecture.
+	W3C embeds its core values and principles in the web's architecture.
 	To build a better future, W3C must rise even further 
-	to the challenge of improving the Web’s fundamental integrity, 
-	while continuing to expand the Web’s scope and reach. 
+	to the challenge of improving the web’s fundamental integrity, 
+	while continuing to expand the web’s scope and reach. 
 	As the Ethical Web Principles state: 
-	“The Web should empower an equitable, informed, and interconnected society.”
+	“The web should empower an equitable, informed, and interconnected society.”
 
 # Operational Principles for W3C # {#op-principles}
 
@@ -127,7 +127,7 @@ Markup Shorthands: markdown yes
 		including over those of W3C Members.
 	<li id=multi-stakeholder>
 		**Multi-stakeholder**: We intentionally involve stakeholders from end to end
-		in building the Web: developers, content creators, and end users.
+		in building the web: developers, content creators, and end users.
 		We include stakeholders across different
 		geographical locations,
 		industries,
@@ -137,13 +137,13 @@ Markup Shorthands: markdown yes
 		Contributions are judged on their merits, not their source.
 	<li id=diversity>
 		**Diversity**: 
-		In order to ensure W3C serves the needs of the entire Web community, 
+		In order to ensure W3C serves the needs of the entire web community, 
 		we will include participants from a <a href="https://www.w3.org/policies/code-of-conduct/#dfn-diversity">diverse range</a> of 
 		identities, lived experiences, abilities, and perspectives 
 		and make them feel welcome.
 	<li id=review>
 		**Thorough Review**:
-		We ensure the technical standards of the Web
+		We ensure the technical standards of the web
 		embody fundamental attributes such as
 		accessibility, 
 		internationalization,
@@ -180,17 +180,17 @@ Markup Shorthands: markdown yes
 		because we believe the purpose of standards is
 		to enable independent interoperable implementations.
 	<li id=incubation>
-		**Incubation**: The Web will continue to expand
+		**Incubation**: The web will continue to expand
 		in user base, global reach, and technical capabilities. 
 		We encourage and facilitate careful and responsible exploration of new areas and ideas, 
 		and intentional collaboration on innovations across our community.
 	<li id=avoid-central>
-		**Avoid Centralization**: We aim to reduce centralization in Web architecture,
+		**Avoid Centralization**: We aim to reduce centralization in web architecture,
 		minimizing single points of failure
 		and single points of control.
 	<li id=collab>
 		**Collaboration**: We will establish and improve collaborative relationships
-		with other Internet and Web standards organizations,
+		with other Internet and web standards organizations,
 		and build and maintain relationships
 		with governments and businesses for providing credible advice.
 	</ul>
@@ -290,7 +290,7 @@ Markup Shorthands: markdown yes
 <li>4. Vision for W3C: <ul>
   <li>first sentence: add “principles-based” to connect to latter Ethical Web Principles (<abbr>EWP</abbr>) reference, de-dupe phrase from EWP expanded later in section
       (<a href="https://github.com/w3c/AB-public/pull/184">#184</a>)</li>
-  <li>third paragraph: Move “… core values and principles in the Web’s architecture.” to start of paragraph, punctuation, use exact quote from EWP
+  <li>third paragraph: Move “… core values and principles in the web’s architecture.” to start of paragraph, punctuation, use exact quote from EWP
       (<a href="https://github.com/w3c/AB-public/pull/178">#178</a>, 
        <a href="https://github.com/w3c/AB-public/pull/184">#184</a>)</li></ul>
 <li>5. Operational Principles for W3C: <ul>
