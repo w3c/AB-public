@@ -202,8 +202,14 @@ Markup Shorthands: markdown yes
 		on <a href="https://www.w3.org/wiki/AB/2025_Priorities#Vision">the AB wiki</a>.
 	* This document is the result of many people's work,
 		notably Chris Wilson, David Singer, Mike Champion, Tantek Çelik,
-		Tzviya Siegman, Avneesh Singh, and the rest of the Advisory Board
-		and Vision Task Force members.
+		Tzviya Siegman, Avneesh Singh, Elika Etemad, Ding Wei, Robin Berjon,
+		Konstantinos Kotis, Tatsuya Igarashi, Dominique Hazael-Massieux, 
+		Nigel Megitt, Charles McCathieNevile, Mark Nottingham, 
+		Leonie Watson, Florian Rivoal, Tzviya Siegman, Daniel Appelquist,
+		Wendy Reid, Manu Sporny, Jeffrey Yasskin, Jennifer Strickland, 
+		Sangwhan Moon, Alan Stearns, Martin Thomson, Sarven Capadisli, 
+		Mallory Knodel, Max Gendler, Coralie Mercier, Amy van der Hiel 
+		and the rest of the Advisory Board and Vision Task Force members.
 	* This document builds on the basis of the Technical Architecture Group's
 		excellent [[ETHICAL-WEB-PRINCIPLES inline|Ethical Web Principles]].
 		It is not intended to supplant that work nor redefine it,
