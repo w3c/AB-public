@@ -212,6 +212,7 @@ Markup Shorthands: markdown yes
 		the additional members of the AB who supported and or contributed to the Vision AB Priority Project over the years, 
                 members then staff, each in alphabetical order: 
 		Avneesh Singh, 
+		Charles McCathieNevile, 
 		Ding Wei, 
 		Elena Lape, 
 		Elika Etemad, 
@@ -230,7 +231,6 @@ Markup Shorthands: markdown yes
 		Ralph Swick (staff contact); 
 		in addition the following individuals whose specific feedback also helped improve this document, in alphabetical order: 
 		Alan Stearns, 
-		Charles McCathieNevile, 
 		Chris Needham, 
 		Coralie Mercier, 
 		Daniel Appelquist, 
