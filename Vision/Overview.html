@@ -1,0 +1,885 @@
+<!doctype html><html lang="en">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+  <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
+  <title>Vision for W3C</title>
+  <meta content="STATEMENT" name="w3c-status">
+  <meta content="Bikeshed version 3f621ba99, updated Mon Jul 28 15:38:36 2025 -0700" name="generator">
+  <link href="https://www.w3.org/TR/w3c-vision/" rel="canonical">
+  <meta content="dark light" name="color-scheme">
+<style>/* Boilerplate: style-autolinks */
+.css.css, .property.property, .descriptor.descriptor {
+    color: var(--a-normal-text);
+    font-size: inherit;
+    font-family: inherit;
+}
+.css::before, .property::before, .descriptor::before {
+    content: "‘";
+}
+.css::after, .property::after, .descriptor::after {
+    content: "’";
+}
+.property, .descriptor {
+    /* Don't wrap property and descriptor names */
+    white-space: nowrap;
+}
+.type { /* CSS value <type> */
+    font-style: italic;
+}
+pre .property::before, pre .property::after {
+    content: "";
+}
+[data-link-type="property"]::before,
+[data-link-type="propdesc"]::before,
+[data-link-type="descriptor"]::before,
+[data-link-type="value"]::before,
+[data-link-type="function"]::before,
+[data-link-type="at-rule"]::before,
+[data-link-type="selector"]::before,
+[data-link-type="maybe"]::before {
+    content: "‘";
+}
+[data-link-type="property"]::after,
+[data-link-type="propdesc"]::after,
+[data-link-type="descriptor"]::after,
+[data-link-type="value"]::after,
+[data-link-type="function"]::after,
+[data-link-type="at-rule"]::after,
+[data-link-type="selector"]::after,
+[data-link-type="maybe"]::after {
+    content: "’";
+}
+
+[data-link-type].production::before,
+[data-link-type].production::after,
+.prod [data-link-type]::before,
+.prod [data-link-type]::after {
+    content: "";
+}
+
+[data-link-type=element],
+[data-link-type=element-attr] {
+    font-family: Menlo, Consolas, "DejaVu Sans Mono", monospace;
+    font-size: .9em;
+}
+[data-link-type=element]::before { content: "<" }
+[data-link-type=element]::after  { content: ">" }
+
+[data-link-type=biblio] {
+    white-space: pre;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --selflink-text: black;
+        --selflink-bg: silver;
+        --selflink-hover-text: white;
+    }
+}
+</style>
+<style>/* Boilerplate: style-colors */
+/* Any --*-text not paired with a --*-bg is assumed to have a transparent bg */
+:root {
+    color-scheme: light dark;
+
+    --text: black;
+    --bg: white;
+
+    --unofficial-watermark: url(https://www.w3.org/StyleSheets/TR/2016/logos/UD-watermark);
+
+    --logo-bg: #1a5e9a;
+    --logo-active-bg: #c00;
+    --logo-text: white;
+
+    --tocnav-normal-text: #707070;
+    --tocnav-normal-bg: var(--bg);
+    --tocnav-hover-text: var(--tocnav-normal-text);
+    --tocnav-hover-bg: #f8f8f8;
+    --tocnav-active-text: #c00;
+    --tocnav-active-bg: var(--tocnav-normal-bg);
+
+    --tocsidebar-text: var(--text);
+    --tocsidebar-bg: #f7f8f9;
+    --tocsidebar-shadow: rgba(0,0,0,.1);
+    --tocsidebar-heading-text: hsla(203,20%,40%,.7);
+
+    --toclink-text: var(--text);
+    --toclink-underline: #3980b5;
+    --toclink-visited-text: var(--toclink-text);
+    --toclink-visited-underline: #054572;
+
+    --heading-text: #005a9c;
+
+    --hr-text: var(--text);
+
+    --algo-border: #def;
+
+    --del-text: red;
+    --del-bg: transparent;
+    --ins-text: #080;
+    --ins-bg: transparent;
+
+    --a-normal-text: #034575;
+    --a-normal-underline: #bbb;
+    --a-visited-text: var(--a-normal-text);
+    --a-visited-underline: #707070;
+    --a-hover-bg: rgba(75%, 75%, 75%, .25);
+    --a-active-text: #c00;
+    --a-active-underline: #c00;
+
+    --blockquote-border: silver;
+    --blockquote-bg: transparent;
+    --blockquote-text: currentcolor;
+
+    --issue-border: #e05252;
+    --issue-bg: #fbe9e9;
+    --issue-text: var(--text);
+    --issueheading-text: #831616;
+
+    --example-border: #e0cb52;
+    --example-bg: #fcfaee;
+    --example-text: var(--text);
+    --exampleheading-text: #574b0f;
+
+    --note-border: #52e052;
+    --note-bg: #e9fbe9;
+    --note-text: var(--text);
+    --noteheading-text: hsl(120, 70%, 30%);
+    --notesummary-underline: silver;
+
+    --assertion-border: #aaa;
+    --assertion-bg: #eee;
+    --assertion-text: black;
+
+    --advisement-border: orange;
+    --advisement-bg: #fec;
+    --advisement-text: var(--text);
+    --advisementheading-text: #b35f00;
+
+    --warning-border: red;
+    --warning-bg: hsla(40,100%,50%,0.95);
+    --warning-text: var(--text);
+
+    --amendment-border: #330099;
+    --amendment-bg: #F5F0FF;
+    --amendment-text: var(--text);
+    --amendmentheading-text: #220066;
+
+    --def-border: #8ccbf2;
+    --def-bg: #def;
+    --def-text: var(--text);
+    --defrow-border: #bbd7e9;
+
+    --datacell-border: silver;
+
+    --indexinfo-text: #707070;
+
+    --indextable-hover-text: black;
+    --indextable-hover-bg: #f7f8f9;
+
+    --outdatedspec-bg: rgba(0, 0, 0, .5);
+    --outdatedspec-text: black;
+    --outdated-bg: maroon;
+    --outdated-text: white;
+    --outdated-shadow: red;
+
+    --editedrec-bg: darkorange;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --text: #ddd;
+        --bg: black;
+
+        --unofficial-watermark: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400'%3E%3Cg fill='%23100808' transform='translate(200 200) rotate(-45) translate(-200 -200)' stroke='%23100808' stroke-width='3'%3E%3Ctext x='50%25' y='220' style='font: bold 70px sans-serif; text-anchor: middle; letter-spacing: 6px;'%3EUNOFFICIAL%3C/text%3E%3Ctext x='50%25' y='305' style='font: bold 70px sans-serif; text-anchor: middle; letter-spacing: 6px;'%3EDRAFT%3C/text%3E%3C/g%3E%3C/svg%3E");
+
+        --logo-bg: #1a5e9a;
+        --logo-active-bg: #c00;
+        --logo-text: white;
+
+        --tocnav-normal-text: #999;
+        --tocnav-normal-bg: var(--bg);
+        --tocnav-hover-text: var(--tocnav-normal-text);
+        --tocnav-hover-bg: #080808;
+        --tocnav-active-text: #f44;
+        --tocnav-active-bg: var(--tocnav-normal-bg);
+
+        --tocsidebar-text: var(--text);
+        --tocsidebar-bg: #080808;
+        --tocsidebar-shadow: rgba(255,255,255,.1);
+        --tocsidebar-heading-text: hsla(203,20%,40%,.7);
+
+        --toclink-text: var(--text);
+        --toclink-underline: #6af;
+        --toclink-visited-text: var(--toclink-text);
+        --toclink-visited-underline: #054572;
+
+        --heading-text: #8af;
+
+        --hr-text: var(--text);
+
+        --algo-border: #456;
+
+        --del-text: #f44;
+        --del-bg: transparent;
+        --ins-text: #4a4;
+        --ins-bg: transparent;
+
+        --a-normal-text: #6af;
+        --a-normal-underline: #555;
+        --a-visited-text: var(--a-normal-text);
+        --a-visited-underline: var(--a-normal-underline);
+        --a-hover-bg: rgba(25%, 25%, 25%, .2);
+        --a-active-text: #f44;
+        --a-active-underline: var(--a-active-text);
+
+        --borderedblock-bg: rgba(255, 255, 255, .05);
+
+        --blockquote-border: silver;
+        --blockquote-bg: var(--borderedblock-bg);
+        --blockquote-text: currentcolor;
+
+        --issue-border: #e05252;
+        --issue-bg: var(--borderedblock-bg);
+        --issue-text: var(--text);
+        --issueheading-text: hsl(0deg, 70%, 70%);
+
+        --example-border: hsl(50deg, 90%, 60%);
+        --example-bg: var(--borderedblock-bg);
+        --example-text: var(--text);
+        --exampleheading-text: hsl(50deg, 70%, 70%);
+
+        --note-border: hsl(120deg, 100%, 35%);
+        --note-bg: var(--borderedblock-bg);
+        --note-text: var(--text);
+        --noteheading-text: hsl(120, 70%, 70%);
+        --notesummary-underline: silver;
+
+        --assertion-border: #444;
+        --assertion-bg: var(--borderedblock-bg);
+        --assertion-text: var(--text);
+
+        --advisement-border: orange;
+        --advisement-bg: #222218;
+        --advisement-text: var(--text);
+        --advisementheading-text: #f84;
+
+        --warning-border: red;
+        --warning-bg: hsla(40,100%,20%,0.95);
+        --warning-text: var(--text);
+
+        --amendment-border: #330099;
+        --amendment-bg: #080010;
+        --amendment-text: var(--text);
+        --amendmentheading-text: #cc00ff;
+
+        --def-border: #8ccbf2;
+        --def-bg: #080818;
+        --def-text: var(--text);
+        --defrow-border: #136;
+
+        --datacell-border: silver;
+
+        --indexinfo-text: #aaa;
+
+        --indextable-hover-text: var(--text);
+        --indextable-hover-bg: #181818;
+
+        --outdatedspec-bg: rgba(255, 255, 255, .5);
+        --outdatedspec-text: black;
+        --outdated-bg: maroon;
+        --outdated-text: white;
+        --outdated-shadow: red;
+
+        --editedrec-bg: darkorange;
+    }
+    /* In case a transparent-bg image doesn't expect to be on a dark bg,
+       which is quite common in practice... */
+    img { background: white; }
+}
+</style>
+<style>/* Boilerplate: style-counters */
+body {
+    counter-reset: example figure issue;
+}
+.issue {
+    counter-increment: issue;
+}
+.issue:not(.no-marker)::before {
+    content: "Issue " counter(issue);
+}
+
+.example {
+    counter-increment: example;
+}
+.example:not(.no-marker)::before {
+    content: "Example " counter(example);
+}
+.invalid.example:not(.no-marker)::before,
+.illegal.example:not(.no-marker)::before {
+    content: "Invalid Example" counter(example);
+}
+
+figcaption {
+    counter-increment: figure;
+}
+figcaption:not(.no-marker)::before {
+    content: "Figure " counter(figure) " ";
+}
+</style>
+<style>/* Boilerplate: style-issues */
+a[href].issue-return {
+    float: right;
+    float: inline-end;
+    color: var(--issueheading-text);
+    font-weight: bold;
+    text-decoration: none;
+}
+</style>
+<style>/* Boilerplate: style-md-lists */
+/* This is a weird hack for me not yet following the commonmark spec
+   regarding paragraph and lists. */
+[data-md] > :first-child {
+    margin-top: 0;
+}
+[data-md] > :last-child {
+    margin-bottom: 0;
+}
+</style>
+<style>/* Boilerplate: style-selflinks */
+:root {
+    --selflink-text: white;
+    --selflink-bg: gray;
+    --selflink-hover-text: black;
+}
+.heading, .issue, .note, .example, li, dt {
+    position: relative;
+}
+a.self-link {
+    position: absolute;
+    top: 0;
+    left: calc(-1 * (3.5rem - 26px));
+    width: calc(3.5rem - 26px);
+    height: 2em;
+    text-align: center;
+    border: none;
+    transition: opacity .2s;
+    opacity: .5;
+}
+a.self-link:hover {
+    opacity: 1;
+}
+.heading > a.self-link {
+    font-size: 83%;
+}
+.example > a.self-link,
+.note > a.self-link,
+.issue > a.self-link {
+    /* These blocks are overflow:auto, so positioning outside
+       doesn't work. */
+    left: auto;
+    right: 0;
+}
+li > a.self-link {
+    left: calc(-1 * (3.5rem - 26px) - 2em);
+}
+dfn > a.self-link {
+    top: auto;
+    left: auto;
+    opacity: 0;
+    width: 1.5em;
+    height: 1.5em;
+    background: var(--selflink-bg);
+    color: var(--selflink-text);
+    font-style: normal;
+    transition: opacity .2s, background-color .2s, color .2s;
+}
+dfn:hover > a.self-link {
+    opacity: 1;
+}
+dfn > a.self-link:hover {
+    color: var(--selflink-hover-text);
+}
+
+a.self-link::before            { content: "¶"; }
+.heading > a.self-link::before { content: "§"; }
+dfn > a.self-link::before      { content: "#"; }
+</style>
+  <link href="https://www.w3.org/StyleSheets/TR/2021/W3C-STMT" rel="stylesheet">
+  <link href="https://www.w3.org/StyleSheets/TR/2021/dark.css" media="(prefers-color-scheme: dark)" rel="stylesheet" type="text/css">
+ <body class="h-entry">
+  <div class="head">
+   <p data-fill-with="logo"><a class="logo" href="https://www.w3.org/">
+    <img alt="W3C" height="48" src="https://www.w3.org/StyleSheets/TR/2021/logos/W3C" width="72">
+</a>
+</p>
+   <h1 class="p-name no-ref" id="title">Vision for W3C</h1>
+   <p id="w3c-state"><a href="https://www.w3.org/standards/types/#STMT">W3C Statement</a>,
+    <time class="dt-updated" datetime="2025-07-28">28 July 2025</time></p>
+   <details open>
+    <summary>More details about this document</summary>
+    <div data-fill-with="spec-metadata">
+     <dl>
+      <dt>This version:
+      <dd><a class="u-url" href="https://www.w3.org/TR/2025/STATEMENT-w3c-vision-20250728/">https://www.w3.org/TR/2025/STATEMENT-w3c-vision-20250728/</a>
+      <dt>Latest published version:
+      <dd><a href="https://www.w3.org/TR/w3c-vision/">https://www.w3.org/TR/w3c-vision/</a>
+      <dt>Editor's Draft:
+      <dd><a href="https://w3c.github.io/AB-public/Vision">https://w3c.github.io/AB-public/Vision</a>
+      <dt>Previous Versions:
+      <dd><a href="https://www.w3.org/TR/2025/NOTE-w3c-vision-20250402/" rel="prev">https://www.w3.org/TR/2025/NOTE-w3c-vision-20250402/</a>
+      <dt>History:
+      <dd><a class="u-url" href="https://www.w3.org/standards/history/w3c-vision/">https://www.w3.org/standards/history/w3c-vision/</a>
+      <dt class="editor">Editors:
+      <dd class="editor p-author h-card vcard" data-editor-id="3742"><span class="p-name fn">Chris Wilson</span> (<span class="p-org org">Google</span>)
+      <dd class="editor p-author h-card vcard" data-editor-id="1464"><span class="p-name fn">Tantek Çelik</span> (<span class="p-org org">Mozilla</span>)
+     </dl>
+    </div>
+   </details>
+   <div data-fill-with="warning"></div>
+   <p class="copyright" data-fill-with="copyright"><a href="https://www.w3.org/policies/#copyright">Copyright</a> © 2025 <a href="https://www.w3.org/">World Wide Web Consortium</a>. <abbr title="World Wide Web Consortium">W3C</abbr><sup>®</sup> <a href="https://www.w3.org/policies/#Legal_Disclaimer">liability</a>, <a href="https://www.w3.org/policies/#W3C_Trademarks">trademark</a> and <a href="https://www.w3.org/copyright/software-license/" rel="license" title="W3C Software and Document License">permissive document license</a> rules apply.
+</p>
+   <hr title="Separator for header">
+  </div>
+  <div class="p-summary" data-fill-with="abstract">
+   <h2 class="no-num no-toc no-ref heading settled" id="abstract"><span class="content">Abstract</span></h2>
+   <p>The W3C Vision articulates the values that underpin W3C’s mission,
+what W3C is, what it does and why that matters,
+and the principles by which it operates
+and makes decisions.</p>
+  </div>
+  <h2 class="no-num no-toc no-ref heading settled" id="sotd"><span class="content">Status of this document</span></h2>
+  <div data-fill-with="status">
+   <p><em>This section describes the status of this document at the time of its publication.
+	A list of current W3C publications
+	and the latest revision of this technical report
+	can be found in the <a href="https://www.w3.org/TR/">W3C standards and drafts index.</a></em>
+
+</p>
+   <p data-deliverer="7756">
+	This document was published
+	by the <a href="https://www.w3.org/groups/other/ab/">Advisory Board</a>
+	as a Statement
+	using the <a href="https://www.w3.org/policies/process/20231103/#note-track">Note track</a>.
+	A <abbr title="World Wide Web Consortium">W3C</abbr> Statement is a specification that, 
+        after extensive consensus-building, is endorsed by
+        <abbr title="World Wide Web Consortium">W3C</abbr> and its Members.
+
+</p>
+   <p>This document is governed by the
+	<a href="https://www.w3.org/policies/process/20231103/" id="w3c_process_revision">03 November 2023 W3C Process Document</a>.
+
+</p>
+   <p>The <a href="https://www.w3.org/policies/patent-policy/"><abbr title="World Wide Web Consortium">W3C</abbr> Patent Policy</a>
+	does not carry any licensing requirements or commitments on this document.
+
+
+</p>
+   <p>This document was developed by the Advisory Board
+in cooperation with its <a href="https://www.w3.org/wiki/AB/VisionTF">Vision Task Force</a>,
+and reflects the consensus of the AB at the time of publication.
+It will continue to evolve, and the AB will issue updates as often as needed.</p>
+  </div>
+  <div data-fill-with="at-risk"></div>
+  <nav data-fill-with="table-of-contents" id="toc">
+   <h2 class="no-num no-toc no-ref" id="contents">Table of Contents</h2>
+   <ol class="toc" role="directory">
+    <li><a href="#purpose"><span class="secno">1</span> <span class="content">Purpose of this Document</span></a>
+    <li><a href="#intro"><span class="secno">2</span> <span class="content">Introduction</span></a>
+    <li><a href="#vision-web"><span class="secno">3</span> <span class="content">W3C’s Core Vision for the World Wide Web</span></a>
+    <li><a href="#vision-org"><span class="secno">4</span> <span class="content">Vision for W3C</span></a>
+    <li><a href="#op-principles"><span class="secno">5</span> <span class="content">Operational Principles for W3C</span></a>
+    <li><a href="#acknowledgements"><span class="secno">6</span> <span class="content">Acknowledgements and supporting material</span></a>
+    <li>
+     <a href="#changes"><span class="secno">7</span> <span class="content">Changes</span></a>
+     <ol class="toc">
+      <li><a href="#changes-from-2025-04-02"><span class="secno">7.1</span> <span class="content">Changes from 
+  <span>2025-04-02 Note</span></span></a>
+      <li><a href="#changes-from-2024-10-18"><span class="secno">7.2</span> <span class="content">Changes from 
+  <span>2024-10-18 Note</span></span></a>
+      <li><a href="#changes-from-2024-04-03"><span class="secno">7.3</span> <span class="content">Changes from <span>2024-04-03 Note</span></span></a>
+     </ol>
+    <li>
+     <a href="#references"><span class="secno"></span> <span class="content">References</span></a>
+     <ol class="toc">
+      <li><a href="#informative"><span class="secno"></span> <span class="content">Informative References</span></a>
+     </ol>
+   </ol>
+  </nav>
+  <main>
+   <h2 class="heading settled" data-level="1" id="purpose"><span class="secno">1. </span><span class="content">Purpose of this Document</span><a class="self-link" href="#purpose"></a></h2>
+   <p>This document articulates
+	W3C’s organizational principles and the values that underpin <a href="https://www.w3.org/mission/">its mission</a>;
+	in other words, our vision for W3C as an organization
+	in the context of our vision for the Web itself.
+	The goal of this vision is not to predict the future,
+	but to define shared principles to guide our decisions.</p>
+   <p>The goals of this document are to:</p>
+   <ul>
+    <li data-md>
+     <p>Help the world understand what W3C is, what it does, and why it matters</p>
+    <li data-md>
+     <p>Communicate shared values and principles of the W3C community</p>
+    <li data-md>
+     <p>Be opinionated enough to provide guidance and a framework for making decisions,
+particularly on controversial issues</p>
+    <li data-md>
+     <p>Be timeless enough to remain relevant without needing frequent revision,
+while being open to evolving based on the needs of the community</p>
+   </ul>
+   <h2 class="heading settled" data-level="2" id="intro"><span class="secno">2. </span><span class="content">Introduction</span><a class="self-link" href="#intro"></a></h2>
+   <p>The World Wide Web was originally conceived
+	as a tool for sharing information.
+	It has evolved rapidly into a fundamental part of humanity,
+	sparking major social change by 
+	providing and expanding access to knowledge, education,
+	commerce and shopping, communication, social experiences,
+	civic functions, entertainment, and more.</p>
+   <p>The World Wide Web Consortium (<abbr>W3C</abbr>) was founded as an organization
+	to provide a consistent architecture 
+	across the rapid pace of progress in the Web, 
+	and to build a common community to support its development.</p>
+   <p>The Web’s amazing success
+	has also led to many unintended and undesirable consequences
+	that harm society:
+	openness and anonymity have given rise to scams, phishing, and fraud;
+	the ease of gathering personal information has led to business models
+	that mine and sell detailed user data,
+	without people’s awareness or consent;
+	rapid global information sharing
+	has allowed misinformation to flourish and be exploited
+	for political or commercial gain.
+	This has divided societies and incited hate.
+	We must do better.
+	We must take steps to address these consequences
+	in the standards we create.</p>
+   <p>Technology is not neutral;
+	new technologies enable new actions and new possibilities, and
+	we must take responsibility 
+	to address the actual impact of our work.
+	W3C’s Technical Architecture Group’s work 
+	to clearly define <a data-biblio-display="index" data-link-type="biblio" href="#biblio-ethical-web-principles" title="Ethical Web Principles">Ethical Web Principles</a> is a strong basis 
+	to improve the ethical integrity of the Web.</p>
+   <p>The Web has had a tremendous impact on the world,
+	and its impact will continue to grow in the future, 
+	as it expands reach, knowledge, education, and services even more broadly.
+	We believe the World Wide Web should be 
+	inclusive and respectful of all participants: 
+	a Web that supports facts over falsehoods, 
+	people over profits, 
+	humanity over hate.</p>
+   <h2 class="heading settled" data-level="3" id="vision-web"><span class="secno">3. </span><span class="content">W3C’s Core Vision for the World Wide Web</span><a class="self-link" href="#vision-web"></a></h2>
+   <ul>
+    <li data-md>
+     <p>The Web is for <a href="https://www.w3.org/TR/ethical-web-principles/#allpeople" target="ewp">all humanity</a>.</p>
+    <li data-md>
+     <p>The Web is designed for the <a href="https://www.w3.org/TR/ethical-web-principles/#noharm" target="ewp">good of all people</a>.</p>
+    <li data-md>
+     <p>The Web must be <a href="https://www.w3.org/TR/ethical-web-principles/#privacy" target="ewp">safe to use</a>.</p>
+    <li data-md>
+     <p>There is <a href="https://www.w3.org/TR/ethical-web-principles/#oneweb" target="ewp">one interoperable world-wide Web</a>.</p>
+   </ul>
+   <h2 class="heading settled" data-level="4" id="vision-org"><span class="secno">4. </span><span class="content">Vision for W3C</span><a class="self-link" href="#vision-org"></a></h2>
+   <p>W3C leads the community
+	in defining a World Wide Web that puts people first, 
+	by developing principles-based technical standards and guidelines.</p>
+   <p>The fundamental function of W3C is to provide an open forum
+	where diverse voices from around the world
+	and from different organizations and industries
+	work together to evolve the web by building consensus
+	on voluntary global standards for Web technologies.</p>
+   <p>W3C embeds its core values and principles in the Web’s architecture.
+	To build a better future, W3C must rise even further 
+	to the challenge of improving the Web’s fundamental integrity, 
+	while continuing to expand the Web’s scope and reach. 
+	As the Ethical Web Principles state: 
+	“The Web should empower an equitable, informed, and interconnected society.”</p>
+   <h2 class="heading settled" data-level="5" id="op-principles"><span class="secno">5. </span><span class="content">Operational Principles for W3C</span><a class="self-link" href="#op-principles"></a></h2>
+   <p>In order to fulfill our Vision, we will follow these operational principles:</p>
+   <ul>
+    <li id="user-first"><a class="self-link" href="#user-first"></a>
+		<strong>User-first</strong>: We prioritize the needs of users over other constituencies, 
+		including over those of W3C Members.
+	
+    <li id="multi-stakeholder"><a class="self-link" href="#multi-stakeholder"></a>
+		<strong>Multi-stakeholder</strong>: We intentionally involve stakeholders from end to end
+		in building the Web: developers, content creators, and end users.
+		We include stakeholders across different
+		geographical locations,
+		industries,
+		organizational sizes,
+		and more.
+		Our work will not be dominated by any person, company, or interest group.
+		Contributions are judged on their merits, not their source.
+	
+    <li id="diversity"><a class="self-link" href="#diversity"></a>
+		<strong>Diversity</strong>: 
+		In order to ensure W3C serves the needs of the entire Web community, 
+		we will include participants from a <a href="https://www.w3.org/policies/code-of-conduct/#dfn-diversity">diverse range</a> of 
+		identities, lived experiences, abilities, and perspectives 
+		and make them feel welcome.
+	
+    <li id="review"><a class="self-link" href="#review"></a>
+		<strong>Thorough Review</strong>:
+		We ensure the technical standards of the Web
+		embody fundamental attributes such as
+		accessibility, 
+		internationalization,
+		sustainability,
+		privacy,
+		security,
+		technical soundness,
+		and architectural integrity
+		through deep technical analysis and consistent wide and horizontal review.
+	
+    <li id="consensus"><a class="self-link" href="#consensus"></a>
+		<strong>Consensus</strong>: We use principled, community-wide consensus-building
+		as the basis for building standards.
+	
+    <li id="free-impl"><a class="self-link" href="#free-impl"></a>
+		<strong>Free to Implement</strong>: Our standards are rooted in a strong royalty-free patent policy
+		and open copyright licenses.
+	
+    <li id="voluntary-impl"><a class="self-link" href="#voluntary-impl"></a>
+		<strong>Voluntary to Implement</strong>: Our work spans many diverse use-cases and industries,
+		and our standards matter when implementers choose to adopt them. 
+		Rather than constraining anyone to use our designs, 
+		the success of our standards is determined 
+		by the market, through voluntary adoption across a broad set of stakeholders.
+	
+    <li id="open"><a class="self-link" href="#open"></a>
+		<strong>Open Participation</strong>: We welcome individuals and organizations of all sizes
+		(from single-person companies to multi-nationals),
+		and take feedback from the general public.
+	
+    <li id="transparency"><a class="self-link" href="#transparency"></a>
+		<strong>Transparency</strong>: We document our decision-making process as well as 
+		the reasoning behind our decisions in order to support better consensus, 
+		encourage open participation,
+		and ensure strong trust in our decisions.
+	
+    <li id="interop"><a class="self-link" href="#interop"></a>
+		<strong>Interoperability</strong>: We verify the fitness of our specifications
+		through open test suites and actual implementation experience,
+		because we believe the purpose of standards is
+		to enable independent interoperable implementations.
+	
+    <li id="incubation"><a class="self-link" href="#incubation"></a>
+		<strong>Incubation</strong>: The Web will continue to expand
+		in user base, global reach, and technical capabilities. 
+		We encourage and facilitate careful and responsible exploration of new areas and ideas, 
+		and intentional collaboration on innovations across our community.
+	
+    <li id="avoid-central"><a class="self-link" href="#avoid-central"></a>
+		<strong>Avoid Centralization</strong>: We aim to reduce centralization in Web architecture,
+		minimizing single points of failure
+		and single points of control.
+	
+    <li id="collab"><a class="self-link" href="#collab"></a>
+		<strong>Collaboration</strong>: We will establish and improve collaborative relationships
+		with other Internet and Web standards organizations,
+		and build and maintain relationships
+		with governments and businesses for providing credible advice.
+	
+   </ul>
+   <h2 class="heading settled" data-level="6" id="acknowledgements"><span class="secno">6. </span><span class="content">Acknowledgements and supporting material</span><a class="self-link" href="#acknowledgements"></a></h2>
+   <ul>
+    <li data-md>
+     <p>This document is intended to be a stronger vision statement for <a href="https://www.w3.org/">W3C</a>.
+This document was produced as a work item of the <a href="https://www.w3.org/2002/ab/">W3C Advisory Board</a>,
+on <a href="https://www.w3.org/wiki/AB/Vision">the AB wiki</a>.</p>
+    <li data-md>
+     <p>The editors would like to thank and recognize
+the additional key contributors who wrote large portions of the original 
+<a href="”https://github.com/WebStandardsFuture/Vision”">Web Standards Future draft for a new Vision for W3C</a> 
+which was the basis for this document: David Singer and Mike Champion;
+the Advisory Board (<abbr>AB</abbr>) Vision Task Force (<abbr>VisionTF</abbr>) chairs 
+who facilitated and drove this effort at W3C, in order: 
+Tzviya Siegman, 
+Chris Wilson, 
+Max Gendler; 
+the additional members of the AB who supported and or contributed to the Vision AB Priority Project over the years, 
+        members then staff, each in alphabetical order: 
+Avneesh Singh, 
+Charles McCathieNevile, 
+Ding Wei, 
+Elena Lape, 
+Elika Etemad, 
+Eric Siow, 
+Florian Rivoal, 
+Heejin Chung, 
+Hongru (Judy) Zhu, 
+Léonie Watson, 
+Qing An, 
+Song Xu, 
+Tantek Çelik, 
+Tatsuya Igarashi, 
+Wendy Reid, 
+Amy van der Hiel (staff contact), 
+An Qi (Angel) Li (staff), 
+Ralph Swick (staff contact); 
+in addition the following individuals whose specific feedback also helped improve this document, in alphabetical order: 
+Alan Stearns, 
+Chris Needham, 
+Coralie Mercier, 
+Daniel Appelquist, 
+Dominique Hazael-Massieux, 
+Fabien Gandon, 
+Hadley Beeman, 
+Ian Jacobs, 
+Jeffrey Yasskin, 
+Jennifer Strickland, 
+Mallory Knodel, 
+Manu Sporny, 
+Mark Nottingham, 
+Martin Thomson, 
+Morten Rand-Hendriksen, 
+Nigel Megitt, 
+Philippe Le Hegaret, 
+Robin Berjon, 
+Sangwhan Moon, 
+Sarven Capadisli, 
+Shawn Henry; 
+and the rest of the Vision Task Force members.</p>
+    <li data-md>
+     <p>This document builds on the basis of the Technical Architecture Group’s
+excellent <a data-biblio-display="inline" data-link-type="biblio" href="https://www.w3.org/TR/ethical-web-principles/">Ethical Web Principles</a>.
+It is not intended to supplant that work nor redefine it,
+but fit into the same framework and promote many of the same goals.</p>
+   </ul>
+   <h2 class="heading settled" data-level="7" id="changes"><span class="secno">7. </span><span class="content">Changes</span><a class="self-link" href="#changes"></a></h2>
+   <h3 class="heading settled" data-level="7.1" id="changes-from-2025-04-02"><span class="secno">7.1. </span><span class="content">Changes from 
+  <a href="https://www.w3.org/TR/2025/NOTE-w3c-vision-20250402/">2025-04-02 Note</a></span><a class="self-link" href="#changes-from-2025-04-02"></a></h3>
+   <p>Summary of changes from Group Note sent to Advisory Committee review. 
+  View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FTR%2F2025%2FNOTE-w3c-vision-20250402%2F&amp;doc2=https%3A%2F%2Fw3c.github.io%2FAB-public%2FVision">all differences from Third Public Group Note to W3C Statement</a></p>
+   <ul>
+    <li>Class 1 editorial markup changes for a few outbound links
+    (<a href="https://github.com/w3c/AB-public/issues/271">#271</a>).
+    <li>Editors’s update to Acknowledgements to thank and recognize additional individuals
+    (<a href="https://github.com/w3c/AB-public/pull/280">#280</a>, resolving 
+     <a href="https://github.com/w3c/AB-public/issues/270">#270</a> &amp;
+     <a href="https://github.com/w3c/AB-public/issues/277">#277</a>).
+   </ul>
+   <h3 class="heading settled" data-level="7.2" id="changes-from-2024-10-18"><span class="secno">7.2. </span><span class="content">Changes from 
+  <a href="https://www.w3.org/TR/2024/NOTE-w3c-vision-20241018/">2024-10-18 Note</a></span><a class="self-link" href="#changes-from-2024-10-18"></a></h3>
+   <p>Summary of substantive changes, including as a result of 
+  <a href="https://github.com/w3c/AB-public/issues/195">wide review</a>, 
+  from Second Public Group Note.
+  View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FTR%2F2024%2FNOTE-w3c-vision-20241018%2F&amp;doc2=https%3A%2F%2Fwww.w3.org%2FTR%2F2025%2FNOTE-w3c-vision-20250402%2F">all differences from Second Public Group Note to Third</a></p>
+   <ul>
+    <li>
+     Abstract and 1. Purpose of this Document: 
+     <ul>
+      <li>The Vision states values that underpin the Mission, and links to the Mission rather than stating it 
+  (<a href="https://github.com/w3c/AB-public/issues/163">#163</a>).
+     </ul>
+    <li>
+     2. Introduction: 
+     <ul>
+      <li>add “communication” to list in first paragraph 
+      (<a href="https://github.com/w3c/AB-public/issues/213">#213</a>).
+      <li>replace an instance of “its users” with “all participants” 
+      (<a href="https://github.com/w3c/AB-public/issues/211">#211</a>).
+     </ul>
+    <li>
+     3. W3C’s Core Vision for the World Wide Web: 
+     <ul>
+      <li>add “Core” to heading to reduce implied scope 
+      (<a href="https://github.com/w3c/AB-public/issues/215">#215</a>).
+      <li>replace two instances of “users”
+      (<a href="https://github.com/w3c/AB-public/issues/211">#211</a>).
+     </ul>
+    <li>
+     4. Vision for W3C: 
+     <ul>
+      <li>replace an instance of “users” with “people”
+      (<a href="https://github.com/w3c/AB-public/issues/211">#211</a>).
+      <li>remove “today” for more timeless wording
+      (team feedback in email re: <a href="https://github.com/w3c/AB-public/issues/163">#163</a>).
+     </ul>
+    <li>
+     5. Operational Principles for W3C: 
+     <ul>
+      <li>User-first: simplify, explicitly prioritize users over others, including Members, leaving longer ordered 
+      <a href="https://www.w3.org/TR/design-principles/#priority-of-constituencies">priority of constituencies</a> 
+      to the <a data-biblio-display="inline" data-link-type="biblio" href="https://www.w3.org/TR/design-principles/">Design Principles</a>
+      (<a href="https://github.com/w3c/AB-public/issues/216#issuecomment-2580809399">#216</a>).
+      <li>Multi-stakeholder: include a few explicit spectrums of stakeholders 
+      (<a href="https://github.com/w3c/AB-public/issues/169">#169</a>).
+      <li>Diversity: link to Code of Conduct for dimensions of diversity rather than duplicating inline
+      (<a href="https://github.com/w3c/AB-public/issues/169">#169</a>).
+      <li>Thorough Review: reword to describe goals achieved through wide and horizontal review 
+      and explicitly mention “deep technical analysis” 
+      (<a href="https://github.com/w3c/AB-public/issues/228">#228</a>).
+      <li>Consensus: action over belief
+      (<a href="https://github.com/w3c/AB-public/issues/217">#217</a>).
+      <li>Voluntary to Implement: introduced in this version 
+      (<a href="https://github.com/w3c/AB-public/issues/177">#177</a>).
+      <li>Transparency: introduced in this version
+      (<a href="https://github.com/w3c/AB-public/issues/218">#218</a>).
+      <li>Incubation: actions over “committed to”
+      (<a href="https://github.com/w3c/AB-public/issues/217">#217</a>), 
+      use simpler wording and reword to avoid use of term to define itself 
+      (<a href="https://github.com/w3c/AB-public/issues/219">#219</a>).
+      <li>Collaboration: actions over “committed to”
+      (<a href="https://github.com/w3c/AB-public/issues/217">#217</a>).
+     </ul>
+   </ul>
+   <h3 class="heading settled" data-level="7.3" id="changes-from-2024-04-03"><span class="secno">7.3. </span><span class="content">Changes from <a href="https://www.w3.org/TR/2024/NOTE-w3c-vision-20240403/">2024-04-03 Note</a></span><a class="self-link" href="#changes-from-2024-04-03"></a></h3>
+   <p>View <a href="https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fwww.w3.org%2FTR%2F2024%2FNOTE-w3c-vision-20240403%2F&amp;doc2=https%3A%2F%2Fwww.w3.org%2FTR%2F2024%2FNOTE-w3c-vision-20241018%2F">all differences from First Public Group Note to Second</a></p>
+   <ul>
+    <li>
+     Status of this document: 
+     <ul>
+      <li>add “and reflects the consensus of the AB at the time of publication”
+      (<a href="https://github.com/w3c/AB-public/pull/186">#186</a>)
+      <li>move “It will continue to evolve, and the AB will issue updates as often as needed.” to end of last paragraph to clarify intent to iterate after Statement
+      (<a href="https://github.com/w3c/AB-public/pull/174">#174</a>)
+     </ul>
+    <li>
+     1. Purpose of this Document: 
+     <ul>
+      <li>first sentence: clarify components of the Vision
+      (<a href="https://github.com/w3c/AB-public/pull/179">#179</a>)
+      <li>last two goals: move “guidance” into second to last goal, last goal add “remain relevant without needing frequent revision, while being open”, change “evolve when needed” to “evolving based on the needs of the community”. 
+      (<a href="https://github.com/w3c/AB-public/pull/181">#181</a>)
+     </ul>
+    <li>
+     2. Introduction: 
+     <ul>
+      <li>add abbr markup to parenthetical W3C 
+      (<a href="https://github.com/w3c/AB-public/pull/191">#191</a>)
+     </ul>
+    <li>
+     4. Vision for W3C: 
+     <ul>
+      <li>first sentence: add “principles-based” to connect to latter Ethical Web Principles (<abbr>EWP</abbr>) reference, de-dupe phrase from EWP expanded later in section
+      (<a href="https://github.com/w3c/AB-public/pull/184">#184</a>)
+      <li>third paragraph: Move “… core values and principles in the Web’s architecture.” to start of paragraph, punctuation, use exact quote from EWP
+      (<a href="https://github.com/w3c/AB-public/pull/178">#178</a>, 
+       <a href="https://github.com/w3c/AB-public/pull/184">#184</a>)
+     </ul>
+    <li>
+     5. Operational Principles for W3C: 
+     <ul>
+      <li>Thorough Review: add “technical soundness, and architectural integrity” to end of list
+      (<a href="https://github.com/w3c/AB-public/pull/173">#173</a>)
+     </ul>
+    <li>
+     6 Acknowledgements and supporting material: 
+     <ul>
+      <li>add “and Vision Task Force members.”
+      (<a href="https://github.com/w3c/AB-public/pull/175">#175</a>)
+     </ul>
+   </ul>
+   <p id="back-to-top" role="navigation"><a href="#title"><abbr title="Back to top">↑</abbr></a></p>
+  </main>
+  <script src="https://www.w3.org/scripts/TR/2021/fixup.js"></script>
+  <h2 class="no-num no-ref heading settled" id="references"><span class="content">References</span><a class="self-link" href="#references"></a></h2>
+  <h3 class="no-num no-ref heading settled" id="informative"><span class="content">Informative References</span><a class="self-link" href="#informative"></a></h3>
+  <dl>
+   <dt id="biblio-design-principles">[DESIGN-PRINCIPLES]
+   <dd>Martin Thomson; Jeffrey Yasskin. <a href="https://www.w3.org/TR/design-principles/"><cite>Web Platform Design Principles</cite></a>. 2 July 2025. NOTE. URL: <a href="https://www.w3.org/TR/design-principles/">https://www.w3.org/TR/design-principles/</a>
+   <dt id="biblio-ethical-web-principles">[ETHICAL-WEB-PRINCIPLES]
+   <dd>Daniel Appelquist; Hadley Beeman; Amy Guy. <a href="https://www.w3.org/TR/ethical-web-principles/"><cite>Ethical Web Principles</cite></a>. 12 December 2024. STMT. URL: <a href="https://www.w3.org/TR/ethical-web-principles/">https://www.w3.org/TR/ethical-web-principles/</a>
+  </dl>
