@@ -204,7 +204,7 @@ Markup Shorthands: markdown yes
 		notably Chris Wilson, David Singer, Mike Champion, Tantek Çelik,
 		Tzviya Siegman, Avneesh Singh, and the rest of the Advisory Board
 		and Vision Task Force members.
-	* This document builds on the basis of the Technical Architecture Group's
+	* This document builds on the basis of the <a href="https://www.w3.org/2001/tag/">W3C Technical Architecture Group's</a>
 		excellent [[ETHICAL-WEB-PRINCIPLES inline|Ethical Web Principles]].
 		It is not intended to supplant that work nor redefine it,
 		but fit into the same framework and promote many of the same goals.
