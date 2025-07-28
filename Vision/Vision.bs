@@ -225,9 +225,9 @@ Markup Shorthands: markdown yes
 		Song Xu, 
 		Tantek Çelik, 
 		Tatsuya Igarashi, 
-		Wendy Reid (co-chair), 
+		Wendy Reid, 
 		Amy van der Hiel (staff contact), 
-		An Qi (Angel) Li (staff, co-chair), 
+		An Qi (Angel) Li (staff), 
 		Ralph Swick (staff contact); 
 		in addition the following individuals whose specific feedback also helped improve this document, in alphabetical order: 
 		Alan Stearns, 
