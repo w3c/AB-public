@@ -266,6 +266,10 @@ Markup Shorthands: markdown yes
 <ul>
 <li>Class 1 editorial markup changes for a few outbound links
     (<a href="https://github.com/w3c/AB-public/issues/271">#271</a>).</li>
+<li>Editors's update to Acknowledgements to thank and recognize additional individuals
+    (<a href="https://github.com/w3c/AB-public/pull/280">#280</a>, resolving 
+     <a href="https://github.com/w3c/AB-public/issues/270">#270</a> &amp;
+     <a href="https://github.com/w3c/AB-public/issues/277">#277</a>).</li>
 </ul>
 <h3 id="changes-from-2024-10-18">Changes from 
   <a href="https://www.w3.org/TR/2024/NOTE-w3c-vision-20241018/">2024-10-18 Note</a></h3> 
