@@ -201,7 +201,7 @@ Markup Shorthands: markdown yes
 		on <a href="https://www.w3.org/wiki/AB/Vision">the AB wiki</a>.
 	* The editors would like to thank and recognize
 		the additional key contributors who wrote large portions of the original 
-		<a href=”https://github.com/WebStandardsFuture/Vision”>Web Standards Future draft for a new Vision for W3C</a> 
+		<a href="https://github.com/WebStandardsFuture/Vision">Web Standards Future draft for a new Vision for W3C</a> 
 		which was the basis for this document: David Singer and Mike Champion;
 		the Advisory Board (<abbr>AB</abbr>) Vision Task Force (<abbr>VisionTF</abbr>) chairs 
 		who facilitated and drove this effort at W3C, in order: 
