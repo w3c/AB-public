@@ -15,7 +15,7 @@ NB: This is an example agenda, intended to illustrate what GitHub agendas could 
 <tr><td> Boston (U.S.A. - Massachusetts) </td><td> Thursday, 7 August at 10:00</td></tr>
 <tr><td> London (United Kingdom - England) </td><td> Thursday, 7 August at 15:00</td></tr>
 <tr><td> Paris (France) </td><td> Thursday, 7 August at 16:00</td></tr>
-<tr><td> Beijing (China) </td><td> 8月5日星期二 22:00</td></tr>
+<tr><td> Beijing (China) </td><td> 8月7日 星期四 22:00</td></tr>
 <tr><td> Tokyo (Japan) </td><td> 8月7日(木) 23:00 JST</tr> 
 <tr><td> Corresponding UTC (GMT) </td><td> Wednesday 7 August at 14:00 UTC</td></tr>
 </table>
