@@ -1,5 +1,7 @@
 # W3C Advisory Board Call Agenda [Example]
 
+NB: This is an example agenda, intended to illustrate what GitHub agendas could look like. This is not the actual agenda for any coming AB meeting.
+
 ## 14:00 UTC; Thursday, August 7th, 2025
 
 * [example agenda point 1](https://github.com/w3c/AB-public/issues/277)
