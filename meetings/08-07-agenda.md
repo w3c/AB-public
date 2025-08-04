@@ -1,0 +1,20 @@
+# W3C Advisory Board Call Agenda [Example]
+
+## 14:00 UTC; Thursday, August 7th, 2025
+
+* [example agenda point 1](https://github.com/w3c/AB-public/issues/277)
+* [example agenda point 2](https://github.com/w3c/AB-public/issues/270)
+* example agenda point 3
+
+## Local Call Times
+
+<table>
+<tr><td> San Francisco (U.S.A. - California) <td> Thursday, 7 August at 07:00</td></tr>
+<tr><td> Boston (U.S.A. - Massachusetts) <td> Thursday, 7 August at 10:00</td></tr>
+<tr><td> London (United Kingdom - England) <td> Thursday, 7 August at 15:00</td></tr>
+<tr><td> Paris (France) <td> Thursday, 7 August at 16:00</td></tr>
+<tr><td> Beijing (China) <td> 8月5日星期二 22:00</td></tr>
+<tr><td> Tokyo (Japan) 8月7日(木) 23:00 JST<td> 
+<tr><td> Corresponding UTC (GMT) <td> Wednesday 7 August at 14:00 UTC</td></tr>
+</table>
+
