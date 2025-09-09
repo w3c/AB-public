@@ -1,1 +1,1 @@
-This is a directory for holding meeting agendas and minutes, intended for experimental use for now.
+This is a directory where the AB will be posting public summaries of its meetings..
