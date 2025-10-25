@@ -15,7 +15,7 @@ for the next step of AB Liaison program.
 
 ## Oct 21 AB-led member meeting agenda
 The AB proposed topics to be discussed including update on Age-Based Restrictions on Content Access Workshop, TPAC2025 breakout
-session promotion, and how to make the AB-led member more open to the members.
+session promotion, and how to make the AB-led member meetings more open to the members.
 
 ## AB 2026 Priorities Status review - Process Refactoring/Simplification
 Brent has sent emails to the group chairs about meeting the groups during TPAC, and some group chairs have responded. Next step is
