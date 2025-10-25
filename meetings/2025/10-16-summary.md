@@ -2,7 +2,7 @@
 
 16 October 2025
 
-Attending: Amy, Angel, Avnees, Brent, Dan, Dingwei, Elena, Emma, Hidde, Igarashi, Max, Ota, Song, Tess
+Attending: Amy, Angel, Avneesh, Brent, Dan, Dingwei, Elena, Emma, Hidde, Igarashi, Max, Ota, Song, Tess
 
 ## Info Share
 The team gave updates on their participation in the Strategic Initiatives TFs, the EU Member meeting on Oct 15, the Mentor program
