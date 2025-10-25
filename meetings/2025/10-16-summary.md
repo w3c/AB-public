@@ -18,7 +18,7 @@ The AB proposed topics to be discussed including update on Age-Based Restriction
 session promotion, and how to make the AB-led member more open to the members.
 
 ## AB 2026 Priorities Status review - Process Refactoring/Simplification
-Brent has sent emails to the group chairs about meeting the groups during TPAC, ans some group chairs have responded. Next step is
+Brent has sent emails to the group chairs about meeting the groups during TPAC, and some group chairs have responded. Next step is
 for the AB to allocate resources to cover as many groups as they can. The AB members have started to work on the groups they plan to
 visit.
 
