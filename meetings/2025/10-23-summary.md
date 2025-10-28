@@ -24,4 +24,4 @@ Brent created a spreadsheet of Groups/Rooms at TPAC. He said he thought it would
 
 # AoB
 
-The AB discussed issues to be raised at the next meeting including: [polling for the AC](https://github.com/w3c/AB-memberonly/issues/295) (member-only link); AB work mode; and the hybrid AC meeting.
+The AB discussed issues to be raised at their next meeting including: [polling for the AC](https://github.com/w3c/AB-memberonly/issues/295) (member-only link); AB work mode; and the hybrid AC meeting.
