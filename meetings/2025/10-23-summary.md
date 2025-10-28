@@ -20,7 +20,7 @@ Hidde and Elena reported on their report on a strategy for AI including consider
 
 ## Arrangements for AB Members to meet WG meetings and collect group feedback on Process Document during TPAC2025
 
-Brent created a spreadsheet of Groups/Rooms at the TPAC. He said he thought it would be great if 2 AB could go to each meeting and encouraged to sign up. He said it was important to make a concerted effort to visit every group and he intends to spend every minute he  can talking to people in a WG meeting. Dan confirmed he’s already started reaching out to groups and said the mindset should be hearing and listening to people's feedback. Igarashi also suggested to talk to groups during lunches as well. Max concurred and emphasized that hallway conversations are important and noted that leaving room for “off the minutes” comments as well. Brent confirmed that the group could use the AB meeting on the Monday of the TPAC to coordinate.
+Brent created a spreadsheet of Groups/Rooms at TPAC. He said he thought it would be great if two AB members could go to each meeting and encouraged everyone to sign up. He said it was important to make a concerted effort to visit every group and he intends to spend every minute he can talking to people in WG meetings. Dan confirmed he’s already started reaching out to groups and said the mindset should be hearing and listening to people's feedback. Igarashi also suggested talking to groups during lunches as well. Max concurred and emphasized that hallway conversations are important and noted leaving room for “off the minutes” comments as well. Brent confirmed that the group could use the AB meeting on the Monday of TPAC to coordinate.
 
 # AoB
 
