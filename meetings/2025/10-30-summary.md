@@ -6,6 +6,8 @@ Attending: amy, Angel, AvneeshSingh, Dan_Appelquist, Brent,
           DingWei, Elena, gendler, Hidde, hober, Igarashi, Ota,
           Tess, Coralie
 
+Minutes: https://www.w3.org/2025/10/30-ab-minutes.html (member-only link)
+
 ## Info Share - News from Team, Board and the larger Community
 The AB discussed the time change and what timezone to pin the meeting to. Team is very busy preparing for the TPAC; there are new members some of whom will attend the Dev meetup at the TPAC and the promotion of the hackathon led by Elena. Max noted Board members passed on their thanks for the tenor and openness of recent conversation between the AB and the Board regarding the AB-Board Liaison. Brent confirmed that he’s continuing to work on coordinating AB members to meet with Working Groups at TPAC and Dan encouraged people to note any meetings they have scheduled with Groups. Dan confirmed the AB will meet Monday morning and Friday afternoon at TPAC.
 
