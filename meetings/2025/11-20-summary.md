@@ -2,9 +2,11 @@
 
 20 November  2025
 
-attending: amy, angel, Dan_Appelquist, gendler, hdv, hober, Ota, Brent, Elena, Avneesh, DingWei
+Attending: amy, angel, Dan_Appelquist, gendler, hdv, hober, Ota, Brent, Elena, Avneesh, DingWei
 
-regrets: Emma, Igarashi
+Regrets: Emma, Igarashi
+
+Full minutes: https://www.w3.org/2025/11/20-ab-minutes.html (member-only link)
 
 ## Info Share
 Team noted the [new TAG members have been seated](https://www.w3.org/news/2025/w3c-advisory-committee-elects-technical-architecture-group/), that one of them was a TAG fellow and that the Team are seeking suggestions for appointments. The TAG also published a finding on "[Preventing Abuse of Digital Credentials](https://www.w3.org/2001/tag/doc/prevent-credential-abuse/)”.
