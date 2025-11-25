@@ -2,7 +2,9 @@
 
 14 November  2025
 
-attending: amy, Angel, AvneeshSingh, Brent, Dan_Appelquist, Dingwei, Elena, Emma, gendler, hdv, hober, Igarashi, Ota, Song
+Attending: amy, Angel, AvneeshSingh, Brent, Dan_Appelquist, Dingwei, Elena, Emma, gendler, hdv, hober, Igarashi, Ota, Song
+
+Full minutes: https://www.w3.org/2025/11/14-ab-minutes.html (member-only link)
 
 ## TPAC + Group Feedback Readout:
 The AB discussed feedback they received from their meetings with Groups during the TPAC week, including during wokring group meetings and in [a special breakout session](https://www.w3.org/events/meetings/73116de7-09aa-4396-b4c0-4f7b73895abc/). Feedback included that: there’s an appetite for W3C process to evolve to how people are doing the work; there’s a lot of respect for the Process; while there's some frustration in the time that horizontal review can take, the Members see a lot of value in how W3C does work. Some felt that the chartering process is painful or unclear or might need more time; and that delay in handling FOs is unacceptable. How standards might be made more suitable for reference in government regulations was discussed and the difficult of referencing a “living standard” in regulations. Suggestions from the Groups included: making updates to RECs easier; tooling enhancements; a less onerous path for chartering for long-lived groups; developing a summary or knowledge base; that AC rather than Team should originate charters; that there should be a lighter-weight process for IEs. Some feedback included reports of negative group dynamic and the AB encouraged the Chairs to be reminded of the Code. Groups also expressed they were glad the AB was taking on this work and the topic was suggested for a monthly member meeting.
