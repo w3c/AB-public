@@ -1,6 +1,6 @@
 # Advisory Board meeting
 
-14 November  2025
+14 November 2025
 
 Attending: amy, Angel, AvneeshSingh, Brent, Dan_Appelquist, Dingwei, Elena, Emma, gendler, hdv, hober, Igarashi, Ota, Song
 
