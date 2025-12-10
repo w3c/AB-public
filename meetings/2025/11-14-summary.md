@@ -23,5 +23,5 @@ The AB discussed a resolution made at the Breakout on "[Enabling Effective AC Pa
 ## Follow up discussion on AB-led member meeting
 The AB discussed renaming this meeting, which is a monthly meeting open to W3C member companies, organized by the AB, and how to enhance the current model for this meeting. It was discussed that an AC rep can invite others from their organization when appropriate. The agreed new name will be "Monthly Member Meeting", for now.
 
-## January AB Meeting
+## February AB Meeting
 The AB discussed options for a hybrid (virtual and in person) F2F meeting in February and tentatively agreed to meet in London the first week of February, pending confirmation of hosting plans.
