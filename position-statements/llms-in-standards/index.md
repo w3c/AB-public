@@ -35,7 +35,7 @@ New standards work often needs new names. Those names should be easy to understa
 
 In some cases, there are serious risks.
 
-First, there is possible patent infringement. LLMs may be trained on copyrighted materials. For our [royalty-free patent policy](https://www.w3.org/Consortium/Patent/), this is concerning: well-meaning contributions could infringe upon an existing patent, or create a liability.
+First, there is possible copyright infringement. As LLMs may be trained on copyrighted materials, well-meaning contributions could  create a liability.
 
 There could also be security risks. Providing Member Confidential information to LLMs could result in data leakage (we suggest particular caution with free products).
 
