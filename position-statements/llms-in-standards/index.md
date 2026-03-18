@@ -35,7 +35,7 @@ New standards work often needs new names. Those names should be easy to understa
 
 In some cases, there are serious risks.
 
-First, there is possible copyright infringement. As LLMs may be trained on copyrighted materials, well-meaning contributions could  create a liability.
+First, there is possible copyright infringement. As LLMs may be trained on copyrighted materials, even well-meaning contributions could create associated liability.
 
 There could also be security risks. Providing Member Confidential information to LLMs could result in data leakage (we suggest particular caution with free products).
 
