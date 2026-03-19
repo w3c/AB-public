@@ -54,7 +54,7 @@ Lastly, there is a climate impact. Production and usage of LLMs has a climate fo
 
 <section>
 	
-# Combining accountability with best practices
+# Combining Accountability with Best Practices
 
 Ultimately, each individual is responsible for their own output. Whether or not an LLM is used is a matter of personal choice — the work produced remains the responsibility of the person behind it.
 
