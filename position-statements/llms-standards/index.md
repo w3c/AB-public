@@ -16,15 +16,15 @@ This document summarizes the Advisory Board’s current thinking, as of 24 March
 
 So far, LLMs have shown to benefit the standards process in several ways:
 
-## Demos, tests and examples
+## Demos, Tests and Examples
 
 When paired with deep domain expertise, LLM coding assistants can help to build proof-of-concept level demos or write tests of specific web platform features. The ability to quickly generate and show a group many examples during a meeting helps verify concepts faster, reduces manual effort, and makes discussions more productive.
 
-## Interrogate, spellcheck, edit standards
+## Interrogate, Spellcheck, Edit Standards
 
 In addition to basic spellchecking, and editing, which are especially facilitative for our international community, LLMs can be used to ask questions about web standards to identify problems, gaps, and possibilities to improve.
 
-## Brainstorming names
+## Brainstorming Names
 
 New standards work often needs new names. Those names should be easy to understand while still fitting platform conventions and avoiding conflicts with existing terms. Because LLMs are trained on a very large sample of human language, they're a great tool to use when trying to come up with human friendly names for novel concepts.
 
