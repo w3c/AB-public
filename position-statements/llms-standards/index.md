@@ -12,7 +12,7 @@ This document summarizes the Advisory Board’s current thinking, as of 24 March
 
 <section>
 
-# What works
+# Where Benefits May Outweigh Risks
 
 So far, LLMs have shown to benefit the standards process in several ways:
 
@@ -32,7 +32,7 @@ New standards work often needs new names. Those names should be easy to understa
 
 <section> 
 	
-# What is too risky
+# Where Risks May Outweigh Benefits
 
 In some cases, there are serious risks.
 
