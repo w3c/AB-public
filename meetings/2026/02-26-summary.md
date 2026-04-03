@@ -4,6 +4,9 @@ What follows is a brief summary of the topics discussed in the W3C Advisory Boar
 
 attending: Daniel Appelquist, Wei Ding, Seth Dobbs, Emma Fraser, Max Gendler, Tatsuya Igarashi, Elena Lape, Theresa O'Connor, Hiroshi Ota, Avneesh Singh, Hidde de Vries, Amy van der Hiel, Brent Zundel, Song Xu
 
+Full minutes (member-only link): https://www.w3.org/2026/02/26-ab-minutes.html
+
+
 * **Info Share: Updates from the Team and Community**
 Team shared information on the update to the "no cross posting" policy. The AB asked for clarification about WGs posting to each other and Team confirmed they would confirm  Team encouraged the AB to put forward ideas for Breakouts Day on 25-26 March and shared the reminder of the time change starting in the US on 8 March (and in Europe and elsewhere 3 weeks later). Dan noted that the meeting time is tied to UTC so would change for the US but be the same for others for the next few weeks. 
 
