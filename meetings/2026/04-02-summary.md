@@ -5,6 +5,8 @@ What follows is a brief summary of the topics discussed in the W3C Advisory Boar
 
 attending: Daniel Appelquist, Hidde de Vries, Wei Ding, Max Gendler, Tatsuya Igarashi, Ian Jacobs, An Qi (Angel) Li,  Avneesh Singh, Amy van der Hiel, Brent Zundel
 
+Full minutes (member-only link): https://www.w3.org/2026/04/02-ab-minutes.html
+
 * **Info Share**
 Amy gave an update on Team including preparation for AC 2026, W3C@30 Japan, AB nominations, and the W3C AC and Consortium Rep poll. Hidde highlighted that the use of LLMs in standards position statement was noted in the W3C blog and that it got thoughtful feedback in the GH repo. 
 
