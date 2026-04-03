@@ -4,6 +4,9 @@ What follows is a brief summary of the topics discussed in the W3C Advisory Boar
 
 Attending: Daniel Appelquist, François Daoust, Hidde de Vries, Wei Ding,  Seth Dobbs, Emma Fraser,  Max Gendler,  Tatsuya Igarashi, Elena Lape, An Qi (Angel) Li,  Chris Needham, Theresa O'Connor, Hiroshi Ota, Florian Rivoal, Avneesh Singh, Amy van der Hiel, Léonie Watson, Chris Wilson
 
+Full minutes (member-only link): https://www.w3.org/2026/02/04-ab-minutes.html
+
+
 * **W3C Chapters program**
 Angel presented an update of the Chapters program, giving a history of its inception as W3C Offices (and the  funding that initially supported it); changes over time (including linking chapters with member recruitment);  when she took over in 2023; and the present state. Several AB noted they found Offices very helpful and said that there's real value in having local support/interest in different countries. Some felt this style of support could be linked to our W3C strategy. The initial idea of Chapters as a way to gather developers and the community was seen as important. The group discussed the potential of Offices/Chapters in engaging with the wider community and focusing on organizations who share alignment with us while also being cautious about who can speak in the W3C's name. The group acknowledged the need for member recruitment, whether via Chapters or not. They resolved that they see great potential in the Chapters program to benefit W3C and the global W3C community, and advise the team to integrate this program into its overall strategy.  
 
