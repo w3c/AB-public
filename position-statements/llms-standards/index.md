@@ -26,7 +26,7 @@ In addition to basic spellchecking, and editing, which are especially facilitati
 
 ## Brainstorming Names
 
-New standards work often needs new names. Those names should be easy to understand while still fitting platform conventions and avoiding conflicts with existing terms. Because LLMs are trained on a very large sample of human language, they're a great tool to use when trying to come up with human friendly names for novel concepts.
+New standards work often needs new names. Those names should be easy to understand while still fitting platform conventions and avoiding conflicts with existing terms. Because LLMs are trained on a very large sample of human language, they can be useful to use when trying to come up with human friendly names for novel concepts.
 
 </section>
 
