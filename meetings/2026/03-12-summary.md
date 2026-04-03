@@ -4,6 +4,7 @@ What follows is a brief summary of the topics discussed in the W3C Advisory Boar
 
 attending: Daniel Appelquist, Hidde de Vries, Wei Ding, Seth Dobbs, Emma Fraser, Max Gendler, Tatsuya Igarashi, Elena Lape, An Qi (Angel) Li, Theresa O'Connor, Hiroshi Ota,  Ralph Swick, Amy van der Hiel, Song Xu, Brent Zundel
 
+Full minutes (member-only link): https://www.w3.org/2026/03/12-ab-minutes.html
 
 * **Infoshare**
 Amy gave Team updates including that the Report from the IAB/W3C Workshop on Age-Based Restrictions on Content Access has been published. Dan gave updates from the Web Day Out conference noting a positive experience with the web developer community. Seth noted Team had sent a survey and draft explainer on AC and Consortium Member Reps and asked for AB feedback on an approach of reaching out to the whole membership to make sure the differences were understood. Tess offered to help.   
