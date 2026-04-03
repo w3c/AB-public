@@ -5,6 +5,7 @@ What follows is a brief summary of the topics discussed in the W3C Advisory Boar
 
 attending: Daniel Appelquist, Wei Ding, Max Gendler, Tatsuya Igarashi, Yves Lafon, Elena Lape, An Qi (Angel) Li, Theresa O'Connor, Simone Onofri, Hiroshi Ota, Avneesh Singh, Amy van der Hiel, Brent Zundel
 
+Full minutes (member-only link): https://www.w3.org/2026/03/26-ab-minutes.html
 
 * **Info Share**
 Amy gave  an update including the upcoming time change; that Team are preparing for the AC meeting; and some updates on Breakouts Day. Elena noted that the AB position statement on "Use of Large Language Models in Standards Work" has been published and there will be a blog post. This is the first AB position statement.  https://www.w3.org/TR/llms-standards/
