@@ -4,6 +4,9 @@ What follows is a brief summary of the topics discussed in the W3C Advisory Boar
 
 attending: Daniel Appelquist, Hidde de Vries, Wei Ding, Emma Fraser, Max Gendler, Tatsuya Igarashi, Elena Lape, An Qi (Angel) Li, Coralie Mercier, Theresa O'Connor, Hiroshi Ota, Avneesh Singh, Amy van der Hiel, Brent Zundel
 
+Full minutes (member-only link): https://www.w3.org/2026/02/05-ab-minutes.html
+
+
 * **Incubation of new work**
 DingWei gave a presentation about the Exploration IG including feedback from members and ideas of how to make the IG more successful. He presented the idea of an Exploration Ambassador Program to liaise with other peer organizations  (including open source) to track ideas related to the web and web technology. He suggested that programs for Exploration Ambassador Roundtables could be part of some Monthly Member meetings to allow Ambassadors to report back to the Membership. He noted that to be successful, the role of Ambassador would have to be appealing for people to take on. There were some questions about the official status of such a role and how it would be seen externally. It was noted the W3C already has Liaisons to peer organizations which are acknowledged as an official role and it's important that any new project not undermine the liaison or their credibility. It was agreed that the Ambassador role as a bridge between organizations to report back would have to be clearly communicated both to any potential Ambassador and to outside organizations. It was suggested that with existing Liaisons that there might be less need for an Ambassador and that someone who was interested might simply attend the meetings and report back. It was proposed that there could be periodic calls for people who are involved in other SDOs, including AB members, to report back to Membership. DingWei noted he will refine the proposal and bring it back to the AB.
 
