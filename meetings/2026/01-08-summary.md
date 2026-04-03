@@ -6,6 +6,8 @@ What follows is a brief summary of the topics discussed in the W3C Advisory Boar
 attending: Amy van der Hiel, An Qi (Angel) Li,  Avneesh Singh, Brent Zundel, Chunming Hu, Chris Needham, Chris Wilson, Wei Ding, Daniel Appelquist , Dominique Hazaël-Massieux, Elena Lape , Emma Fraser, Eric Siow, Florian Rivoal, Max Gendler, Hidde de Vries, Theresa O'Connor, Tatsuya Igarashi, Koichi Moriyama, Hiroshi Ota, Song Xu, Léonie Watson
 
 
+Full minutes (member-only link): https://www.w3.org/2026/01/08-ab-minutes.html
+
 * **Consortium Member Representatives vs AC-Reps · Issue #247 Discussion**  
 
 The AB and Board discussed the descriptions and distinctions between Member Associations, AC Representatives and Consortium Member Representatives in the W3C Process and Bylaws.
