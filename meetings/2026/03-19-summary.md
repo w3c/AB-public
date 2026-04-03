@@ -4,6 +4,8 @@ What follows is a brief summary of the topics discussed in the W3C Advisory Boar
 
 attending: Daniel Appelquist, Hidde de Vries, Wei Ding, Emma Fraser, Max Gendler, Tatsuya Igarashi, An Qi (Angel) Li, Theresa O'Connor, Hiroshi Ota, Avneesh Singh, Amy van der Hiel, Song Xu, Brent Zundel
 
+Full minutes (member-only link): https://www.w3.org/2026/03/19-ab-minutes.html
+
 * **Infoshare**
 Hidde gave an update on the location of the July AB meeting and Amy gave a Team update including that Ian would attend an upcoming AB to meeting give an update on part of his work on the Structural Evolution TF. Emma noted the Membership TF will ask for AB feedback on the upcoming 2026 Member survey. 
 
