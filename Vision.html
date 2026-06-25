@@ -4,9 +4,9 @@
   <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
   <title>Vision for W3C</title>
   <meta content="STATEMENT" name="w3c-status">
-  <meta content="Bikeshed version 0ef803fdf, updated Tue Jan 6 11:59:39 2026 -0800" name="generator">
+  <meta content="Bikeshed version d113b2e81, updated Tue Jun 9 14:57:55 2026 -0700" name="generator">
   <link href="https://www.w3.org/TR/w3c-vision/" rel="canonical">
-  <meta content="17a08daca883756d2fe2e9de708823caafd53441" name="revision">
+  <meta content="45680037c62b5f721ada461afe701ddbd8a07aa0" name="revision">
   <meta content="dark light" name="color-scheme">
 <style>/* Boilerplate: style-autolinks */
 .css.css, .property.property, .descriptor.descriptor {
@@ -301,7 +301,7 @@ pre .property::before, pre .property::after {
 </style>
 <style>/* Boilerplate: style-counters */
 body {
-    counter-reset: example figure issue;
+    counter-reset: example figure issue table;
 }
 .issue {
     counter-increment: issue;
@@ -326,6 +326,13 @@ figcaption {
 }
 figcaption:not(.no-marker)::before {
     content: "Figure " counter(figure) " ";
+}
+
+figure.table figcaption {
+    counter-increment: table;
+}
+figure.table figcaption:not(.no-marker)::before {
+    content: "Table " counter(table) " ";
 }
 </style>
 <style>/* Boilerplate: style-issues */
@@ -416,13 +423,13 @@ dfn > a.self-link::before      { content: "#"; }
 </p>
    <h1 class="no-ref p-name" id="title">Vision for W3C</h1>
    <p id="w3c-state"><a href="https://www.w3.org/standards/types/#STMT">W3C Statement</a>,
-    <time class="dt-updated" datetime="2026-04-03">3 April 2026</time></p>
+    <time class="dt-updated" datetime="2026-06-25">25 June 2026</time></p>
    <details open>
     <summary>More details about this document</summary>
     <div data-fill-with="spec-metadata">
      <dl>
       <dt>This version:
-      <dd><a class="u-url" href="https://www.w3.org/TR/2026/STATEMENT-w3c-vision-20260403/">https://www.w3.org/TR/2026/STATEMENT-w3c-vision-20260403/</a>
+      <dd><a class="u-url" href="https://www.w3.org/TR/2026/STATEMENT-w3c-vision-20260625/">https://www.w3.org/TR/2026/STATEMENT-w3c-vision-20260625/</a>
       <dt>Latest published version:
       <dd><a href="https://www.w3.org/TR/w3c-vision/">https://www.w3.org/TR/w3c-vision/</a>
       <dt>Editor's Draft:
@@ -505,7 +512,7 @@ It will continue to evolve, and the AB will issue updates as often as needed.</p
     <li>
      <a href="#references"><span class="secno"></span> <span class="content">References</span></a>
      <ol class="toc">
-      <li><a href="#informative"><span class="secno"></span> <span class="content">Informative References</span></a>
+      <li><a href="#informative"><span class="secno"></span> <span class="content">Non-Normative References</span></a>
      </ol>
    </ol>
   </nav>
@@ -879,7 +886,7 @@ but fit into the same framework and promote many of the same goals.</p>
   </main>
   <script src="https://www.w3.org/scripts/TR/2021/fixup.js"></script>
   <h2 class="heading no-num no-ref settled" id="references"><span class="content">References</span><a class="self-link" href="#references"></a></h2>
-  <h3 class="heading no-num no-ref settled" id="informative"><span class="content">Informative References</span><a class="self-link" href="#informative"></a></h3>
+  <h3 class="heading no-num no-ref settled" id="informative"><span class="content">Non-Normative References</span><a class="self-link" href="#informative"></a></h3>
   <dl>
    <dt id="biblio-design-principles">[DESIGN-PRINCIPLES]
    <dd>Martin Thomson; Jeffrey Yasskin. <a href="https://www.w3.org/TR/design-principles/"><cite>Web Platform Design Principles</cite></a>. 24 February 2026. NOTE. URL: <a href="https://www.w3.org/TR/design-principles/">https://www.w3.org/TR/design-principles/</a>
