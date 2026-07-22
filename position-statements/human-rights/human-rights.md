@@ -71,3 +71,11 @@ Create some kind of activity, possibly as part of the scope of the proposed Inte
 ### Periodic and Transparent Human Rights in W3C Standards Reporting
 
 W3C should issue a public human rights transparency report every year that outlines technical reports, documents, and programs that can help advance human rights. It should also state the W3C’s plans for new documents and programs. In doing so, we should emphasize that the focus is on the standards we produce, and the way we do our work. This report should also include information on already-deployed web technologies.
+
+</section>
+<section class="appendix">
+
+## Acknowledgements
+The AB would like to thank Simone Onofri for his input and feedback on early drafts of this paper.
+
+</section>
