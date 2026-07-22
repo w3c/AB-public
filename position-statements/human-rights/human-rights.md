@@ -50,11 +50,11 @@ The following are concrete proposals for additional structural changes for the W
 
 ### Participation Program for Civil Society Groups
 
-We need to encourage participation of more civil society groups, for example by offering a special category of membership for NGOs that are involved in the promotion of human rights. This could also include allocating funding for participants of such groups to attend Working Group meetings or TPAC.
+We need to encourage participation of more civil society groups, for example by offering a special category of membership for NGOs that are working towards public good. This could also include allocating funding for participants of such groups to attend Working Group meetings or TPAC.
 
-### Human Rights Interest or Community Group
+### Threats and Harms Interest or Community Group
 
-It may be appropriate to create a human rights Interest or Community Group, with an explicit charter to develop documentation around threats and harms. For example: human rights threat modelling, and principles, checklists, or questionnaires that could become part of wide review. A Community Group would have the advantage of open participation and at no cost. This group should have participation from civil society groups.
+It may be appropriate to create a Threats and Harms Interest or Community Group, with an explicit charter to develop documentation around threats and harms related to Human Rights issues. For example: human rights threat modelling, and principles, checklists, or questionnaires that could become part of wide review. A Community Group would have the advantage of open participation and at no cost. This group should have participation from civil society groups.
 
 ### Human Rights / Societal Impact / Ethical Review Process
 
