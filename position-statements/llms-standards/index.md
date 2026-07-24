@@ -36,7 +36,7 @@ New standards work often needs new names. Those names should be easy to understa
 
 In some cases, there are serious risks.
 
-First, there is a possibility of copyright infringement. As LLMs may be trained on copyrighted materials, even well-meaning contributions could create associated liability.
+First, usage of LLMs in the standards process can increase risk of intellectual property infringement in our specifications, including of copyright and of patents. As LLMs may be trained on copyrighted materials, even well-meaning contributions could create associated liability. When it comes to patents, LLM output could also unintentionally infringe on patents, which would conflict with our [aim to develop specifications that can be implemented on a royalty-free basis](https://www.w3.org/policies/patent-policy/#sec-Licensing).
 
 There could also be security risks. Providing Member Confidential information to LLMs could result in data leakage (we suggest particular caution with free products).
 
