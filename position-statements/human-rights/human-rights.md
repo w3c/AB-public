@@ -18,11 +18,12 @@ In October of 2025, the United Nations Office of High Commissioner of Human Righ
 
 The [Ethical Web Principles](https://www.w3.org/TR/ethical-web-principles/), developed by the Technical Architecture Group and subsequently elevated to the status of W3C Statement, states that one goal of the document is to put internationally recognized human rights at the core of the web platform. That wording was also quoted in UN HCHR’s final report. The [W3C Vision](https://www.w3.org/TR/w3c-vision/), developed by the Advisory Board and also subsequently elevated to W3C Statement status, echoes these sentiments by stating that “the web is for all humanity”, that it is designed for the “good of all people,” and that it must be “safe to use.”
 
-W3C as an organization has a strong track record of aligning our work with ethical / human rights goals. Accessibility and internationalization are two long-standing areas where W3C has created a reputation in this space. More recently, there has been work on privacy with the publication as a W3C Statement of the [Privacy Principles](https://www.w3.org/TR/privacy-principles/) and the creation of the [Privacy Working Group](https://www.w3.org/groups/wg/privacy/). Work on [web sustainability](https://www.w3.org/groups/ig/sustainableweb/) and societal impacts are some other burgeoning examples. Also, W3C is a non-profit with a responsibility for public good.
+W3C as an organization has a strong track record of aligning our work with ethical / human rights goals. Accessibility and internationalization are two long-standing areas where W3C has created a reputation in this space. More recently, there has been work on privacy with the publication as a W3C Statement of the [Privacy Principles](https://www.w3.org/TR/privacy-principles/) and the creation of the [Privacy Working Group](https://www.w3.org/groups/wg/privacy/). In some cases, W3C has addressed human rights issues after a technology was already deployed, for example mitigating privacy issues related to the use of the [Geolocation API](https://www.w3.org/TR/geolocation/) by requiring HTTPS. Work on [web sustainability](https://www.w3.org/groups/ig/sustainableweb/) and societal impacts are some other burgeoning examples. Also, W3C is a non-profit with a responsibility for public good.
 
 As the UN reports details, many regulatory and policy initiatives are founded in human rights. It therefore follows that technical standards which are also aligned with human rights will lead to greater alignment with global regulation, leading to easier adoption of W3C standards.
 
 Overall, we need to normalize the linkage between technical standards and human rights and further integrate human rights into our culture and operations.
+
 
 </section>
 
@@ -44,29 +45,25 @@ Some examples of that mapping:
 
 <section id="proposed-activities">
 
-## Proposed Activities
+## Proposed Actions
 
 The following are concrete proposals for additional structural changes for the W3C that could help to further the goal of aligning the technical work program of W3C with the furtherance of Human Rights.
 
 ### Participation Program for Civil Society Groups
 
-We need to encourage participation of more civil society groups, for example by offering a special category of membership for NGOs that are working towards public good. This could also include allocating funding for participants of such groups to attend Working Group meetings or TPAC.
+We need to encourage participation of more civil society groups, for example by lowering barriers to membership for NGOs that are working towards public good. This could also include allocating funding for participants of such groups to attend Working Group meetings or TPAC. We propose exploring this topic jointly between the AB and the Team to come up with a set of concrete proposals.
 
-### Threats and Harms Interest or Community Group
+### Threats and Harms Community Group
 
-It may be appropriate to create a Threats and Harms Interest or Community Group, with an explicit charter to develop documentation around threats and harms related to Human Rights issues. For example: human rights threat modelling, and principles, checklists, or questionnaires that could become part of wide review. A Community Group would have the advantage of open participation and at no cost. This group should have participation from civil society groups.
+It may be appropriate to create a Threats and Harms Community Group, with an explicit charter to develop documentation around threats and harms related to Human Rights issues. For example: human rights threat modelling, and principles, checklists, or questionnaires that could become part of wide review. A Community Group would have the advantage of open participation and at no cost. This group should have participation from civil society groups.
 
 ### Human Rights / Societal Impact / Ethical Review Process
 
-Whatever we call it, human rights-focused review should be integrated into the [wide review process](https://www.w3.org/policies/process/#wide-review) we have in W3C. This should make use of existing consensus documents such as those coming out of TAG and other groups. This process could be integrated into a more robust design review process.
+The [wide review process](https://www.w3.org/policies/process/#wide-review) process of W3C should be expanded by adding more reviews which directly impact the alignment with the human rights. This should make use of existing consensus documents such as those coming out of TAG and other groups, expanding beyond privacy, accessibility, and internationalization into areas such as [societal impact](https://www.w3.org/TR/societal-impact-questionnaire/).
 
 ### Program to Increase Diversity of Participation (and Inclusion) in W3C
 
 A structured program that could include fee waivers, funded fellowships, upskilling initiatives, mentorship, training, and institutional partnerships. The goal is to get more stakeholders involved at all stages, including during charter creation, and to empower groups to address social harms (see “Overcoming barriers to participation and inclusion” in the UN report).
-
-### Monitor Human Rights Considerations for Web Platform Features that have already been Deployed
-
-Create some kind of activity, possibly as part of the scope of the proposed Interest Group, that is tasked with monitoring what happens *after* a technology is already deployed. For example, after the [Geolocation API](https://www.w3.org/TR/geolocation/) was released and deployed in multiple browsers, human rights issues were identified. Subsequently, browsers mitigated some of these issues by requiring HTTPS for this API. We should be tracking this kind of information.
 
 ### Periodic and Transparent Human Rights in W3C Standards Reporting
 
