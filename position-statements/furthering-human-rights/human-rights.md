@@ -20,7 +20,7 @@ The [Ethical Web Principles](https://www.w3.org/TR/ethical-web-principles/), dev
 
 <abbr>W3C</abbr> as an organization has a strong track record of aligning our work with ethical / human rights goals. Accessibility and internationalization are two long-standing areas where <abbr>W3C</abbr> has created a reputation in this space. More recently, there has been work on privacy with the publication as a <abbr>W3C</abbr> Statement of the [Privacy Principles](https://www.w3.org/TR/privacy-principles/) and the creation of the [Privacy Working Group](https://www.w3.org/groups/wg/privacy/). In some cases, <abbr>W3C</abbr> has addressed human rights issues after a technology was already deployed, for example mitigating privacy issues related to the use of the <a href=https://www.w3.org/TR/geolocation/>Geolocation <abbr title="Application Programming Interface">API</abbr></a> by requiring <abbr title="Secure Hypertext Transfer Protocol">HTTPS</abbr>. Work on [web sustainability](https://www.w3.org/groups/ig/sustainableweb/) and societal impacts are some other burgeoning examples. Also, <abbr>W3C</abbr> is a non-profit with a responsibility to operate for the public good.
 
-Other standards developing organizations and related groups have efforts around human rights too, see for instance:
+Other standards developing organizations and related groups have efforts around human rights as well:
 
 * IETF's [Human Rights Protocol Considerations Research Group](https://datatracker.ietf.org/rg/hrpc/about/)
 * INSTAR's [Human Rights Task Force](https://instarstandards.org/task-forces/human-rights)
