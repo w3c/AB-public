@@ -6,7 +6,7 @@ There is a clear link between human rights and technical standards setting. In t
 
 <section id="sotd">
 		
-This document summarizes the Advisory Board’s current thinking, as of <time datetime=2026-07-28>28 July 2026</time>. 
+This document summarizes the Advisory Board’s current thinking, as of <time datetime=2026-08-04>4 August 2026</time>. 
 
 </section>
 
