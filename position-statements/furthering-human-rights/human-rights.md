@@ -55,23 +55,23 @@ Some examples of that mapping:
 
 The following are concrete proposals for additional structural changes for the <abbr>W3C</abbr> that could help to further the goal of aligning the technical work program of <abbr>W3C</abbr> with the furtherance of human rights.
 
-### 5 Periodic and Transparent Human Rights in <abbr>W3C</abbr> Standards Reporting
+### Periodic and Transparent Human Rights in <abbr>W3C</abbr> Standards Reporting
 
 <abbr>W3C</abbr> should issue a public human rights transparency report every year that outlines technical reports, documents, and programs that can help advance human rights. It should also state the <abbr>W3C</abbr>’s plans for new documents and programs. In doing so, we should emphasize that the focus is on the standards we produce, reviews and responses. This report should also include information on already-deployed web technologies.
 
-### 3 Human Rights / Societal Impact / Ethical Review Process
+### Human Rights / Societal Impact / Ethical Review Process
 
 The [wide review process](https://www.w3.org/policies/process/#wide-review) of <abbr>W3C</abbr> should be expanded by adding more reviews which directly impact alignment with human rights. This should make use of existing consensus documents such as those coming out of the <abbr title="Technical Architecture Group">TAG</abbr> and other groups, expanding beyond privacy, accessibility, and internationalization into areas such as [societal impact](https://www.w3.org/TR/societal-impact-questionnaire/).
 
-###  2 Threats and Harms Community Group
+### Threats and Harms Community Group
 
 It may be appropriate to create a Threats and Harms Community Group, with an explicit charter to develop documentation around threats and harms related to human rights issues. For example: human rights threat modelling, and principles, checklists, or questionnaires that could become part of wide review. A Community Group would have the advantage of open participation at no cost. This group should have participation from civil society groups.
 
-### 4 Program to Increase Diversity of Participation (and Inclusion) in <abbr>W3C</abbr>
+### Program to Increase Diversity of Participation (and Inclusion) in <abbr>W3C</abbr>
 
 A structured program that could include fee waivers, funded fellowships, upskilling initiatives, mentorship, training, and institutional partnerships. The goal is to get more stakeholders involved at all stages, including during charter creation, and to empower groups to address social harms (see “Overcoming barriers to participation and inclusion” in the <abbr>UN</abbr> report).
 
-### 1 Participation Program for Civil Society Groups
+### Participation Program for Civil Society Groups
 
 We need to encourage the participation of more civil society groups, for example by lowering barriers to membership for <abbr title="Non-Governmental Organizations">NGOs</abbr> that are working towards the public good. This could also include allocating funding for participants of such groups to attend Working Group meetings or <abbr title="Technical Plenary and Advisory Committee">TPAC</abbr>. We propose exploring this topic jointly between the <abbr title="Advisory Board">AB</abbr> and the Team to come up with a set of concrete proposals.
 
