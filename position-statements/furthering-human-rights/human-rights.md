@@ -76,9 +76,4 @@ A structured program that could include fee waivers, funded fellowships, upskill
 We need to encourage the participation of more civil society groups, for example by lowering barriers to membership for <abbr title="Non-Governmental Organizations">NGOs</abbr> that are working towards the public good. This could also include allocating funding for participants of such groups to attend Working Group meetings or <abbr title="Technical Plenary and Advisory Committee">TPAC</abbr>. We propose exploring this topic jointly between the <abbr title="Advisory Board">AB</abbr> and the Team to come up with a set of concrete proposals.
 
 </section>
-<section class="appendix">
 
-## Acknowledgements
-The <abbr>AB</abbr> would like to thank Simone Onofri for his input and feedback on early drafts of this paper.
-
-</section>
