@@ -30,12 +30,12 @@ Overall, we need to normalize the linkage between technical standards and human 
 
 ## Examples of Specific Human Rights Mappings
 
-The relationship between human rights and web standards is not only abstract. Many standards produced at <abbr>W3C</abbr> map directly to specific human rights as outlined in the [Universal Declaration of Human Rights](https://www.ohchr.org/en/human-rights/universal-declaration/translations/english).
+The relationship between human rights and web standards is not only abstract. Many standards produced at <abbr>W3C</abbr> are related to specific human rights as outlined in the [Universal Declaration of Human Rights](https://www.ohchr.org/en/human-rights/universal-declaration/translations/english).
 
 Some examples of that mapping:
 
 * Article 3, “Everyone has the right to life, liberty and the security of person”, is related to security and identity.
-* Article 5, “no one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment”, and Article 12, “No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence…”, are directly related to web privacy, which is addressed in the [Privacy Principles](https://www.w3.org/TR/privacy-principles/). Specifications in the area are being developed in the [Privacy Working Group](https://www.w3.org/groups/wg/privacy/).
+* Article 5, “no one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment”, and Article 12, “No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence…”, are related to web privacy, which is addressed in the [Privacy Principles](https://www.w3.org/TR/privacy-principles/). Specifications in the area are being developed in the [Privacy Working Group](https://www.w3.org/groups/wg/privacy/).
 * Article 19, “Everyone has the right to freedom of opinion and expression” is related to web privacy (“holding opinions without interference”), to the “one web” principle (“receive and impart information … regardless of frontiers”), to [accessibility of authoring](https://www.w3.org/TR/ATAG20/), and to open protocols to publish on the web (<a href=https://www.w3.org/TR/html/><abbr title="Hypertext Markup Language">HTML</abbr></a>, <abbr title="Hypertext Transfer Protocol">HTTP</abbr>, [ActivityPub](https://www.w3.org/TR/activitypub/)). While not all of these specifications are developed at <abbr>W3C</abbr>, <abbr>W3C</abbr> can still play a role in raising human rights requirements.
 * Article 20, “Everyone has the right to freedom of peaceful assembly and association.”, is related to web privacy since lack of privacy (surveillance) can have a chilling effect on association.
 * Article 21, “Everyone has the right to take part in the government…”, is related to accessibility and internationalization, as many interactions between citizens and governments are mediated via the web.
@@ -66,7 +66,7 @@ A structured program that could include fee waivers, funded fellowships, upskill
 
 ### Periodic and Transparent Human Rights in <abbr>W3C</abbr> Standards Reporting
 
-<abbr>W3C</abbr> should issue a public human rights transparency report every year that outlines technical reports, documents, and programs that can help advance human rights. It should also state the <abbr>W3C</abbr>’s plans for new documents and programs. In doing so, we should emphasize that the focus is on the standards we produce, and the way we do our work. This report should also include information on already-deployed web technologies.
+<abbr>W3C</abbr> should issue a public human rights transparency report every year that outlines technical reports, documents, and programs that can help advance human rights. It should also state the <abbr>W3C</abbr>’s plans for new documents and programs. In doing so, we should emphasize that the focus is on the standards we produce, reviews and responses. This report should also include information on already-deployed web technologies.
 
 </section>
 <section class="appendix">
