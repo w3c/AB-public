@@ -20,6 +20,13 @@ The [Ethical Web Principles](https://www.w3.org/TR/ethical-web-principles/), dev
 
 <abbr>W3C</abbr> as an organization has a strong track record of aligning our work with ethical / human rights goals. Accessibility and internationalization are two long-standing areas where <abbr>W3C</abbr> has created a reputation in this space. More recently, there has been work on privacy with the publication as a <abbr>W3C</abbr> Statement of the [Privacy Principles](https://www.w3.org/TR/privacy-principles/) and the creation of the [Privacy Working Group](https://www.w3.org/groups/wg/privacy/). In some cases, <abbr>W3C</abbr> has addressed human rights issues after a technology was already deployed, for example mitigating privacy issues related to the use of the <a href=https://www.w3.org/TR/geolocation/>Geolocation <abbr title="Application Programming Interface">API</abbr></a> by requiring <abbr title="Secure Hypertext Transfer Protocol">HTTPS</abbr>. Work on [web sustainability](https://www.w3.org/groups/ig/sustainableweb/) and societal impacts are some other burgeoning examples. Also, <abbr>W3C</abbr> is a non-profit with a responsibility to operate for the public good.
 
+Other standards developing organizations have efforts around human rights too, see for instance:
+
+* IETF's [Human Rights Protocol Considerations Research Group](https://datatracker.ietf.org/rg/hrpc/about/)
+* INSTAR's [Human Rights Task Force](https://instarstandards.org/task-forces/human-rights)
+* IEEE's [page on human rights](https://technav.ieee.org/topic/human-rights/)
+* ITU-T TSAG's [TSB activities about Human Rights and Standards](https://www.itu.int/md/T22-TSAG-240122-TD-GEN-0441/en)
+
 As the <abbr title="United Nations">UN</abbr> report details, many regulatory and policy initiatives are founded in human rights. It therefore follows that technical standards which are also aligned with human rights will lead to greater alignment with global regulation, leading to easier adoption of <abbr>W3C</abbr> standards.
 
 Overall, we need to normalize the linkage between technical standards and human rights and further integrate human rights into our culture and operations.
