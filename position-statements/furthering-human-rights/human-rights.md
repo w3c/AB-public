@@ -24,7 +24,7 @@ Other standards developing organizations and related groups have efforts around 
 
 * IETF's [Human Rights Protocol Considerations Research Group](https://datatracker.ietf.org/rg/hrpc/about/)
 * INSTAR's [Human Rights Task Force](https://instarstandards.org/task-forces/human-rights)
-* IEEE's [page on human rights](https://technav.ieee.org/topic/human-rights/)
+* IEEE's [page on Human Rights](https://technav.ieee.org/topic/human-rights/)
 * ITU-T TSAG's [TSB activities about Human Rights and Standards](https://www.itu.int/md/T22-TSAG-240122-TD-GEN-0441/en)
 
 As the <abbr title="United Nations">UN</abbr> report details, many regulatory and policy initiatives are founded in human rights. It therefore follows that technical standards which are also aligned with human rights will lead to greater alignment with global regulation, leading to easier adoption of <abbr>W3C</abbr> standards.
