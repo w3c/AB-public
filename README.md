@@ -8,10 +8,12 @@ The source of the Vision and Principles work is at [https://github.com/w3c/AB-pu
 * Vision for W3C: [https://w3c.github.io/AB-public/Vision](https://w3c.github.io/AB-public/Vision)
 * W3C Glossary: [https://w3c.github.io/AB-public/Glossary](https://w3c.github.io/AB-public/Glossary)
 * Use of Large Language Models in Standards Work: [https://w3c.github.io/AB-public/position-statements/llms-standards/](https://w3c.github.io/AB-public/position-statements/llms-standards/)
+* Further Aligning W3C's Program of Technical Work with Human Rights: [https://w3c.github.io/AB-public/position-statements/furthering-human-rights/]
 
 ## Latest Published Draft
 * Vision for W3C: [https://www.w3.org/TR/w3c-vision/](https://www.w3.org/TR/w3c-vision/)
 * Use of Large Language Models in Standards Work: [https://www.w3.org/TR/llms-standards/](https://www.w3.org/TR/llms-standards/)
+* Further Aligning W3C's Program of Technical Work with Human Rights: [https://www.w3.org/TR/furthering-human-rights/]
 
 ## Goals And Workmodes
 * Vision Task Force goals & workmode: [https://www.w3.org/wiki/AB/VisionTF](https://www.w3.org/wiki/AB/VisionTF)
