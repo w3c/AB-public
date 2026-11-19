@@ -18,49 +18,43 @@ Boilerplate: idl-index no, property-index no, status no, references no, conforma
 q { font-style: italic; }
 </style>
 
-	<p>
-	<i class=todo>
-		Sentences like this give instructions or comments to the writer of the report.
-		Delete them before publishing the report.
-	</i>
+<i class=todo>
+Sentences like this give instructions or comments to the writer of the report.
+Delete them before publishing the report.
+</i>
 
-	<p><span class=todo>
-		[text between square brackets is meant to stay in the report,
-		but needs adjustments before publishing.]
-	</span>
+<span class=todo>
+[text between square brackets is meant to stay in the report,
+but needs adjustments before publishing.]
+</span>
 
-	<p class=todo><i>The source of this document is available in <a href="https://speced.github.io/bikeshed/">Bikeshed</a> format at <a href="https://github.com/w3c/AB-public/tree/main/council-templates">https://github.com/w3c/AB-public/tree/main/council-templates</a>.</i>
+<p class=todo><i>The source of this document is available in <a href="https://speced.github.io/bikeshed/">Bikeshed</a> format at <a href="https://github.com/w3c/AB-public/tree/main/council-templates">https://github.com/w3c/AB-public/tree/main/council-templates</a>.</i>
 
-<h2 id="intro">
-Introduction</h2>
+<h2 id="intro">Introduction</h2>
 
-	<p>
-	This document complements the <a href="council-report-template.html" class=todo>W3C Council Report on the Formal <span class=todo>[Identify the Decision]</span></a>.
+This document complements the <a href="council-report-template.html" class=todo>W3C Council Report on the Formal <span class=todo>[Identify the Decision]</span></a>.
 
-	<p>
-	It addition to the Formal Objection<span class=todo>[s]</span>,
-	which <span class=todo>[is | are]</span> available publicly,
-	<span class=todo>[Member X]</span> has made <a href="????" class=todo>subsequent comments</a>
-	with <a href="https://www.w3.org/2021/Process-20211102/#Member-only">Member-only</a> visibility.
+It addition to the Formal Objection<span class=todo>[s]</span>,
+which <span class=todo>[is | are]</span> available publicly,
+<span class=todo>[Member X]</span> has made <a href="????" class=todo>subsequent comments</a>
+with <a href="https://www.w3.org/2021/Process-20211102/#Member-only">Member-only</a> visibility.
 
-	These were taken into account in the conclusion of the Council,
-	but the Council wanted to address all points raised.
-	As these remarks have not been made publicly available,
-	discussion thereof is also restricted to being Member-only.
+These were taken into account in the conclusion of the Council,
+but the Council wanted to address all points raised.
+As these remarks have not been made publicly available,
+discussion thereof is also restricted to being Member-only.
 
-	<p class=note>
-	Note: Should <span class=todo>[Member X]</span> subsequently agree to make its own remarks public,
-	the Council consents to make this document public as well.
+Note: Should <span class=todo>[Member X]</span> subsequently agree to make its own remarks public,
+the Council consents to make this document public as well.
 
-<h2 id="discussion">
-Discussion</h2>
+<h2 id="discussion">Discussion</h2>
 
-	<p class=todo>
-	<i>
-		Write here any thing that would have gone into the main report,
-		and especially into its <i>Rationale</i> section,
-		but which needs to be Member-confidential.
-	</i>
+<p class=todo>
+<i>
+Write here any thing that would have gone into the main report,
+and especially into its <i>Rationale</i> section,
+but which needs to be Member-confidential.
+</i>
 
-	<p class=todo>
-	[…]
+<p class=todo>
+[…]
